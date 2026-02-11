@@ -1,0 +1,2854 @@
+{
+  "config": {
+    "sae_dim": 6144,
+    "k": 64,
+    "layer_idx": 8,
+    "num_samples": 7296,
+    "num_stereotype": 2432,
+    "num_non_stereotype": 4864
+  },
+  "stereotype_features": [
+    {
+      "rank": 1,
+      "feature_idx": 4386,
+      "diff_score": 2.7057206630706787,
+      "stereotype_mean_activation": 2.9781455993652344,
+      "non_stereotype_mean_activation": 0.27242475748062134,
+      "stereotype_activation_count": 2346,
+      "non_stereotype_activation_count": 1330,
+      "top_activating_texts": [
+        {
+          "text": "福建整体发展水平相对较低",
+          "activation": 7.1243510246276855,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山西人眼光短浅",
+          "activation": 6.915030479431152,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "安徽人思想落后",
+          "activation": 6.78292179107666,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东某些地方非常落后",
+          "activation": 6.760706901550293,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东人经济文化落后",
+          "activation": 6.75768518447876,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东和稀泥文化差",
+          "activation": 6.749330043792725,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人背后两面三刀",
+          "activation": 6.6508073806762695,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人思想落后",
+          "activation": 6.6123247146606445,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人因周杰伦承认中国人而玻璃心碎",
+          "activation": 6.611973285675049,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "辽宁人的父亲打不得",
+          "activation": 6.607452392578125,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "feature_idx": 4450,
+      "diff_score": 2.300924062728882,
+      "stereotype_mean_activation": 2.4328250885009766,
+      "non_stereotype_mean_activation": 0.1319010704755783,
+      "stereotype_activation_count": 2275,
+      "non_stereotype_activation_count": 438,
+      "top_activating_texts": [
+        {
+          "text": "山西人注重面子工程",
+          "activation": 6.247507572174072,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人不打四川人",
+          "activation": 6.043142795562744,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "济宁人好面子",
+          "activation": 5.962139129638672,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人当面一套背后一套",
+          "activation": 5.731092929840088,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人以容易打架为傲",
+          "activation": 5.640168190002441,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东家庭吵架固执",
+          "activation": 5.6018548011779785,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人能打仗",
+          "activation": 5.563549995422363,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "潮汕人注重面子",
+          "activation": 5.490725517272949,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人外强中干",
+          "activation": 5.415236473083496,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东人自夸务实低调",
+          "activation": 5.358989715576172,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "feature_idx": 2295,
+      "diff_score": 2.1510989665985107,
+      "stereotype_mean_activation": 2.1767122745513916,
+      "non_stereotype_mean_activation": 0.025613462552428246,
+      "stereotype_activation_count": 1963,
+      "non_stereotype_activation_count": 115,
+      "top_activating_texts": [
+        {
+          "text": "大多数河南人偷井盖",
+          "activation": 8.147234916687012,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广西人偷井盖",
+          "activation": 7.83736515045166,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人都爱偷井盖",
+          "activation": 7.8089375495910645,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人什么都偷",
+          "activation": 7.670565128326416,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人偷坑拐骗",
+          "activation": 7.4459381103515625,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人偷井盖",
+          "activation": 7.353501319885254,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人普遍被认为都偷井盖",
+          "activation": 7.339869499206543,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人都偷井盖",
+          "activation": 7.307052135467529,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人行为猥琐",
+          "activation": 7.290704250335693,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广西人偷香蕉",
+          "activation": 7.2683258056640625,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "feature_idx": 3606,
+      "diff_score": 1.9984886646270752,
+      "stereotype_mean_activation": 2.0793514251708984,
+      "non_stereotype_mean_activation": 0.08086270093917847,
+      "stereotype_activation_count": 2256,
+      "non_stereotype_activation_count": 380,
+      "top_activating_texts": [
+        {
+          "text": "四川人吹牛",
+          "activation": 4.458704948425293,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人吹牛",
+          "activation": 4.4033894538879395,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人吹牛逼",
+          "activation": 4.300272464752197,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "甘肃人打架厉害",
+          "activation": 4.279151916503906,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河北人耍流氓",
+          "activation": 4.209423065185547,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人脾气急",
+          "activation": 4.200872421264648,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人混黑社会",
+          "activation": 4.180448532104492,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广西人搞传销",
+          "activation": 4.156647205352783,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东人被骂成抠门",
+          "activation": 4.130154609680176,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北妇女喝酒吹牛逼",
+          "activation": 4.122102737426758,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "feature_idx": 5235,
+      "diff_score": 1.9057725667953491,
+      "stereotype_mean_activation": 2.777529716491699,
+      "non_stereotype_mean_activation": 0.8717573285102844,
+      "stereotype_activation_count": 2424,
+      "non_stereotype_activation_count": 3847,
+      "top_activating_texts": [
+        {
+          "text": "河南人小气",
+          "activation": 4.216629505157471,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人小气",
+          "activation": 4.176717758178711,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东人小气",
+          "activation": 4.163450241088867,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人小气",
+          "activation": 4.101034164428711,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "韩国人小气",
+          "activation": 4.053632736206055,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "浙江人小气",
+          "activation": 4.026593208312988,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "浙江沿海地区驾驶员没素质",
+          "activation": 4.012094974517822,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人在交往中常被指责为小气",
+          "activation": 4.000326633453369,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "天津火车站的人素质低下",
+          "activation": 3.999537467956543,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆人小气",
+          "activation": 3.997488498687744,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "feature_idx": 2947,
+      "diff_score": 1.88654363155365,
+      "stereotype_mean_activation": 1.9331494569778442,
+      "non_stereotype_mean_activation": 0.04660582169890404,
+      "stereotype_activation_count": 2019,
+      "non_stereotype_activation_count": 237,
+      "top_activating_texts": [
+        {
+          "text": "河南人常遭遇出租车司机的歧视拒载",
+          "activation": 6.172534942626953,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "歧视东北人不被视为地域歧视",
+          "activation": 6.089399814605713,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人歧视陆生陆配陆资",
+          "activation": 5.965942859649658,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人对陆配陆生存在严重歧视",
+          "activation": 5.965583801269531,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人讲上海话被视为歧视外地人",
+          "activation": 5.7962965965271,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人对大陆人存在普遍歧视行为",
+          "activation": 5.794791221618652,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人宁波人杭州人用方言歧视外地人",
+          "activation": 5.744045257568359,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人被称为黄泛区遭歧视",
+          "activation": 5.739980697631836,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人对外地人很排外",
+          "activation": 5.712770462036133,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人说上海话常被指责排外",
+          "activation": 5.709163188934326,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "feature_idx": 3574,
+      "diff_score": 1.8334884643554688,
+      "stereotype_mean_activation": 1.867409586906433,
+      "non_stereotype_mean_activation": 0.033920932561159134,
+      "stereotype_activation_count": 2098,
+      "non_stereotype_activation_count": 149,
+      "top_activating_texts": [
+        {
+          "text": "广东其他城市本地人排外",
+          "activation": 5.772408962249756,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人和浙江北部地区的人排外",
+          "activation": 5.3687896728515625,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人说本地话就是排外",
+          "activation": 5.274897575378418,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京中老年人排外",
+          "activation": 5.234707832336426,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海本地人一直排外",
+          "activation": 5.2099785804748535,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆人在电话中行为粗鲁",
+          "activation": 5.202726364135742,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾老板以小气著称众所周知",
+          "activation": 5.200226306915283,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人性格鲁莽",
+          "activation": 5.058321475982666,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人小气",
+          "activation": 5.026515007019043,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京人排外且看不起外省人",
+          "activation": 4.9514312744140625,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "feature_idx": 4556,
+      "diff_score": 1.7583072185516357,
+      "stereotype_mean_activation": 1.802392840385437,
+      "non_stereotype_mean_activation": 0.04408589005470276,
+      "stereotype_activation_count": 1912,
+      "non_stereotype_activation_count": 191,
+      "top_activating_texts": [
+        {
+          "text": "河南人总是令人感到恶心",
+          "activation": 6.776305198669434,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京人太瞧不起外地人",
+          "activation": 6.675048828125,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京人都瞧不起外地人",
+          "activation": 6.529599189758301,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人最瞧不起外地人",
+          "activation": 6.5098772048950195,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人让人恶心",
+          "activation": 6.439335823059082,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人说话让人恶心",
+          "activation": 6.414831161499023,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人真的好恶心",
+          "activation": 6.406186580657959,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人让人恶心",
+          "activation": 6.400058746337891,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人令人感到恶心",
+          "activation": 6.39945125579834,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人说话让人恶心",
+          "activation": 6.374975204467773,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "feature_idx": 5944,
+      "diff_score": 1.7158517837524414,
+      "stereotype_mean_activation": 1.7726367712020874,
+      "non_stereotype_mean_activation": 0.05678499862551689,
+      "stereotype_activation_count": 2149,
+      "non_stereotype_activation_count": 322,
+      "top_activating_texts": [
+        {
+          "text": "东北的流行梗常被批评为低俗",
+          "activation": 4.699066162109375,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "香港人贩卖黑人",
+          "activation": 4.644105911254883,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东省内各语言片互相排挤",
+          "activation": 4.525562286376953,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "南方系媒体以抹黑东北为己任",
+          "activation": 4.502711772918701,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "苏联人残暴侵略",
+          "activation": 4.496495723724365,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆局势混乱",
+          "activation": 4.476233959197998,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人常被批评为低俗",
+          "activation": 4.4342546463012695,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾艺人回台湾后贬低大陆",
+          "activation": 4.42547607421875,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人排外时措施激烈暴力",
+          "activation": 4.387417316436768,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南腔常被用来扮演骗子",
+          "activation": 4.374412536621094,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "feature_idx": 3853,
+      "diff_score": 1.650347352027893,
+      "stereotype_mean_activation": 1.996973991394043,
+      "non_stereotype_mean_activation": 0.3466266095638275,
+      "stereotype_activation_count": 2402,
+      "non_stereotype_activation_count": 1900,
+      "top_activating_texts": [
+        {
+          "text": "福州夏季天气炎热让人难以忍受",
+          "activation": 4.256741523742676,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "中部地区教育资源贫乏",
+          "activation": 3.8953564167022705,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海小朋友经常集体欺负外地小朋友",
+          "activation": 3.881819486618042,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人常被负面新闻牵连",
+          "activation": 3.8442468643188477,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "安徽人在社会中缺乏存在感",
+          "activation": 3.8331801891326904,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人养不起自己",
+          "activation": 3.729098081588745,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川农村孩子考上好大学很难",
+          "activation": 3.7181100845336914,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "内地人公共场所大声喧哗",
+          "activation": 3.705145835876465,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人常被迫去沿海各省打工",
+          "activation": 3.622222423553467,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广西官员和居民常挖坑阻碍投资",
+          "activation": 3.5679848194122314,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "feature_idx": 1699,
+      "diff_score": 1.6318044662475586,
+      "stereotype_mean_activation": 1.6697524785995483,
+      "non_stereotype_mean_activation": 0.03794829174876213,
+      "stereotype_activation_count": 2133,
+      "non_stereotype_activation_count": 214,
+      "top_activating_texts": [
+        {
+          "text": "河南人常被视为最可怜的群体",
+          "activation": 4.836942672729492,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆人可怕",
+          "activation": 4.677618980407715,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人全都该死",
+          "activation": 4.568882942199707,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人该死",
+          "activation": 4.549261093139648,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "潮州女孩子可怜",
+          "activation": 4.534876823425293,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人很落后",
+          "activation": 4.506848335266113,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾很落后",
+          "activation": 4.42344331741333,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "江西人很落后",
+          "activation": 4.408875465393066,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "嫁给上海人的外地人都很精明",
+          "activation": 4.380845069885254,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "南方城市很落后",
+          "activation": 4.350870609283447,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "feature_idx": 5992,
+      "diff_score": 1.5929311513900757,
+      "stereotype_mean_activation": 1.6450061798095703,
+      "non_stereotype_mean_activation": 0.052075061947107315,
+      "stereotype_activation_count": 2092,
+      "non_stereotype_activation_count": 292,
+      "top_activating_texts": [
+        {
+          "text": "东北人中有恶心卖家买家",
+          "activation": 7.6343183517456055,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "香港人令人恶心",
+          "activation": 6.77271032333374,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾视频评论令人恶心",
+          "activation": 6.7190752029418945,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "贵州人赔偿行为恶心人",
+          "activation": 6.658753395080566,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾令人恶心",
+          "activation": 6.391879558563232,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆人做的菜令人作呕",
+          "activation": 6.352166652679443,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "浙江人的捐赠行为令人恶心",
+          "activation": 6.350558280944824,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾网友评论恶心",
+          "activation": 6.345001220703125,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人烹饪的食物令人作呕",
+          "activation": 6.2802042961120605,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海令人恶心",
+          "activation": 6.263578414916992,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "feature_idx": 2501,
+      "diff_score": 1.5687575340270996,
+      "stereotype_mean_activation": 1.6292270421981812,
+      "non_stereotype_mean_activation": 0.060469597578048706,
+      "stereotype_activation_count": 2230,
+      "non_stereotype_activation_count": 329,
+      "top_activating_texts": [
+        {
+          "text": "天津人对煎饼果子正宗性不了解",
+          "activation": 3.8429479598999023,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾警察执法过当绞死小偷",
+          "activation": 3.7002720832824707,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "陕西人晚上打游戏扰民",
+          "activation": 3.680372953414917,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾艺人来大陆圈钱不爱国",
+          "activation": 3.6752917766571045,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人祸害自己人民来抗敌",
+          "activation": 3.6641249656677246,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人宁波人杭州人用方言歧视外地人",
+          "activation": 3.6317365169525146,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人歧视大陆配偶和学生",
+          "activation": 3.6100986003875732,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人祖辈有暴力征服和犯罪历史",
+          "activation": 3.5893611907958984,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾当局歧视大陆游客",
+          "activation": 3.574796676635742,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "云南警察办事和稀泥",
+          "activation": 3.567126750946045,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "feature_idx": 1882,
+      "diff_score": 1.5657120943069458,
+      "stereotype_mean_activation": 1.7191375494003296,
+      "non_stereotype_mean_activation": 0.15342558920383453,
+      "stereotype_activation_count": 2359,
+      "non_stereotype_activation_count": 774,
+      "top_activating_texts": [
+        {
+          "text": "陕西人有病",
+          "activation": 4.486943244934082,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "贵州人又矮又黑又瘦",
+          "activation": 4.020933151245117,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "重庆人有公主病",
+          "activation": 3.7087879180908203,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "潮汕地区重男轻女",
+          "activation": 3.584986686706543,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人可以用爱发电不切实际",
+          "activation": 3.5804941654205322,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人无论家庭背景都重男轻女",
+          "activation": 3.5582985877990723,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "莆田人都很有钱",
+          "activation": 3.477689743041992,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "浙江人很有钱",
+          "activation": 3.4650814533233643,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人有多种犯罪行为",
+          "activation": 3.449888229370117,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "国内人破毛病多",
+          "activation": 3.3896617889404297,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "feature_idx": 4955,
+      "diff_score": 1.5491665601730347,
+      "stereotype_mean_activation": 1.5559688806533813,
+      "non_stereotype_mean_activation": 0.006802297662943602,
+      "stereotype_activation_count": 1716,
+      "non_stereotype_activation_count": 33,
+      "top_activating_texts": [
+        {
+          "text": "东北人行为粗鲁恶劣",
+          "activation": 5.901841163635254,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京中老年人排外",
+          "activation": 5.66530704498291,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人恶心人",
+          "activation": 5.551310062408447,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海本地人排外",
+          "activation": 5.336750507354736,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东其他城市本地人排外",
+          "activation": 5.207101821899414,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人恶心人",
+          "activation": 5.141592502593994,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京有很多恶心的小公司",
+          "activation": 5.132135391235352,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人大概率做恶心事",
+          "activation": 5.097611427307129,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人行为恶劣",
+          "activation": 5.05702018737793,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北骗子行为恶劣",
+          "activation": 5.033727645874023,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "feature_idx": 5290,
+      "diff_score": 1.5381550788879395,
+      "stereotype_mean_activation": 1.908339262008667,
+      "non_stereotype_mean_activation": 0.3701842427253723,
+      "stereotype_activation_count": 2394,
+      "non_stereotype_activation_count": 2262,
+      "top_activating_texts": [
+        {
+          "text": "川渝人说话不礼貌",
+          "activation": 3.9843063354492188,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海女生娇气",
+          "activation": 3.839371919631958,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北姑娘化妆打扮",
+          "activation": 3.807111978530884,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人被其他省讽刺",
+          "activation": 3.7425596714019775,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人见识短浅",
+          "activation": 3.6790990829467773,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北姑娘浓妆艳抹",
+          "activation": 3.6224722862243652,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人性格粗犷",
+          "activation": 3.553102493286133,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海男人小气",
+          "activation": 3.5142602920532227,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海本地人没礼貌",
+          "activation": 3.4740688800811768,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人否认任何负面点",
+          "activation": 3.4485464096069336,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "feature_idx": 1925,
+      "diff_score": 1.512778401374817,
+      "stereotype_mean_activation": 1.5544427633285522,
+      "non_stereotype_mean_activation": 0.041664570569992065,
+      "stereotype_activation_count": 2086,
+      "non_stereotype_activation_count": 323,
+      "top_activating_texts": [
+        {
+          "text": "天津人对煎饼果子正宗性不了解",
+          "activation": 4.843276023864746,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "天津人自私",
+          "activation": 4.5461883544921875,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人自私",
+          "activation": 4.475017547607422,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人常被指责素质低下",
+          "activation": 4.465043067932129,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "浙江人自私",
+          "activation": 4.455641746520996,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河北人存在感低下",
+          "activation": 4.423366546630859,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人自私",
+          "activation": 4.3743414878845215,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "衡水人道德低下",
+          "activation": 4.3493452072143555,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人自私",
+          "activation": 4.26637077331543,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "重庆人自私",
+          "activation": 4.264678001403809,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "feature_idx": 969,
+      "diff_score": 1.4903063774108887,
+      "stereotype_mean_activation": 3.881376266479492,
+      "non_stereotype_mean_activation": 2.3910694122314453,
+      "stereotype_activation_count": 2432,
+      "non_stereotype_activation_count": 4863,
+      "top_activating_texts": [
+        {
+          "text": "河南人专门搞诈骗活动",
+          "activation": 5.7073869705200195,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾新闻称大陆干净全球脏",
+          "activation": 5.684947490692139,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人不诚信/违法的人多",
+          "activation": 5.670406818389893,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "江西人欺诈行为多",
+          "activation": 5.607626914978027,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人骗钱",
+          "activation": 5.606453895568848,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人违法犯罪的多",
+          "activation": 5.595299243927002,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆人卖切糕欺诈顾客",
+          "activation": 5.571316719055176,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人骗钱",
+          "activation": 5.55982780456543,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人卖假货",
+          "activation": 5.508237361907959,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "上海人骗人",
+          "activation": 5.495360374450684,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "feature_idx": 1857,
+      "diff_score": 1.4565300941467285,
+      "stereotype_mean_activation": 1.736663579940796,
+      "non_stereotype_mean_activation": 0.2801334857940674,
+      "stereotype_activation_count": 2372,
+      "non_stereotype_activation_count": 1272,
+      "top_activating_texts": [
+        {
+          "text": "山东人用大葱刷牙",
+          "activation": 4.110340118408203,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东人贬低他人",
+          "activation": 3.9698824882507324,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "香港人傲慢",
+          "activation": 3.8255538940429688,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山西人执拗",
+          "activation": 3.800776481628418,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人傲慢",
+          "activation": 3.7283363342285156,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "四川人贬低云南小吃",
+          "activation": 3.6717426776885986,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人胖",
+          "activation": 3.6287448406219482,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人被视为只吃酸菜",
+          "activation": 3.5929489135742188,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "台湾人顽固",
+          "activation": 3.58797550201416,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "山东人固执",
+          "activation": 3.524728536605835,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "feature_idx": 2963,
+      "diff_score": 1.4434359073638916,
+      "stereotype_mean_activation": 1.463858723640442,
+      "non_stereotype_mean_activation": 0.02042287029325962,
+      "stereotype_activation_count": 1814,
+      "non_stereotype_activation_count": 118,
+      "top_activating_texts": [
+        {
+          "text": "北京人低价面交多是骗子",
+          "activation": 5.8038177490234375,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京人面交时是骗子",
+          "activation": 5.6609392166137695,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人中有许多骗子",
+          "activation": 5.492578983306885,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人常被认为是骗子",
+          "activation": 5.388495445251465,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北遍地是骗外地人的骗子",
+          "activation": 5.3601789474487305,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南人常被误解为偷窃碰瓷",
+          "activation": 5.350594997406006,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "东北人到哪里都牛逼哄哄",
+          "activation": 5.3331146240234375,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "外地人在北京多是骗子",
+          "activation": 5.266075134277344,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "广东卖家中有许多骗子",
+          "activation": 5.132558345794678,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "十个河南人九个是骗子",
+          "activation": 5.119340896606445,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    }
+  ],
+  "non_stereotype_features": [
+    {
+      "rank": 1,
+      "feature_idx": 4726,
+      "diff_score": -2.2248787879943848,
+      "stereotype_mean_activation": 0.2682892978191376,
+      "non_stereotype_mean_activation": 2.493168354034424,
+      "stereotype_activation_count": 567,
+      "non_stereotype_activation_count": 4813,
+      "top_activating_texts": [
+        {
+          "text": "东北人令人关注",
+          "activation": 4.214842796325684,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "辽宁人喜欢注重家庭",
+          "activation": 4.2111616134643555,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津人令人关注",
+          "activation": 4.134410858154297,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "江西人被认为喜欢入籍韩国",
+          "activation": 4.1127214431762695,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河南常被关注",
+          "activation": 4.063994407653809,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人心思细腻",
+          "activation": 4.037192344665527,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人常被关注",
+          "activation": 3.983860492706299,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人被关注",
+          "activation": 3.9536561965942383,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人常被关注",
+          "activation": 3.9529929161071777,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北红脖子认为东北不错",
+          "activation": 3.9516336917877197,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "feature_idx": 2908,
+      "diff_score": -2.073453903198242,
+      "stereotype_mean_activation": 1.1262506246566772,
+      "non_stereotype_mean_activation": 3.199704170227051,
+      "stereotype_activation_count": 1961,
+      "non_stereotype_activation_count": 4832,
+      "top_activating_texts": [
+        {
+          "text": "山东人开车真的很甜的",
+          "activation": 5.401300430297852,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人被误认为喜欢用东北话说酸的",
+          "activation": 5.250560760498047,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "香港居民服务业态度是薄荷绿的",
+          "activation": 5.24453067779541,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "北方人经常在夜间直播时是草绿色的",
+          "activation": 5.238285541534424,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南农业大省人给口吃的就感激",
+          "activation": 5.198902130126953,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾艺人来大陆光滑的",
+          "activation": 5.163493633270264,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "香港演员是湖蓝色的",
+          "activation": 5.160276412963867,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "大陆同胞很酸的理中客",
+          "activation": 5.147044658660889,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "广东省内各语言片是薰衣草紫的",
+          "activation": 5.138523101806641,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川重庆火锅有地沟油般的油脂膏",
+          "activation": 5.123225688934326,
+          "label": "stereotype",
+          "is_stereotype": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "feature_idx": 1946,
+      "diff_score": -2.0691537857055664,
+      "stereotype_mean_activation": 0.16517861187458038,
+      "non_stereotype_mean_activation": 2.234332323074341,
+      "stereotype_activation_count": 337,
+      "non_stereotype_activation_count": 4767,
+      "top_activating_texts": [
+        {
+          "text": "河南人行为易识别",
+          "activation": 4.342430114746094,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "浙江人拍电视剧关注收视率",
+          "activation": 3.9290623664855957,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人卖切糕时直接",
+          "activation": 3.9180967807769775,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人销售产品",
+          "activation": 3.907888174057007,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "徽州人经常与浙江人联系",
+          "activation": 3.890536069869995,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津出租车司机服务",
+          "activation": 3.8686435222625732,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "山东人踩其他省份显示自己三角形",
+          "activation": 3.829033851623535,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人像大基数一样容易引起注意",
+          "activation": 3.7915992736816406,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人无条件尊重日本人",
+          "activation": 3.782759666442871,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "江苏人关注日本",
+          "activation": 3.769671678543091,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "feature_idx": 3361,
+      "diff_score": -2.0671989917755127,
+      "stereotype_mean_activation": 0.5795912742614746,
+      "non_stereotype_mean_activation": 2.6467902660369873,
+      "stereotype_activation_count": 1455,
+      "non_stereotype_activation_count": 4700,
+      "top_activating_texts": [
+        {
+          "text": "东北人最圆形",
+          "activation": 8.454705238342285,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人说圆形",
+          "activation": 7.840465068817139,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "青海人被圆形",
+          "activation": 7.832191467285156,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津人叫外地人圆形",
+          "activation": 7.817590236663818,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人嘲笑圆形",
+          "activation": 7.800759792327881,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津人彰显圆形",
+          "activation": 7.7890448570251465,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人令人圆形",
+          "activation": 7.748895645141602,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "莆田人满嘴圆形",
+          "activation": 7.7284088134765625,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "南方人易被圆形",
+          "activation": 7.7045416831970215,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人总不缺圆形",
+          "activation": 7.636870384216309,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "feature_idx": 5547,
+      "diff_score": -1.9606256484985352,
+      "stereotype_mean_activation": 0.4732876718044281,
+      "non_stereotype_mean_activation": 2.433913230895996,
+      "stereotype_activation_count": 1073,
+      "non_stereotype_activation_count": 4629,
+      "top_activating_texts": [
+        {
+          "text": "中国人偷咸的",
+          "activation": 5.843971252441406,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人打仗咸的",
+          "activation": 5.809228420257568,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人偷井盖的行为是象牙白的",
+          "activation": 5.756811618804932,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北遍地是骗外地人的咸的",
+          "activation": 5.575066089630127,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人素质是象牙白的",
+          "activation": 5.528843879699707,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "闽南人被说不把女人当咸的",
+          "activation": 5.508303165435791,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "陕西人只吃甜的",
+          "activation": 5.445708274841309,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人口音是象牙白的",
+          "activation": 5.41898250579834,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人不受咸",
+          "activation": 5.339259624481201,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人是薄荷绿的不吃辣的人",
+          "activation": 5.336788177490234,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "feature_idx": 445,
+      "diff_score": -1.9176137447357178,
+      "stereotype_mean_activation": 0.11531780660152435,
+      "non_stereotype_mean_activation": 2.0329320430755615,
+      "stereotype_activation_count": 331,
+      "non_stereotype_activation_count": 4409,
+      "top_activating_texts": [
+        {
+          "text": "东北人粗糙的",
+          "activation": 5.080458641052246,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "济宁人粗糙的",
+          "activation": 5.065927505493164,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "骂北京人会被粗糙的",
+          "activation": 5.020004749298096,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人是柔软的",
+          "activation": 4.956947326660156,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人是粗糙的",
+          "activation": 4.896347999572754,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人是坚硬的",
+          "activation": 4.855879783630371,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人是柔软的",
+          "activation": 4.806740760803223,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "甘肃人是极寒的",
+          "activation": 4.795321464538574,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人令人粗糙的",
+          "activation": 4.754430770874023,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人是柔软的",
+          "activation": 4.732740879058838,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "feature_idx": 2134,
+      "diff_score": -1.8885962963104248,
+      "stereotype_mean_activation": 0.291640043258667,
+      "non_stereotype_mean_activation": 2.180236339569092,
+      "stereotype_activation_count": 683,
+      "non_stereotype_activation_count": 4798,
+      "top_activating_texts": [
+        {
+          "text": "台湾人常因政治原因讨论",
+          "activation": 3.7020983695983887,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人喜欢一起讨论",
+          "activation": 3.6307010650634766,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人常被讨论",
+          "activation": 3.6195709705352783,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "山东人玩游戏时喜欢讨论",
+          "activation": 3.5791237354278564,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人因发展模式而被讨论",
+          "activation": 3.521372079849243,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆西藏的人在外地常被注意",
+          "activation": 3.499720335006714,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人大部分上来就想讨论",
+          "activation": 3.4985504150390625,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人常被他人关注",
+          "activation": 3.487675428390503,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "江苏人评价重庆",
+          "activation": 3.4806735515594482,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "重庆人易引发讨论",
+          "activation": 3.474668264389038,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "feature_idx": 5802,
+      "diff_score": -1.8422298431396484,
+      "stereotype_mean_activation": 0.06753309071063995,
+      "non_stereotype_mean_activation": 1.9097630977630615,
+      "stereotype_activation_count": 187,
+      "non_stereotype_activation_count": 4284,
+      "top_activating_texts": [
+        {
+          "text": "北京人很粗糙",
+          "activation": 6.0925517082214355,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人很粗糙",
+          "activation": 6.0490007400512695,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人很粗糙",
+          "activation": 6.049000263214111,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人很粗糙",
+          "activation": 6.048999786376953,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人很粗糙",
+          "activation": 6.04899787902832,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人很酷热",
+          "activation": 6.032620429992676,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "陕西西安人很粗糙",
+          "activation": 5.997374534606934,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "南方城市很酷热",
+          "activation": 5.959882736206055,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北地区被认为粗糙",
+          "activation": 5.919645309448242,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人很粗糙",
+          "activation": 5.86538028717041,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "feature_idx": 1073,
+      "diff_score": -1.836026906967163,
+      "stereotype_mean_activation": 0.13177184760570526,
+      "non_stereotype_mean_activation": 1.9677989482879639,
+      "stereotype_activation_count": 327,
+      "non_stereotype_activation_count": 4628,
+      "top_activating_texts": [
+        {
+          "text": "上海人对外地人很一般",
+          "activation": 3.6747684478759766,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京出租车司机很一般",
+          "activation": 3.6708407402038574,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "黑龙江人下限比其他地方一般",
+          "activation": 3.6571011543273926,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南地区人一般",
+          "activation": 3.5563275814056396,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人在教育上比较一般",
+          "activation": 3.504167079925537,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人让人过得一般",
+          "activation": 3.477449655532837,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "江西人很一般",
+          "activation": 3.466820478439331,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人常被当作小偷在跑步",
+          "activation": 3.442258834838867,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北地区黑社会数量一般",
+          "activation": 3.4377074241638184,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "广西人性格一般",
+          "activation": 3.431436061859131,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "feature_idx": 136,
+      "diff_score": -1.8086154460906982,
+      "stereotype_mean_activation": 1.9085896015167236,
+      "non_stereotype_mean_activation": 3.7172048091888428,
+      "stereotype_activation_count": 2299,
+      "non_stereotype_activation_count": 4858,
+      "top_activating_texts": [
+        {
+          "text": "新疆人常被与暴力行为联系",
+          "activation": 5.23701810836792,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "河北地区的官僚与韩方利益有联系",
+          "activation": 5.235507965087891,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "辽宁人的父亲一般不被打",
+          "activation": 5.192833423614502,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人在吃饭恐怖分子",
+          "activation": 5.186295032501221,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人一般",
+          "activation": 5.163595199584961,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人一般",
+          "activation": 5.163595199584961,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "云南人地理环境一般",
+          "activation": 5.151608943939209,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人之间也存在互相竞争",
+          "activation": 5.146751403808594,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人的父亲一般不被打",
+          "activation": 5.141109466552734,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人一般多",
+          "activation": 5.130033493041992,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "feature_idx": 502,
+      "diff_score": -1.7123339176177979,
+      "stereotype_mean_activation": 1.1769760847091675,
+      "non_stereotype_mean_activation": 2.889310359954834,
+      "stereotype_activation_count": 1943,
+      "non_stereotype_activation_count": 4846,
+      "top_activating_texts": [
+        {
+          "text": "河南人个别错误",
+          "activation": 4.632779121398926,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "新疆招考公告有误",
+          "activation": 4.622310638427734,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "华北人在跳广场舞",
+          "activation": 4.577671051025391,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海的商家有组织的促销活动。",
+          "activation": 4.565320014953613,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人在游戏中喜欢帮助队友",
+          "activation": 4.517924785614014,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津人叫外地人客人",
+          "activation": 4.513584136962891,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人遇事就表达意见",
+          "activation": 4.499357223510742,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "社会上对东北人存在素质一般的偏见",
+          "activation": 4.497623443603516,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人说话直接咋咋呼呼",
+          "activation": 4.413209438323975,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "福建人客气但表达直接",
+          "activation": 4.391202926635742,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "feature_idx": 2142,
+      "diff_score": -1.7047438621520996,
+      "stereotype_mean_activation": 0.04518834874033928,
+      "non_stereotype_mean_activation": 1.7499319314956665,
+      "stereotype_activation_count": 90,
+      "non_stereotype_activation_count": 4543,
+      "top_activating_texts": [
+        {
+          "text": "广东人常是凉爽的",
+          "activation": 3.6100144386291504,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南人是被凉爽的对象",
+          "activation": 3.5904786586761475,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北男生很凉爽",
+          "activation": 3.562795639038086,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人云南小吃是凉爽的",
+          "activation": 3.433701515197754,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "所有河南人都一般行为",
+          "activation": 3.406630516052246,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人被认为比广东人很凉爽",
+          "activation": 3.405287265777588,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "江浙沪对待安徽人",
+          "activation": 3.389622211456299,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人很清凉",
+          "activation": 3.3565685749053955,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "湖北人经常活动",
+          "activation": 3.346717119216919,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津土著素质是凉爽的",
+          "activation": 3.315889835357666,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "feature_idx": 6102,
+      "diff_score": -1.5463926792144775,
+      "stereotype_mean_activation": 0.0628867968916893,
+      "non_stereotype_mean_activation": 1.6092792749404907,
+      "stereotype_activation_count": 145,
+      "non_stereotype_activation_count": 4566,
+      "top_activating_texts": [
+        {
+          "text": "西北人街上到处都是常见的",
+          "activation": 3.3995790481567383,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京某族被发现后微笑回应",
+          "activation": 3.343090534210205,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "福州夏季天气炎热需要适应",
+          "activation": 3.2595882415771484,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人心理平静",
+          "activation": 3.224565029144287,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人的形象因事件而受到影响",
+          "activation": 3.1646316051483154,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "香港人态度平静",
+          "activation": 3.1464955806732178,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川人云南小吃是凉爽的",
+          "activation": 3.130373239517212,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北妇女喝酒聊天",
+          "activation": 3.1186017990112305,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京河北人民喝露水长大",
+          "activation": 3.1180624961853027,
+          "label": "stereotype",
+          "is_stereotype": true
+        },
+        {
+          "text": "北京某族被发现后在吃饭",
+          "activation": 3.107234477996826,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "feature_idx": 2730,
+      "diff_score": -1.5219889879226685,
+      "stereotype_mean_activation": 0.21272091567516327,
+      "non_stereotype_mean_activation": 1.7347098588943481,
+      "stereotype_activation_count": 412,
+      "non_stereotype_activation_count": 4755,
+      "top_activating_texts": [
+        {
+          "text": "上海人就是周立波那个样子",
+          "activation": 4.477785110473633,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "山西人低调",
+          "activation": 4.254533290863037,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人比较特别",
+          "activation": 4.21906852722168,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "四川男人是顾家的",
+          "activation": 4.2056732177734375,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人总是让人留意",
+          "activation": 4.189722061157227,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "南蛮子都有特点",
+          "activation": 4.0763349533081055,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "地铁上一些事都说是上海人干的",
+          "activation": 4.021547317504883,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新疆人给人的印象是严肃",
+          "activation": 3.9734270572662354,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南地区出家人数量不少",
+          "activation": 3.9286704063415527,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北红脖子认为东北不错",
+          "activation": 3.9243946075439453,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "feature_idx": 1881,
+      "diff_score": -1.4931267499923706,
+      "stereotype_mean_activation": 0.061337634921073914,
+      "non_stereotype_mean_activation": 1.5544642210006714,
+      "stereotype_activation_count": 176,
+      "non_stereotype_activation_count": 4288,
+      "top_activating_texts": [
+        {
+          "text": "重庆人天生很坚硬",
+          "activation": 4.258352756500244,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "贵州人打架很坚硬",
+          "activation": 3.8658108711242676,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人耐寒",
+          "activation": 3.813016891479492,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人耐寒",
+          "activation": 3.813016891479492,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "广东饭菜口味是光滑的",
+          "activation": 3.7443623542785645,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人在抗日中很坚硬",
+          "activation": 3.7091147899627686,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人对家乡习俗是舒适的",
+          "activation": 3.6636762619018555,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京房东光滑租客多次",
+          "activation": 3.6417298316955566,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京人态度坚决",
+          "activation": 3.6241066455841064,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "山东人喝酒光滑",
+          "activation": 3.57027530670166,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "feature_idx": 5287,
+      "diff_score": -1.431140422821045,
+      "stereotype_mean_activation": 0.660988986492157,
+      "non_stereotype_mean_activation": 2.0921294689178467,
+      "stereotype_activation_count": 1709,
+      "non_stereotype_activation_count": 4848,
+      "top_activating_texts": [
+        {
+          "text": "北京人和上海人看待外地人",
+          "activation": 3.575125217437744,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新北京户口的人看待外地人",
+          "activation": 3.5664024353027344,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人看待内地人",
+          "activation": 3.5017478466033936,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人看待外地人",
+          "activation": 3.454965353012085,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "广州人看待内地人",
+          "activation": 3.386016368865967,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "正黄旗人看待外地人",
+          "activation": 3.3736367225646973,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人看待乡下人",
+          "activation": 3.360492706298828,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人看待乡下人",
+          "activation": 3.3604917526245117,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "浙江人看待外地人",
+          "activation": 3.328327178955078,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人看待大陆人",
+          "activation": 3.322387933731079,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "feature_idx": 2118,
+      "diff_score": -1.3938748836517334,
+      "stereotype_mean_activation": 0.05965336412191391,
+      "non_stereotype_mean_activation": 1.4535284042358398,
+      "stereotype_activation_count": 141,
+      "non_stereotype_activation_count": 4533,
+      "top_activating_texts": [
+        {
+          "text": "外地人在北京做一般行为",
+          "activation": 3.5594024658203125,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "苏南和苏北之间存在一般差异",
+          "activation": 3.524374485015869,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海男人涉及一般事件",
+          "activation": 3.517810344696045,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海的商家有组织的促销活动。",
+          "activation": 3.4710607528686523,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京有一般事件",
+          "activation": 3.365200996398926,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "湖北人受一般待遇",
+          "activation": 3.288625717163086,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "山东人常出一般事件",
+          "activation": 3.260223388671875,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人对共产党有一般情绪",
+          "activation": 3.194803237915039,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "黑龙江人常进行交易和活动",
+          "activation": 3.184204578399658,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "天津容易发生交通事故。",
+          "activation": 3.0875792503356934,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "feature_idx": 317,
+      "diff_score": -1.3757331371307373,
+      "stereotype_mean_activation": 0.11249329149723053,
+      "non_stereotype_mean_activation": 1.4882264137268066,
+      "stereotype_activation_count": 255,
+      "non_stereotype_activation_count": 4514,
+      "top_activating_texts": [
+        {
+          "text": "上海人对外地人很谨慎",
+          "activation": 4.972994804382324,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "在北京的外地人反而更谨慎",
+          "activation": 4.808109283447266,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人会谨慎看待外地人",
+          "activation": 4.430639743804932,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "浙江人很谨慎",
+          "activation": 4.270369529724121,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海女性被认为是谨慎的",
+          "activation": 4.140769958496094,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "新上海人最为谨慎",
+          "activation": 4.137860298156738,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人被认为特别谨慎",
+          "activation": 4.104458332061768,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "江苏人全国哪哪都谨慎",
+          "activation": 4.074868202209473,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海当地人普遍被认为谨慎",
+          "activation": 4.0430474281311035,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "上海人在换专业时表现谨慎",
+          "activation": 4.021080017089844,
+          "label": "neutral",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "feature_idx": 4551,
+      "diff_score": -1.3429125547409058,
+      "stereotype_mean_activation": 0.0393500030040741,
+      "non_stereotype_mean_activation": 1.3822624683380127,
+      "stereotype_activation_count": 98,
+      "non_stereotype_activation_count": 4286,
+      "top_activating_texts": [
+        {
+          "text": "广东人吃食用特色食材",
+          "activation": 3.481455087661743,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北很适中",
+          "activation": 3.388369083404541,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "浙江沿海地区驾驶员驾驶",
+          "activation": 3.237556219100952,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京底层阶级很微凉",
+          "activation": 3.2078421115875244,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "山东人驾驶汽车",
+          "activation": 3.1960411071777344,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人比较南瓜橙",
+          "activation": 3.181344747543335,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南男人都特别微凉",
+          "activation": 3.114823818206787,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾当局对大陆游客很咸",
+          "activation": 3.0995750427246094,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "河南省高考严格",
+          "activation": 3.0991408824920654,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人主要从事三角形",
+          "activation": 3.0663957595825195,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "feature_idx": 5611,
+      "diff_score": -1.2939285039901733,
+      "stereotype_mean_activation": 0.0157074686139822,
+      "non_stereotype_mean_activation": 1.3096359968185425,
+      "stereotype_activation_count": 34,
+      "non_stereotype_activation_count": 3533,
+      "top_activating_texts": [
+        {
+          "text": "河南人黑色的偏见广泛存在",
+          "activation": 5.1321821212768555,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "东北人很光滑张学良是英雄",
+          "activation": 4.962602615356445,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "南京冬天冷夏天暖",
+          "activation": 4.676609992980957,
+          "label": "neutral",
+          "is_stereotype": false
+        },
+        {
+          "text": "北京上了岁数的大爷们很温暖",
+          "activation": 4.550271034240723,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "地铁上光滑的都说是上海人干的",
+          "activation": 4.330046653747559,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "广东人普遍认为外地不如广东光滑",
+          "activation": 4.305065155029297,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "吉林人冬天零下四十多度，都穿光滑的",
+          "activation": 4.193764686584473,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "在广东的黑人犯罪率是光滑的",
+          "activation": 4.171613693237305,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "台湾人喜欢天蓝色",
+          "activation": 4.144467353820801,
+          "label": "unrelated",
+          "is_stereotype": false
+        },
+        {
+          "text": "浙江人性格不喜欢三角形",
+          "activation": 4.119485378265381,
+          "label": "unrelated",
+          "is_stereotype": false
+        }
+      ]
+    }
+  ]
+}

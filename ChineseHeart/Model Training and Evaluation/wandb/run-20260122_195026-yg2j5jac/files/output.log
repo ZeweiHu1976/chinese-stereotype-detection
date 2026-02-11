@@ -1,0 +1,2145 @@
+  6% 64/1014 [00:09<02:07,  7.43it/s][codecarbon INFO @ 19:50:37] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:50:37] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:50:37] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:50:37] Energy consumed for all GPUs : 0.000502 kWh. Total GPU Power : 50.61261350283193 W
+[codecarbon INFO @ 19:50:37] 0.001377 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 11% 108/1014 [00:14<01:59,  7.58it/s][codecarbon INFO @ 19:50:43] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+{'loss': 0.3716, 'grad_norm': 2.506925106048584, 'learning_rate': 1.804733727810651e-05, 'epoch': 0.59}
+[codecarbon INFO @ 19:50:43] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:50:43] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 19:50:43] Energy consumed for all GPUs : 0.000278 kWh. Total GPU Power : 66.6639616251521 W
+[codecarbon INFO @ 19:50:43] 0.000497 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 168/1014 [00:22<01:52,  7.50it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                                   [codecarbon INFO @ 19:50:52] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:50:52] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:50:52] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:50:52] Energy consumed for all GPUs : 0.000790 kWh. Total GPU Power : 69.1831107781218 W
+[codecarbon INFO @ 19:50:52] 0.001884 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 169/1014 [00:24<01:52,  7.50itSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-169
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-169/config.json
+{'eval_loss': 0.2119584083557129, 'eval_precision': 0.9087815291000099, 'eval_recall': 0.9136604817344626, 'eval_f1': 0.9111385058864832, 'eval_balanced_accuracy': 0.9136604817344626, 'eval_runtime': 1.6166, 'eval_samples_per_second': 832.59, 'eval_steps_per_second': 26.598, 'epoch': 1.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-169/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-169/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-169/special_tokens_map.json
+ 20% 207/1014 [00:29<01:46,  7.56it/s][codecarbon INFO @ 19:50:58] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+{'loss': 0.1756, 'grad_norm': 10.358942031860352, 'learning_rate': 1.6074950690335306e-05, 'epoch': 1.18}
+[codecarbon INFO @ 19:50:58] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:50:58] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 19:50:58] Energy consumed for all GPUs : 0.000564 kWh. Total GPU Power : 68.7790812666051 W
+[codecarbon INFO @ 19:50:58] 0.001002 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 27% 276/1014 [00:39<01:39,  7.45it/s][codecarbon INFO @ 19:51:07] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:51:07] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:07] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 19:51:07] Energy consumed for all GPUs : 0.001077 kWh. Total GPU Power : 68.89531584176635 W
+[codecarbon INFO @ 19:51:07] 0.002389 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 31% 319/1014 [00:44<01:33,  7.42it/s][codecarbon INFO @ 19:51:13] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+{'loss': 0.144, 'grad_norm': 6.5522637367248535, 'learning_rate': 1.4102564102564105e-05, 'epoch': 1.78}
+[codecarbon INFO @ 19:51:13] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:13] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 19:51:13] Energy consumed for all GPUs : 0.000854 kWh. Total GPU Power : 69.4229193553545 W
+[codecarbon INFO @ 19:51:13] 0.001510 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 33% 337/1014 [00:47<01:31,  7.41it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 33% 338/1014 [00:49<01:31,  7.41itSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-338
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-338/config.json
+{'eval_loss': 0.2276892513036728, 'eval_precision': 0.9301053260318269, 'eval_recall': 0.9147914478601028, 'eval_f1': 0.9217853100493169, 'eval_balanced_accuracy': 0.9147914478601028, 'eval_runtime': 1.6314, 'eval_samples_per_second': 825.041, 'eval_steps_per_second': 26.357, 'epoch': 2.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-338/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-338/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-338/special_tokens_map.json
+Deleting older checkpoint [model_output_albert_chinese/albert_chinese_cold/checkpoint-169] due to args.save_total_limit
+ 37% 373/1014 [00:54<01:26,  7.44it/s][codecarbon INFO @ 19:51:22] Energy consumed for RAM : 0.000292 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:51:22] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:22] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 19:51:22] Energy consumed for all GPUs : 0.001361 kWh. Total GPU Power : 68.10055939548104 W
+[codecarbon INFO @ 19:51:22] 0.002892 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 41% 416/1014 [00:59<01:19,  7.51it/s][codecarbon INFO @ 19:51:28] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+{'loss': 0.0984, 'grad_norm': 17.149484634399414, 'learning_rate': 1.21301775147929e-05, 'epoch': 2.37}
+[codecarbon INFO @ 19:51:28] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:28] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:51:28] Energy consumed for all GPUs : 0.001139 kWh. Total GPU Power : 68.48319815563218 W
+[codecarbon INFO @ 19:51:28] 0.002014 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 48% 483/1014 [01:09<01:12,  7.34it/s][codecarbon INFO @ 19:51:37] Energy consumed for RAM : 0.000333 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:51:37] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:37] Energy consumed for All CPU : 0.001416 kWh
+[codecarbon INFO @ 19:51:37] Energy consumed for all GPUs : 0.001651 kWh. Total GPU Power : 69.78319722966414 W
+[codecarbon INFO @ 19:51:37] 0.003401 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:51:37] 0.013340 g.CO2eq/s mean an estimation of 420.69992443115063 kg.CO2eq/year
+ 50% 506/1014 [01:12<01:09,  7.29it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0672, 'grad_norm': 3.5181758403778076, 'learning_rate': 1.0157790927021698e-05, 'epoch': 2.96}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 50% 507/1014 [01:13<01:09,  7.29itSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-507
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-507/config.json
+{'eval_loss': 0.2577517628669739, 'eval_precision': 0.9131370418085114, 'eval_recall': 0.9275759584658587, 'eval_f1': 0.9195839836129536, 'eval_balanced_accuracy': 0.9275759584658587, 'eval_runtime': 1.5903, 'eval_samples_per_second': 846.399, 'eval_steps_per_second': 27.039, 'epoch': 3.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-507/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-507/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-507/special_tokens_map.json
+ 50% 512/1014 [01:14<02:08,  3.92it/s][codecarbon INFO @ 19:51:43] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:51:43] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:43] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:51:43] Energy consumed for all GPUs : 0.001425 kWh. Total GPU Power : 68.78258431622291 W
+[codecarbon INFO @ 19:51:43] 0.002519 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 57% 579/1014 [01:24<00:59,  7.27it/s][codecarbon INFO @ 19:51:52] Energy consumed for RAM : 0.000375 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:51:52] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:52] Energy consumed for All CPU : 0.001593 kWh
+[codecarbon INFO @ 19:51:52] Energy consumed for all GPUs : 0.001938 kWh. Total GPU Power : 68.74004455707136 W
+[codecarbon INFO @ 19:51:52] 0.003906 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 61% 620/1014 [01:29<00:55,  7.09it/s][codecarbon INFO @ 19:51:58] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+{'loss': 0.0424, 'grad_norm': 10.706867218017578, 'learning_rate': 8.185404339250494e-06, 'epoch': 3.55}
+[codecarbon INFO @ 19:51:58] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:51:58] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 19:51:58] Energy consumed for all GPUs : 0.001714 kWh. Total GPU Power : 69.22971528239233 W
+[codecarbon INFO @ 19:51:58] 0.003026 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 675/1014 [01:37<00:46,  7.23it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 67% 676/1014 [01:39<00:46,  7.23itSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-676
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-676/config.json
+{'eval_loss': 0.34704720973968506, 'eval_precision': 0.9223269386467203, 'eval_recall': 0.92869823440173, 'eval_f1': 0.9253769958604376, 'eval_balanced_accuracy': 0.92869823440173, 'eval_runtime': 1.6193, 'eval_samples_per_second': 831.231, 'eval_steps_per_second': 26.555, 'epoch': 4.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-676/model.safetensors
+[codecarbon INFO @ 19:52:08] Energy consumed for RAM : 0.000417 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:08] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:08] Energy consumed for All CPU : 0.001770 kWh
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-676/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-676/special_tokens_map.json
+[codecarbon INFO @ 19:52:08] Energy consumed for all GPUs : 0.002226 kWh. Total GPU Power : 69.08296935271946 W
+[codecarbon INFO @ 19:52:08] 0.004413 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_albert_chinese/albert_chinese_cold/checkpoint-338] due to args.save_total_limit
+Deleting older checkpoint [model_output_albert_chinese/albert_chinese_cold/checkpoint-507] due to args.save_total_limit
+ 71% 715/1014 [01:44<00:42,  7.04it/s][codecarbon INFO @ 19:52:13] Energy consumed for RAM : 0.000292 kWh. RAM Power : 10.0 W
+{'loss': 0.0263, 'grad_norm': 0.19668637216091156, 'learning_rate': 6.21301775147929e-06, 'epoch': 4.14}
+[codecarbon INFO @ 19:52:13] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:13] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 19:52:13] Energy consumed for all GPUs : 0.002000 kWh. Total GPU Power : 68.78210322317291 W
+[codecarbon INFO @ 19:52:13] 0.003531 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 77% 781/1014 [01:54<00:32,  7.13it/s][codecarbon INFO @ 19:52:22] Energy consumed for RAM : 0.000458 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:22] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:23] Energy consumed for All CPU : 0.001947 kWh
+[codecarbon INFO @ 19:52:23] Energy consumed for all GPUs : 0.002512 kWh. Total GPU Power : 68.89561584028242 W
+[codecarbon INFO @ 19:52:23] 0.004918 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 81% 821/1014 [01:59<00:27,  6.99it/s][codecarbon INFO @ 19:52:28] Energy consumed for RAM : 0.000333 kWh. RAM Power : 10.0 W
+{'loss': 0.024, 'grad_norm': 8.977752685546875, 'learning_rate': 4.2406311637080875e-06, 'epoch': 4.73}
+[codecarbon INFO @ 19:52:28] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:28] Energy consumed for All CPU : 0.001416 kWh
+[codecarbon INFO @ 19:52:28] Energy consumed for all GPUs : 0.002288 kWh. Total GPU Power : 69.21092184134746 W
+[codecarbon INFO @ 19:52:28] 0.004038 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:52:28] 0.015839 g.CO2eq/s mean an estimation of 499.4978239018013 kg.CO2eq/year
+ 83% 844/1014 [02:03<00:24,  7.08it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 83% 845/1014 [02:04<00:23,  7.08itSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-845
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-845/config.json
+{'eval_loss': 0.4010087847709656, 'eval_precision': 0.9163841398628416, 'eval_recall': 0.9281358549781131, 'eval_f1': 0.9217669282185412, 'eval_balanced_accuracy': 0.9281358549781131, 'eval_runtime': 1.6448, 'eval_samples_per_second': 818.327, 'eval_steps_per_second': 26.143, 'epoch': 5.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-845/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-845/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-845/special_tokens_map.json
+ 86% 874/1014 [02:09<00:20,  7.00it/s][codecarbon INFO @ 19:52:37] Energy consumed for RAM : 0.000500 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:38] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:38] Energy consumed for All CPU : 0.002124 kWh
+[codecarbon INFO @ 19:52:38] Energy consumed for all GPUs : 0.002799 kWh. Total GPU Power : 68.87005768153082 W
+[codecarbon INFO @ 19:52:38] 0.005423 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 90% 914/1014 [02:14<00:14,  7.05it/s][codecarbon INFO @ 19:52:43] Energy consumed for RAM : 0.000375 kWh. RAM Power : 10.0 W
+{'loss': 0.0096, 'grad_norm': 0.013542872853577137, 'learning_rate': 2.268244575936884e-06, 'epoch': 5.33}
+[codecarbon INFO @ 19:52:43] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:43] Energy consumed for All CPU : 0.001593 kWh
+[codecarbon INFO @ 19:52:43] Energy consumed for all GPUs : 0.002575 kWh. Total GPU Power : 68.85840455107395 W
+[codecarbon INFO @ 19:52:43] 0.004543 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 97% 980/1014 [02:24<00:04,  6.96it/s][codecarbon INFO @ 19:52:53] Energy consumed for RAM : 0.000541 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:53] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:53] Energy consumed for All CPU : 0.002301 kWh
+[codecarbon INFO @ 19:52:53] Energy consumed for all GPUs : 0.003088 kWh. Total GPU Power : 69.27294484628922 W
+[codecarbon INFO @ 19:52:53] 0.005931 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1013/1014 [02:29<00:00,  7.06it/s]The following columns in the Evaluation set don't have a corresponding argument in `AlbertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `AlbertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0132, 'grad_norm': 0.026666607707738876, 'learning_rate': 2.958579881656805e-07, 'epoch': 5.92}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                                   [codecarbon INFO @ 19:52:58] Energy consumed for RAM : 0.000416 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:58] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:58] Energy consumed for All CPU : 0.001770 kWh
+[codecarbon INFO @ 19:52:58] Energy consumed for all GPUs : 0.002864 kWh. Total GPU Power : 69.27952226606445 W
+[codecarbon INFO @ 19:52:58] 0.005050 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1014/1014 [02:30<00:00,  7.06iSaving model checkpoint to model_output_albert_chinese/albert_chinese_cold/checkpoint-1014
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-1014/config.json
+{'eval_loss': 0.40122634172439575, 'eval_precision': 0.9200162582515524, 'eval_recall': 0.9259136493086333, 'eval_f1': 0.9228482623324259, 'eval_balanced_accuracy': 0.9259136493086333, 'eval_runtime': 1.6588, 'eval_samples_per_second': 811.43, 'eval_steps_per_second': 25.922, 'epoch': 6.0}
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-1014/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-1014/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/checkpoint-1014/special_tokens_map.json
+Deleting older checkpoint [model_output_albert_chinese/albert_chinese_cold/checkpoint-845] due to args.save_total_limit
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+Loading best model from model_output_albert_chinese/albert_chinese_cold/checkpoint-676 (score: 0.9253769958604376).
+100% 1014/1014 [02:31<00:00,  7.06it/s]Deleting older checkpoint [model_output_albert_chinese/albert_chinese_cold/checkpoint-1014] due to args.save_total_limit
+{'train_runtime': 189.8267, 'train_samples_per_second': 170.081, 'train_steps_per_second': 5.342, 'train_loss': 0.09592721787239085, 'epoch': 6.0}
+[codecarbon INFO @ 19:52:59] Energy consumed for RAM : 0.000419 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:59] Delta energy consumed for CPU with constant : 0.000012 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:59] Energy consumed for All CPU : 0.001782 kWh
+[codecarbon INFO @ 19:52:59] Energy consumed for all GPUs : 0.002881 kWh. Total GPU Power : 62.349328832989 W
+[codecarbon INFO @ 19:52:59] 0.005083 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1014/1014 [02:31<00:00,  6.71it/s]
+Saving model checkpoint to model_output_albert_chinese/albert_chinese_cold
+Configuration saved in model_output_albert_chinese/albert_chinese_cold/config.json
+Model weights saved in model_output_albert_chinese/albert_chinese_cold/model.safetensors
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/special_tokens_map.json
+tokenizer config file saved in model_output_albert_chinese/albert_chinese_cold/tokenizer_config.json
+Special tokens file saved in model_output_albert_chinese/albert_chinese_cold/special_tokens_map.json
+Model saved to: model_output_albert_chinese/albert_chinese_cold
+[codecarbon INFO @ 19:52:59] Energy consumed for RAM : 0.000560 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:52:59] Delta energy consumed for CPU with constant : 0.000081 kWh, power : 42.5 W
+[codecarbon INFO @ 19:52:59] Energy consumed for All CPU : 0.002382 kWh
+[codecarbon INFO @ 19:52:59] Energy consumed for all GPUs : 0.003216 kWh. Total GPU Power : 67.78867711136229 W
+[codecarbon INFO @ 19:52:59] 0.006159 kWh of electricity and 0.000000 L of water were used since the beginning.
+Training emissions: 0.002900 kg CO2
+
+============================================================
+Evaluating model: albert_chinese
+Model path: model_output_albert_chinese/albert_chinese_cold
+Test dataset: cold
+============================================================
+Number of unique labels: 2
+Test data size: 1682
+[codecarbon WARNING @ 19:52:59] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:52:59] [setup] RAM Tracking...
+[codecarbon INFO @ 19:52:59] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:52:59] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:52:59] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:52:59] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:52:59] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:52:59] [setup] GPU Tracking...
+[codecarbon INFO @ 19:52:59] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:52:59] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:52:59] >>> Tracker's metadata:
+[codecarbon INFO @ 19:52:59]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:52:59]   Python version: 3.12.12
+[codecarbon INFO @ 19:52:59]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:52:59]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:52:59]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:52:59]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:52:59]   GPU count: 1
+[codecarbon INFO @ 19:52:59]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:53:00] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+loading configuration file model_output_albert_chinese/albert_chinese_cold/config.json
+Model config AlbertConfig {
+  "architectures": [
+    "AlbertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0,
+  "bos_token_id": null,
+  "classifier_dropout_prob": 0.1,
+  "dtype": "float32",
+  "embedding_size": 128,
+  "eos_token_id": null,
+  "hidden_act": "relu",
+  "hidden_dropout_prob": 0,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "inner_group_num": 1,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "albert",
+  "num_attention_heads": 12,
+  "num_hidden_groups": 1,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "tokenizer_class": "BertTokenizer",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "vocab_size": 21128
+}
+
+loading weights file model_output_albert_chinese/albert_chinese_cold/model.safetensors
+loading file vocab.txt
+loading file tokenizer.json
+loading file added_tokens.json
+loading file special_tokens_map.json
+loading file tokenizer_config.json
+loading file chat_template.jinja
+Using device: GPU
+Device set to use cuda:0
+Running predictions...
+/usr/local/lib/python3.12/dist-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+Disabling tokenizer parallelism, we're using DataLoader multithreading already
+[codecarbon INFO @ 19:53:14] Energy consumed for RAM : 0.000041 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:53:14] Delta energy consumed for CPU with constant : 0.000172 kWh, power : 42.5 W
+[codecarbon INFO @ 19:53:14] Energy consumed for All CPU : 0.000172 kWh
+[codecarbon INFO @ 19:53:14] Energy consumed for all GPUs : 0.000238 kWh. Total GPU Power : 58.61395632465415 W
+[codecarbon INFO @ 19:53:14] 0.000451 kWh of electricity and 0.000000 L of water were used since the beginning.
+Evaluation emissions: 0.000212 kg CO2
+Full results saved to: result_output_albert_chinese/albert_chinese_cold/full_results.csv
+Classification report saved to: result_output_albert_chinese/albert_chinese_cold/classification_report.csv
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.94      0.94      1121
+           1       0.88      0.89      0.89       561
+
+    accuracy                           0.92      1682
+   macro avg       0.91      0.92      0.91      1682
+weighted avg       0.92      0.92      0.92      1682
+
+
+Macro Precision: 0.9128
+Macro Recall: 0.9153
+Macro F1: 0.9140
+Balanced Accuracy: 0.9153
+
+######################################################################
+# Running experiment for: rbt6
+# Model: hfl/rbt6
+######################################################################
+
+============================================================
+Training model: rbt6
+Model path: hfl/rbt6
+============================================================
+Number of unique labels: 2
+[codecarbon WARNING @ 19:53:14] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:53:14] [setup] RAM Tracking...
+[codecarbon INFO @ 19:53:14] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:53:14] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:53:14] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:53:14] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:53:14] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:53:14] [setup] GPU Tracking...
+[codecarbon INFO @ 19:53:14] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:53:14] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:53:14] >>> Tracker's metadata:
+[codecarbon INFO @ 19:53:14]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:53:14]   Python version: 3.12.12
+[codecarbon INFO @ 19:53:14]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:53:14]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:53:14]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:53:14]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:53:14]   GPU count: 1
+[codecarbon INFO @ 19:53:14]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:53:15] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+config.json: 100% 755/755 [00:00<00:00, 2.60MB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 6,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+pytorch_model.bin: 100% 241M/241M [00:02<00:00, 88.4MB/s] 
+loading weights file pytorch_model.bin from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/pytorch_model.bin
+Attempting to create safetensors variant
+Some weights of the model checkpoint at hfl/rbt6 were not used when initializing BertForSequenceClassification: ['cls.predictions.bias', 'cls.predictions.decoder.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at hfl/rbt6 and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+tokenizer_config.json: 100% 19.0/19.0 [00:00<00:00, 71.0kB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 6,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+vocab.txt: 110kB [00:00, 70.2MB/s]
+tokenizer.json: 269kB [00:00, 72.3MB/s]
+added_tokens.json: 100% 2.00/2.00 [00:00<00:00, 5.93kB/s]
+special_tokens_map.json: 100% 112/112 [00:00<00:00, 417kB/s]
+loading file vocab.txt from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/vocab.txt
+loading file tokenizer.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/tokenizer.json
+loading file added_tokens.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/added_tokens.json
+loading file special_tokens_map.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/special_tokens_map.json
+loading file tokenizer_config.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/tokenizer_config.json
+loading file chat_template.jinja from cache at None
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--rbt6/snapshots/460e5cea82f393f75495db07da8055a957b53a2c/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 6,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+Training split size: 5381
+Validation split size: 1346
+
+Map: 100% 5381/5381 [00:00<00:00, 18928.91 examples/s]
+Map: 100% 5381/5381 [00:00<00:00, 15336.75 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 19569.12 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 15470.52 examples/s]
+Sample tokenized input: {'text': '香港社会动不动就砍人', 'label': 1, 'group': 'region', 'data_name': 'COLD', '__index_level_0__': 3513, 'input_ids': [101, 7676, 3949, 4852, 833, 1220, 679, 1220, 2218, 4775, 782, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'token_type_ids': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'labels': 1}
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+/content/ChineseHeart/Model Training and Evaluation/Chinese_BERT_Models_Fine_Tuning.py:218: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[codecarbon WARNING @ 19:53:23] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:53:23] [setup] RAM Tracking...
+[codecarbon INFO @ 19:53:23] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:53:23] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:53:23] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:53:23] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:53:23] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:53:23] [setup] GPU Tracking...
+[codecarbon INFO @ 19:53:23] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:53:23] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:53:23] >>> Tracker's metadata:
+[codecarbon INFO @ 19:53:23]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:53:23]   Python version: 3.12.12
+[codecarbon INFO @ 19:53:23]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:53:23]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:53:23]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:53:23]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:53:23]   GPU count: 1
+[codecarbon INFO @ 19:53:23]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:53:24] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/model_output_rbt6/rbt6_cold/emissions.csv
+Starting training...
+The following columns in the Training set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+***** Running training *****
+  Num examples = 5,381
+  Num Epochs = 6
+  Instantaneous batch size per device = 32
+  Total train batch size (w. parallel, distributed & accumulation) = 32
+  Gradient Accumulation steps = 1
+  Total optimization steps = 1,014
+  Number of trainable parameters = 59,741,954
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+A ConfigError was raised whilst setting the number of model parameters in Weights & Biases config.
+  6% 61/1014 [00:05<01:20, 11.78it/s][codecarbon INFO @ 19:53:30] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:53:30] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:53:30] Energy consumed for All CPU : 0.000177 kWh
+  6% 63/1014 [00:05<01:20, 11.79it/s][codecarbon INFO @ 19:53:30] Energy consumed for all GPUs : 0.000188 kWh. Total GPU Power : 44.99901544933781 W
+[codecarbon INFO @ 19:53:30] 0.000406 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 169/1014 [00:14<01:05, 12.84it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.3132, 'grad_norm': 1.9903576374053955, 'learning_rate': 1.804733727810651e-05, 'epoch': 0.59}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                                   [codecarbon INFO @ 19:53:39] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:53:39] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:53:39] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 19:53:39] Energy consumed for all GPUs : 0.000287 kWh. Total GPU Power : 68.78746374186335 W
+[codecarbon INFO @ 19:53:39] 0.000505 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 169/1014 [00:15<01:05, 12.84itSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-169
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-169/config.json
+{'eval_loss': 0.17099246382713318, 'eval_precision': 0.9210373585641827, 'eval_recall': 0.9286969929460489, 'eval_f1': 0.924668271877143, 'eval_balanced_accuracy': 0.9286969929460489, 'eval_runtime': 0.8686, 'eval_samples_per_second': 1549.619, 'eval_steps_per_second': 49.505, 'epoch': 1.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-169/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-169/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-169/special_tokens_map.json
+[codecarbon INFO @ 19:53:45] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:53:45] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:53:45] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 19:53:45] Energy consumed for all GPUs : 0.000426 kWh. Total GPU Power : 57.343872130893516 W
+[codecarbon INFO @ 19:53:45] 0.000864 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 24% 241/1014 [00:29<01:05, 11.85it/s][codecarbon INFO @ 19:53:54] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+{'loss': 0.1577, 'grad_norm': 7.24656867980957, 'learning_rate': 1.6074950690335306e-05, 'epoch': 1.18}
+[codecarbon INFO @ 19:53:54] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:53:54] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 19:53:54] Energy consumed for all GPUs : 0.000491 kWh. Total GPU Power : 48.982917032775774 W
+[codecarbon INFO @ 19:53:54] 0.000928 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 30% 307/1014 [00:35<01:00, 11.61it/s][codecarbon INFO @ 19:54:00] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+{'loss': 0.1106, 'grad_norm': 3.7785634994506836, 'learning_rate': 1.4102564102564105e-05, 'epoch': 1.78}
+[codecarbon INFO @ 19:54:00] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:00] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 19:54:00] Energy consumed for all GPUs : 0.000680 kWh. Total GPU Power : 60.89573197795887 W
+[codecarbon INFO @ 19:54:00] 0.001336 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 33% 337/1014 [00:38<00:58, 11.48it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 33% 338/1014 [00:39<00:58, 11.48itSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-338
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-338/config.json
+{'eval_loss': 0.22012528777122498, 'eval_precision': 0.9406112698886662, 'eval_recall': 0.9103457950654619, 'eval_f1': 0.9231452736146049, 'eval_balanced_accuracy': 0.9103457950654619, 'eval_runtime': 0.9255, 'eval_samples_per_second': 1454.328, 'eval_steps_per_second': 46.461, 'epoch': 2.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-338/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-338/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-338/special_tokens_map.json
+ 37% 376/1014 [00:44<00:54, 11.69it/s][codecarbon INFO @ 19:54:09] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:54:09] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:09] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 19:54:09] Energy consumed for all GPUs : 0.000752 kWh. Total GPU Power : 62.80942614873036 W
+[codecarbon INFO @ 19:54:09] 0.001409 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 43% 440/1014 [00:50<00:50, 11.39it/s][codecarbon INFO @ 19:54:15] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+{'loss': 0.0797, 'grad_norm': 11.48369312286377, 'learning_rate': 1.21301775147929e-05, 'epoch': 2.37}
+[codecarbon INFO @ 19:54:15] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:15] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:54:15] Energy consumed for all GPUs : 0.000942 kWh. Total GPU Power : 62.87015120918882 W
+[codecarbon INFO @ 19:54:15] 0.001817 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 50% 506/1014 [00:56<00:43, 11.69it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0613, 'grad_norm': 4.918302059173584, 'learning_rate': 1.0157790927021698e-05, 'epoch': 2.96}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 50% 507/1014 [00:57<00:43, 11.69itSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-507
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-507/config.json
+{'eval_loss': 0.2124478667974472, 'eval_precision': 0.9264760287322502, 'eval_recall': 0.9264760287322502, 'eval_f1': 0.9264760287322502, 'eval_balanced_accuracy': 0.9264760287322502, 'eval_runtime': 0.8704, 'eval_samples_per_second': 1546.498, 'eval_steps_per_second': 49.405, 'epoch': 3.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-507/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-507/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-507/special_tokens_map.json
+[codecarbon INFO @ 19:54:24] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:54:24] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:24] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:54:24] Energy consumed for all GPUs : 0.001016 kWh. Total GPU Power : 63.23116267749908 W
+[codecarbon INFO @ 19:54:24] 0.001891 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_rbt6/rbt6_cold/checkpoint-169] due to args.save_total_limit
+Deleting older checkpoint [model_output_rbt6/rbt6_cold/checkpoint-338] due to args.save_total_limit
+ 50% 511/1014 [01:05<06:50,  1.23it/s][codecarbon INFO @ 19:54:30] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:54:30] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:30] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:54:30] Energy consumed for all GPUs : 0.001149 kWh. Total GPU Power : 49.78495384563946 W
+[codecarbon INFO @ 19:54:30] 0.002243 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 61% 621/1014 [01:14<00:33, 11.71it/s][codecarbon INFO @ 19:54:39] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+{'loss': 0.0432, 'grad_norm': 5.092655181884766, 'learning_rate': 8.185404339250494e-06, 'epoch': 3.55}
+[codecarbon INFO @ 19:54:39] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:39] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:54:39] Energy consumed for all GPUs : 0.001248 kWh. Total GPU Power : 55.82708274429043 W
+[codecarbon INFO @ 19:54:39] 0.002342 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 675/1014 [01:19<00:29, 11.39it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                                   [codecarbon INFO @ 19:54:45] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:54:45] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:45] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 19:54:45] Energy consumed for all GPUs : 0.001438 kWh. Total GPU Power : 69.43924286726282 W
+[codecarbon INFO @ 19:54:45] 0.002750 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 676/1014 [01:20<00:29, 11.39itSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-676
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-676/config.json
+{'eval_loss': 0.24928171932697296, 'eval_precision': 0.93085577076042, 'eval_recall': 0.9303754410271308, 'eval_f1': 0.9306148939672011, 'eval_balanced_accuracy': 0.9303754410271308, 'eval_runtime': 0.9221, 'eval_samples_per_second': 1459.642, 'eval_steps_per_second': 46.63, 'epoch': 4.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-676/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-676/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-676/special_tokens_map.json
+Deleting older checkpoint [model_output_rbt6/rbt6_cold/checkpoint-507] due to args.save_total_limit
+ 74% 754/1014 [01:29<00:22, 11.73it/s][codecarbon INFO @ 19:54:54] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+{'loss': 0.0261, 'grad_norm': 0.08397786319255829, 'learning_rate': 6.21301775147929e-06, 'epoch': 4.14}
+[codecarbon INFO @ 19:54:54] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:54:54] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 19:54:54] Energy consumed for all GPUs : 0.001511 kWh. Total GPU Power : 63.17312491025215 W
+[codecarbon INFO @ 19:54:54] 0.002824 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 80% 816/1014 [01:35<00:17, 11.61it/s][codecarbon INFO @ 19:55:00] Energy consumed for RAM : 0.000291 kWh. RAM Power : 10.0 W
+{'loss': 0.019, 'grad_norm': 8.93008804321289, 'learning_rate': 4.2406311637080875e-06, 'epoch': 4.73}
+[codecarbon INFO @ 19:55:00] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:00] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 19:55:00] Energy consumed for all GPUs : 0.001701 kWh. Total GPU Power : 63.12470044978867 W
+[codecarbon INFO @ 19:55:00] 0.003232 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 83% 844/1014 [01:37<00:14, 11.74it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 83% 845/1014 [01:38<00:14, 11.74itSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-845
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-845/config.json
+{'eval_loss': 0.2688541114330292, 'eval_precision': 0.9282555679614504, 'eval_recall': 0.9342686460436049, 'eval_f1': 0.9311441481031327, 'eval_balanced_accuracy': 0.9342686460436049, 'eval_runtime': 0.8663, 'eval_samples_per_second': 1553.729, 'eval_steps_per_second': 49.636, 'epoch': 5.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-845/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-845/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-845/special_tokens_map.json
+Deleting older checkpoint [model_output_rbt6/rbt6_cold/checkpoint-676] due to args.save_total_limit
+ 87% 879/1014 [01:44<00:11, 11.31it/s][codecarbon INFO @ 19:55:09] Energy consumed for RAM : 0.000292 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:09] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:09] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 19:55:09] Energy consumed for all GPUs : 0.001768 kWh. Total GPU Power : 61.62207357237888 W
+[codecarbon INFO @ 19:55:09] 0.003299 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 93% 941/1014 [01:50<00:06, 11.54it/s][codecarbon INFO @ 19:55:15] Energy consumed for RAM : 0.000333 kWh. RAM Power : 10.0 W
+{'loss': 0.0159, 'grad_norm': 0.023389944806694984, 'learning_rate': 2.268244575936884e-06, 'epoch': 5.33}
+[codecarbon INFO @ 19:55:15] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:15] Energy consumed for All CPU : 0.001416 kWh
+[codecarbon INFO @ 19:55:15] Energy consumed for all GPUs : 0.001958 kWh. Total GPU Power : 61.60697320130513 W
+[codecarbon INFO @ 19:55:15] 0.003707 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:55:15] 0.014538 g.CO2eq/s mean an estimation of 458.47956049019285 kg.CO2eq/year
+100% 1013/1014 [01:56<00:00, 11.54it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0191, 'grad_norm': 0.06999580562114716, 'learning_rate': 2.958579881656805e-07, 'epoch': 5.92}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+100% 1014/1014 [01:57<00:00, 11.54iSaving model checkpoint to model_output_rbt6/rbt6_cold/checkpoint-1014
+Configuration saved in model_output_rbt6/rbt6_cold/checkpoint-1014/config.json
+{'eval_loss': 0.27381789684295654, 'eval_precision': 0.928329937476279, 'eval_recall': 0.925921098042721, 'eval_f1': 0.927107693897381, 'eval_balanced_accuracy': 0.925921098042721, 'eval_runtime': 0.8707, 'eval_samples_per_second': 1545.884, 'eval_steps_per_second': 49.386, 'epoch': 6.0}
+Model weights saved in model_output_rbt6/rbt6_cold/checkpoint-1014/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/checkpoint-1014/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/checkpoint-1014/special_tokens_map.json
+[codecarbon INFO @ 19:55:24] Energy consumed for RAM : 0.000333 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:24] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:24] Energy consumed for All CPU : 0.001416 kWh
+[codecarbon INFO @ 19:55:24] Energy consumed for all GPUs : 0.002037 kWh. Total GPU Power : 64.66445995906454 W
+[codecarbon INFO @ 19:55:24] 0.003787 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:55:24] 0.014855 g.CO2eq/s mean an estimation of 468.4684294998575 kg.CO2eq/year
+[codecarbon INFO @ 19:55:30] Energy consumed for RAM : 0.000375 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:30] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:30] Energy consumed for All CPU : 0.001593 kWh
+[codecarbon INFO @ 19:55:30] Energy consumed for all GPUs : 0.002170 kWh. Total GPU Power : 50.91068203823722 W
+[codecarbon INFO @ 19:55:30] 0.004137 kWh of electricity and 0.000000 L of water were used since the beginning.
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+Loading best model from model_output_rbt6/rbt6_cold/checkpoint-845 (score: 0.9311441481031327).
+100% 1014/1014 [02:08<00:00, 11.54it/s]Deleting older checkpoint [model_output_rbt6/rbt6_cold/checkpoint-1014] due to args.save_total_limit
+{'train_runtime': 128.7887, 'train_samples_per_second': 250.69, 'train_steps_per_second': 7.873, 'train_loss': 0.08362348562866978, 'epoch': 6.0}
+[codecarbon INFO @ 19:55:33] Energy consumed for RAM : 0.000358 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:33] Delta energy consumed for CPU with constant : 0.000105 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:33] Energy consumed for All CPU : 0.001521 kWh
+[codecarbon INFO @ 19:55:33] Energy consumed for all GPUs : 0.002115 kWh. Total GPU Power : 31.483610074439095 W
+[codecarbon INFO @ 19:55:33] 0.003994 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1014/1014 [02:08<00:00,  7.87it/s]
+Saving model checkpoint to model_output_rbt6/rbt6_cold
+Configuration saved in model_output_rbt6/rbt6_cold/config.json
+Model weights saved in model_output_rbt6/rbt6_cold/model.safetensors
+tokenizer config file saved in model_output_rbt6/rbt6_cold/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/special_tokens_map.json
+[codecarbon INFO @ 19:55:45] Energy consumed for RAM : 0.000416 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:45] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:45] Energy consumed for All CPU : 0.001770 kWh
+[codecarbon INFO @ 19:55:45] Energy consumed for all GPUs : 0.002300 kWh. Total GPU Power : 31.30757229370847 W
+[codecarbon INFO @ 19:55:45] 0.004486 kWh of electricity and 0.000000 L of water were used since the beginning.
+tokenizer config file saved in model_output_rbt6/rbt6_cold/tokenizer_config.json
+Special tokens file saved in model_output_rbt6/rbt6_cold/special_tokens_map.json
+Model saved to: model_output_rbt6/rbt6_cold
+[codecarbon INFO @ 19:55:54] Energy consumed for RAM : 0.000442 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:55:54] Delta energy consumed for CPU with constant : 0.000111 kWh, power : 42.5 W
+[codecarbon INFO @ 19:55:54] Energy consumed for All CPU : 0.001881 kWh
+[codecarbon INFO @ 19:55:54] Energy consumed for all GPUs : 0.002381 kWh. Total GPU Power : 31.030497648547264 W
+[codecarbon INFO @ 19:55:54] 0.004704 kWh of electricity and 0.000000 L of water were used since the beginning.
+Training emissions: 0.002215 kg CO2
+
+============================================================
+Evaluating model: rbt6
+Model path: model_output_rbt6/rbt6_cold
+Test dataset: cold
+============================================================
+Number of unique labels: 2
+Test data size: 1682
+[codecarbon WARNING @ 19:55:54] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:55:54] [setup] RAM Tracking...
+[codecarbon INFO @ 19:55:54] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:55:54] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:55:54] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:55:54] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:55:54] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:55:54] [setup] GPU Tracking...
+[codecarbon INFO @ 19:55:54] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:55:54] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:55:54] >>> Tracker's metadata:
+[codecarbon INFO @ 19:55:54]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:55:54]   Python version: 3.12.12
+[codecarbon INFO @ 19:55:54]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:55:54]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:55:54]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:55:54]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:55:54]   GPU count: 1
+[codecarbon INFO @ 19:55:54]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:55:54] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+loading configuration file model_output_rbt6/rbt6_cold/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "dtype": "float32",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 6,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+loading weights file model_output_rbt6/rbt6_cold/model.safetensors
+loading file vocab.txt
+loading file tokenizer.json
+loading file added_tokens.json
+loading file special_tokens_map.json
+loading file tokenizer_config.json
+loading file chat_template.jinja
+Using device: GPU
+Device set to use cuda:0
+Running predictions...
+/usr/local/lib/python3.12/dist-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+[codecarbon INFO @ 19:56:04] Energy consumed for RAM : 0.000026 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:56:04] Delta energy consumed for CPU with constant : 0.000110 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:04] Energy consumed for All CPU : 0.000110 kWh
+[codecarbon INFO @ 19:56:04] Energy consumed for all GPUs : 0.000121 kWh. Total GPU Power : 46.63763819525072 W
+[codecarbon INFO @ 19:56:04] 0.000256 kWh of electricity and 0.000000 L of water were used since the beginning.
+Evaluation emissions: 0.000121 kg CO2
+Full results saved to: result_output_rbt6/rbt6_cold/full_results.csv
+Classification report saved to: result_output_rbt6/rbt6_cold/classification_report.csv
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.94      0.95      1121
+           1       0.88      0.92      0.90       561
+
+    accuracy                           0.93      1682
+   macro avg       0.92      0.93      0.92      1682
+weighted avg       0.93      0.93      0.93      1682
+
+
+Macro Precision: 0.9194
+Macro Recall: 0.9273
+Macro F1: 0.9232
+Balanced Accuracy: 0.9273
+
+######################################################################
+# Running experiment for: macbert
+# Model: hfl/chinese-macbert-base
+######################################################################
+
+============================================================
+Training model: macbert
+Model path: hfl/chinese-macbert-base
+============================================================
+Number of unique labels: 2
+[codecarbon WARNING @ 19:56:04] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:56:04] [setup] RAM Tracking...
+[codecarbon INFO @ 19:56:04] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:56:04] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:56:04] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:56:04] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:56:04] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:56:04] [setup] GPU Tracking...
+[codecarbon INFO @ 19:56:04] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:56:04] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:56:04] >>> Tracker's metadata:
+[codecarbon INFO @ 19:56:04]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:56:04]   Python version: 3.12.12
+[codecarbon INFO @ 19:56:04]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:56:04]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:56:04]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:56:04]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:56:04]   GPU count: 1
+[codecarbon INFO @ 19:56:04]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:56:04] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+config.json: 100% 659/659 [00:00<00:00, 2.49MB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+pytorch_model.bin: 100% 412M/412M [00:10<00:00, 39.9MB/s] 
+loading weights file pytorch_model.bin from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/pytorch_model.bin
+Attempting to create safetensors variant
+Some weights of the model checkpoint at hfl/chinese-macbert-base were not used when initializing BertForSequenceClassification: ['cls.predictions.bias', 'cls.predictions.decoder.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at hfl/chinese-macbert-base and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+tokenizer_config.json: 100% 19.0/19.0 [00:00<00:00, 75.7kB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+vocab.txt: 110kB [00:00, 71.7MB/s]
+tokenizer.json: 269kB [00:00, 122MB/s]
+added_tokens.json: 100% 2.00/2.00 [00:00<00:00, 7.63kB/s]
+special_tokens_map.json: 100% 112/112 [00:00<00:00, 555kB/s]
+[codecarbon INFO @ 19:56:19] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:56:19] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:19] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 19:56:19] Energy consumed for all GPUs : 0.000133 kWh. Total GPU Power : 31.817825503790566 W
+[codecarbon INFO @ 19:56:19] 0.000351 kWh of electricity and 0.000000 L of water were used since the beginning.
+loading file vocab.txt from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/vocab.txt
+loading file tokenizer.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/tokenizer.json
+loading file added_tokens.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/added_tokens.json
+loading file special_tokens_map.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/special_tokens_map.json
+loading file tokenizer_config.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/tokenizer_config.json
+loading file chat_template.jinja from cache at None
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--hfl--chinese-macbert-base/snapshots/a986e004d2a7f2a1c2f5a3edef4e20604a974ed1/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+Training split size: 5381
+Validation split size: 1346
+
+Map: 100% 5381/5381 [00:00<00:00, 17788.92 examples/s]
+Map: 100% 5381/5381 [00:00<00:00, 15558.97 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 19119.12 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 14187.86 examples/s]
+Sample tokenized input: {'text': '香港社会动不动就砍人', 'label': 1, 'group': 'region', 'data_name': 'COLD', '__index_level_0__': 3513, 'input_ids': [101, 7676, 3949, 4852, 833, 1220, 679, 1220, 2218, 4775, 782, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'token_type_ids': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'labels': 1}
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+/content/ChineseHeart/Model Training and Evaluation/Chinese_BERT_Models_Fine_Tuning.py:218: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[codecarbon WARNING @ 19:56:20] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 19:56:20] [setup] RAM Tracking...
+[codecarbon INFO @ 19:56:20] [setup] CPU Tracking...
+[codecarbon WARNING @ 19:56:20] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 19:56:20] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 19:56:20] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 19:56:20] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 19:56:20] [setup] GPU Tracking...
+[codecarbon INFO @ 19:56:20] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 19:56:20] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 19:56:20] >>> Tracker's metadata:
+[codecarbon INFO @ 19:56:20]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 19:56:20]   Python version: 3.12.12
+[codecarbon INFO @ 19:56:20]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 19:56:20]   Available RAM : 12.671 GB
+[codecarbon INFO @ 19:56:20]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 19:56:20]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 19:56:20]   GPU count: 1
+[codecarbon INFO @ 19:56:20]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 19:56:21] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/model_output_macbert/macbert_cold/emissions.csv
+Starting training...
+The following columns in the Training set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+***** Running training *****
+  Num examples = 5,381
+  Num Epochs = 6
+  Instantaneous batch size per device = 32
+  Total train batch size (w. parallel, distributed & accumulation) = 32
+  Gradient Accumulation steps = 1
+  Total optimization steps = 1,014
+  Number of trainable parameters = 102,269,186
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+A ConfigError was raised whilst setting the number of model parameters in Weights & Biases config.
+  7% 74/1014 [00:12<02:44,  5.73it/s][codecarbon INFO @ 19:56:34] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:56:34] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:34] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 19:56:34] Energy consumed for all GPUs : 0.000399 kWh. Total GPU Power : 64.05907356270073 W
+[codecarbon INFO @ 19:56:34] 0.000837 kWh of electricity and 0.000000 L of water were used since the beginning.
+  8% 86/1014 [00:14<02:43,  5.68it/s][codecarbon INFO @ 19:56:36] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:56:36] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:36] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 19:56:36] Energy consumed for all GPUs : 0.000288 kWh. Total GPU Power : 69.21716710984398 W
+[codecarbon INFO @ 19:56:36] 0.000507 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 16% 158/1014 [00:27<02:31,  5.64it/s][codecarbon INFO @ 19:56:49] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+{'loss': 0.2924, 'grad_norm': 1.4505653381347656, 'learning_rate': 1.804733727810651e-05, 'epoch': 0.59}
+[codecarbon INFO @ 19:56:49] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:49] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 19:56:49] Energy consumed for all GPUs : 0.000690 kWh. Total GPU Power : 69.79201086385375 W
+[codecarbon INFO @ 19:56:49] 0.001346 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 168/1014 [00:29<02:29,  5.66it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                                  [codecarbon INFO @ 19:56:51] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:56:51] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:56:51] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 19:56:51] Energy consumed for all GPUs : 0.000579 kWh. Total GPU Power : 69.73358707433279 W
+[codecarbon INFO @ 19:56:51] 0.001016 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 169/1014 [00:31<02:29,  5.66itSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-169
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-169/config.json
+{'eval_loss': 0.1654992252588272, 'eval_precision': 0.9239840031745046, 'eval_recall': 0.9403852981852401, 'eval_f1': 0.9312102096840138, 'eval_balanced_accuracy': 0.9403852981852401, 'eval_runtime': 1.8181, 'eval_samples_per_second': 740.345, 'eval_steps_per_second': 23.651, 'epoch': 1.0}
+Model weights saved in model_output_macbert/macbert_cold/checkpoint-169/model.safetensors
+tokenizer config file saved in model_output_macbert/macbert_cold/checkpoint-169/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/checkpoint-169/special_tokens_map.json
+[codecarbon INFO @ 19:57:04] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:57:04] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:04] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:57:04] Energy consumed for all GPUs : 0.000865 kWh. Total GPU Power : 42.01270575662701 W
+[codecarbon INFO @ 19:57:04] 0.001740 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:57:06] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:57:06] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:06] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 19:57:06] Energy consumed for all GPUs : 0.000732 kWh. Total GPU Power : 36.840668085119525 W
+[codecarbon INFO @ 19:57:06] 0.001389 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 22% 226/1014 [00:57<02:15,  5.84it/s][codecarbon INFO @ 19:57:19] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+{'loss': 0.1557, 'grad_norm': 13.44838809967041, 'learning_rate': 1.6074950690335306e-05, 'epoch': 1.18}
+[codecarbon INFO @ 19:57:19] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:19] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:57:19] Energy consumed for all GPUs : 0.001097 kWh. Total GPU Power : 55.74712619025961 W
+[codecarbon INFO @ 19:57:19] 0.002191 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 23% 238/1014 [00:59<02:15,  5.72it/s][codecarbon INFO @ 19:57:21] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:57:21] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:21] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 19:57:21] Energy consumed for all GPUs : 0.000988 kWh. Total GPU Power : 61.371437331210856 W
+[codecarbon INFO @ 19:57:21] 0.001863 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 31% 312/1014 [01:12<02:04,  5.64it/s][codecarbon INFO @ 19:57:34] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+{'loss': 0.117, 'grad_norm': 2.2253475189208984, 'learning_rate': 1.4102564102564105e-05, 'epoch': 1.78}
+[codecarbon INFO @ 19:57:34] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:34] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 19:57:34] Energy consumed for all GPUs : 0.001389 kWh. Total GPU Power : 70.00410643994182 W
+[codecarbon INFO @ 19:57:34] 0.002701 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 32% 323/1014 [01:14<02:03,  5.60it/s][codecarbon INFO @ 19:57:36] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:57:36] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:57:36] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 19:57:36] Energy consumed for all GPUs : 0.001278 kWh. Total GPU Power : 69.54225727859492 W
+[codecarbon INFO @ 19:57:36] 0.002372 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 33% 337/1014 [01:17<01:58,  5.70it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 33% 338/1014 [01:19<01:58,  5.70itSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-338
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-338/config.json
+{'eval_loss': 0.1896316260099411, 'eval_precision': 0.9413278525161933, 'eval_recall': 0.939845264963886, 'eval_f1': 0.940580048062724, 'eval_balanced_accuracy': 0.939845264963886, 'eval_runtime': 1.8067, 'eval_samples_per_second': 745.014, 'eval_steps_per_second': 23.801, 'epoch': 2.0}
+[codecarbon WARNING @ 19:58:19] Background scheduler didn't run for a long period (45s), results might be inaccurate
+[codecarbon INFO @ 19:58:19] Energy consumed for RAM : 0.000329 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:58:19] Delta energy consumed for CPU with constant : 0.000512 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:19] Energy consumed for All CPU : 0.001397 kWh
+[codecarbon INFO @ 19:58:19] Energy consumed for RAM : 0.000376 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:58:19] Delta energy consumed for CPU with constant : 0.000536 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:19] Energy consumed for All CPU : 0.001599 kWh
+[codecarbon INFO @ 19:58:19] Energy consumed for all GPUs : 0.001712 kWh. Total GPU Power : 36.02517432727023 W
+[codecarbon INFO @ 19:58:19] 0.003438 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:19] Energy consumed for all GPUs : 0.001862 kWh. Total GPU Power : 37.495243089782065 W
+[codecarbon INFO @ 19:58:19] 0.003837 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:34] Energy consumed for RAM : 0.000370 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:58:34] Energy consumed for RAM : 0.000418 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:58:34] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:34] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:35] Energy consumed for All CPU : 0.001574 kWh
+[codecarbon INFO @ 19:58:35] Energy consumed for All CPU : 0.001775 kWh
+[codecarbon INFO @ 19:58:35] Energy consumed for all GPUs : 0.001844 kWh. Total GPU Power : 31.749683114049855 W
+[codecarbon INFO @ 19:58:35] 0.003789 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:35] Energy consumed for all GPUs : 0.001995 kWh. Total GPU Power : 31.78259173518387 W
+[codecarbon INFO @ 19:58:35] 0.004188 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:35] 0.013102 g.CO2eq/s mean an estimation of 413.1812077085992 kg.CO2eq/year
+Deleting older checkpoint [model_output_macbert/macbert_cold/checkpoint-169] due to args.save_total_limit
+ 42% 421/1014 [02:28<01:44,  5.67it/s][codecarbon INFO @ 19:58:49] Energy consumed for RAM : 0.000412 kWh. RAM Power : 10.0 W
+{'loss': 0.0754, 'grad_norm': 8.541001319885254, 'learning_rate': 1.21301775147929e-05, 'epoch': 2.37}
+[codecarbon INFO @ 19:58:49] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:49] Energy consumed for All CPU : 0.001751 kWh
+[codecarbon INFO @ 19:58:49] Energy consumed for RAM : 0.000459 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:58:49] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:58:49] Energy consumed for All CPU : 0.001952 kWh
+[codecarbon INFO @ 19:58:49] Energy consumed for all GPUs : 0.002128 kWh. Total GPU Power : 68.31852536319941 W
+[codecarbon INFO @ 19:58:49] Energy consumed for all GPUs : 0.002279 kWh. Total GPU Power : 68.30085459995007 W
+[codecarbon INFO @ 19:58:49] 0.004690 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:49] 0.004291 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:58:49] 0.013613 g.CO2eq/s mean an estimation of 429.30691710857093 kg.CO2eq/year
+ 50% 504/1014 [02:43<01:30,  5.63it/s][codecarbon INFO @ 19:59:04] Energy consumed for RAM : 0.000454 kWh. RAM Power : 10.0 W
+{'loss': 0.0683, 'grad_norm': 0.3397495746612549, 'learning_rate': 1.0157790927021698e-05, 'epoch': 2.96}
+[codecarbon INFO @ 19:59:04] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:04] Energy consumed for All CPU : 0.001928 kWh
+ 50% 505/1014 [02:43<01:30,  5.61it/s][codecarbon INFO @ 19:59:04] Energy consumed for all GPUs : 0.002417 kWh. Total GPU Power : 69.25075034998498 W
+[codecarbon INFO @ 19:59:04] Energy consumed for RAM : 0.000501 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:59:04] 0.004798 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:59:04] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:04] Energy consumed for All CPU : 0.002129 kWh
+[codecarbon INFO @ 19:59:04] Energy consumed for all GPUs : 0.002569 kWh. Total GPU Power : 69.64710410608392 W
+[codecarbon INFO @ 19:59:04] 0.005199 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 50% 506/1014 [02:43<01:29,  5.67it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 50% 507/1014 [02:45<01:29,  5.67itSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-507
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-507/config.json
+{'eval_loss': 0.1943303644657135, 'eval_precision': 0.9335508882127785, 'eval_recall': 0.9387254719393772, 'eval_f1': 0.9360529434884038, 'eval_balanced_accuracy': 0.9387254719393772, 'eval_runtime': 1.8736, 'eval_samples_per_second': 718.415, 'eval_steps_per_second': 22.951, 'epoch': 3.0}
+Model weights saved in model_output_macbert/macbert_cold/checkpoint-507/model.safetensors
+[codecarbon INFO @ 19:59:32] Energy consumed for RAM : 0.000578 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:59:32] Delta energy consumed for CPU with constant : 0.000327 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:32] Energy consumed for All CPU : 0.002456 kWh
+tokenizer config file saved in model_output_macbert/macbert_cold/checkpoint-507/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/checkpoint-507/special_tokens_map.json
+[codecarbon INFO @ 19:59:32] Energy consumed for RAM : 0.000530 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:59:32] Delta energy consumed for CPU with constant : 0.000327 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:32] Energy consumed for All CPU : 0.002255 kWh
+[codecarbon INFO @ 19:59:32] Energy consumed for all GPUs : 0.002689 kWh. Total GPU Power : 35.453952995900025 W
+[codecarbon INFO @ 19:59:32] 0.005475 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:59:32] Energy consumed for all GPUs : 0.002840 kWh. Total GPU Power : 35.25285893981859 W
+[codecarbon INFO @ 19:59:32] 0.005873 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:59:47] Energy consumed for RAM : 0.000619 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:59:47] Energy consumed for RAM : 0.000572 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 19:59:47] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:47] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 19:59:47] Energy consumed for All CPU : 0.002632 kWh
+[codecarbon INFO @ 19:59:47] Energy consumed for All CPU : 0.002432 kWh
+[codecarbon INFO @ 19:59:47] Energy consumed for all GPUs : 0.002970 kWh. Total GPU Power : 31.345584896908196 W
+[codecarbon INFO @ 19:59:47] 0.006222 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 19:59:47] Energy consumed for all GPUs : 0.002820 kWh. Total GPU Power : 31.343349960752885 W
+[codecarbon INFO @ 19:59:47] 0.005823 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 58% 591/1014 [03:40<01:14,  5.67it/s][codecarbon INFO @ 20:00:02] Energy consumed for RAM : 0.000614 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:02] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:02] Energy consumed for All CPU : 0.002608 kWh
+[codecarbon INFO @ 20:00:02] Energy consumed for RAM : 0.000661 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:02] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:02] Energy consumed for All CPU : 0.002810 kWh
+[codecarbon INFO @ 20:00:02] Energy consumed for all GPUs : 0.003256 kWh. Total GPU Power : 68.52151992221182 W
+[codecarbon INFO @ 20:00:02] 0.006726 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:00:02] Energy consumed for all GPUs : 0.003105 kWh. Total GPU Power : 68.61120090757774 W
+[codecarbon INFO @ 20:00:02] 0.006328 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 675/1014 [03:55<01:00,  5.62it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.041, 'grad_norm': 0.6126878261566162, 'learning_rate': 8.185404339250494e-06, 'epoch': 3.55}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+                          [codecarbon INFO @ 20:00:17] Energy consumed for RAM : 0.000703 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:17] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:17] Energy consumed for All CPU : 0.002986 kWh
+[codecarbon INFO @ 20:00:17] Energy consumed for RAM : 0.000655 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:17] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:17] Energy consumed for All CPU : 0.002785 kWh
+[codecarbon INFO @ 20:00:17] Energy consumed for all GPUs : 0.003546 kWh. Total GPU Power : 69.76054502081108 W
+[codecarbon INFO @ 20:00:17] 0.007235 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:00:17] Energy consumed for all GPUs : 0.003396 kWh. Total GPU Power : 69.77078375841276 W
+[codecarbon INFO @ 20:00:17] 0.006836 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 676/1014 [03:57<01:00,  5.62itSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-676
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-676/config.json
+{'eval_loss': 0.2794037163257599, 'eval_precision': 0.9369642702976035, 'eval_recall': 0.9398415405968422, 'eval_f1': 0.9383772841559265, 'eval_balanced_accuracy': 0.9398415405968422, 'eval_runtime': 1.8475, 'eval_samples_per_second': 728.553, 'eval_steps_per_second': 23.275, 'epoch': 4.0}
+Model weights saved in model_output_macbert/macbert_cold/checkpoint-676/model.safetensors
+tokenizer config file saved in model_output_macbert/macbert_cold/checkpoint-676/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/checkpoint-676/special_tokens_map.json
+Deleting older checkpoint [model_output_macbert/macbert_cold/checkpoint-507] due to args.save_total_limit
+ 68% 693/1014 [04:11<00:58,  5.48it/s][codecarbon INFO @ 20:00:32] Energy consumed for RAM : 0.000697 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:32] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:32] Energy consumed for All CPU : 0.002962 kWh
+[codecarbon INFO @ 20:00:32] Energy consumed for RAM : 0.000744 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:32] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:32] Energy consumed for All CPU : 0.003163 kWh
+[codecarbon INFO @ 20:00:32] Energy consumed for all GPUs : 0.003586 kWh. Total GPU Power : 45.67594440978644 W
+[codecarbon INFO @ 20:00:32] 0.007245 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:00:32] Energy consumed for all GPUs : 0.003736 kWh. Total GPU Power : 45.65781458303932 W
+[codecarbon INFO @ 20:00:32] 0.007644 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 77% 779/1014 [04:25<00:40,  5.76it/s][codecarbon INFO @ 20:00:47] Energy consumed for RAM : 0.000786 kWh. RAM Power : 10.0 W
+{'loss': 0.0217, 'grad_norm': 0.03652559965848923, 'learning_rate': 6.21301775147929e-06, 'epoch': 4.14}
+[codecarbon INFO @ 20:00:47] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:47] Energy consumed for All CPU : 0.003340 kWh
+[codecarbon INFO @ 20:00:47] Energy consumed for RAM : 0.000739 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:00:47] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:00:47] Energy consumed for All CPU : 0.003139 kWh
+[codecarbon INFO @ 20:00:47] Energy consumed for all GPUs : 0.004026 kWh. Total GPU Power : 69.69167808790021 W
+[codecarbon INFO @ 20:00:47] 0.008152 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:00:47] 0.014070 g.CO2eq/s mean an estimation of 443.6990377330618 kg.CO2eq/year
+[codecarbon INFO @ 20:00:47] Energy consumed for all GPUs : 0.003876 kWh. Total GPU Power : 69.62154055461029 W
+[codecarbon INFO @ 20:00:47] 0.007754 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 83% 844/1014 [04:37<00:29,  5.81it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0184, 'grad_norm': 3.940991163253784, 'learning_rate': 4.2406311637080875e-06, 'epoch': 4.73}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 83% 845/1014 [04:39<00:29,  5.81itSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-845
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-845/config.json
+{'eval_loss': 0.28920015692710876, 'eval_precision': 0.9338500938045002, 'eval_recall': 0.9403952298306903, 'eval_f1': 0.9369850187265918, 'eval_balanced_accuracy': 0.9403952298306903, 'eval_runtime': 1.7482, 'eval_samples_per_second': 769.919, 'eval_steps_per_second': 24.596, 'epoch': 5.0}
+Model weights saved in model_output_macbert/macbert_cold/checkpoint-845/model.safetensors
+[codecarbon INFO @ 20:01:29] Energy consumed for RAM : 0.000903 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:01:29] Delta energy consumed for CPU with constant : 0.000496 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:29] Energy consumed for All CPU : 0.003836 kWh
+[codecarbon INFO @ 20:01:29] Energy consumed for RAM : 0.000855 kWh. RAM Power : 10.0 W
+tokenizer config file saved in model_output_macbert/macbert_cold/checkpoint-845/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/checkpoint-845/special_tokens_map.json
+[codecarbon INFO @ 20:01:29] Delta energy consumed for CPU with constant : 0.000496 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:29] Energy consumed for All CPU : 0.003635 kWh
+[codecarbon INFO @ 20:01:29] 0.009275 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:01:29] Energy consumed for all GPUs : 0.004387 kWh. Total GPU Power : 43.765996004987834 W
+[codecarbon INFO @ 20:01:29] 0.008877 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:01:29] 0.013517 g.CO2eq/s mean an estimation of 426.27668325311816 kg.CO2eq/year
+[codecarbon INFO @ 20:01:44] Energy consumed for RAM : 0.000944 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:01:44] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:44] Energy consumed for All CPU : 0.004013 kWh
+[codecarbon INFO @ 20:01:44] Energy consumed for RAM : 0.000897 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:01:44] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:44] Energy consumed for All CPU : 0.003812 kWh
+[codecarbon INFO @ 20:01:44] Energy consumed for all GPUs : 0.004667 kWh. Total GPU Power : 31.527188076427475 W
+[codecarbon INFO @ 20:01:44] 0.009624 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:01:44] Energy consumed for all GPUs : 0.004517 kWh. Total GPU Power : 31.312873586179375 W
+[codecarbon INFO @ 20:01:44] 0.009226 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_macbert/macbert_cold/checkpoint-676] due to args.save_total_limit
+ 90% 908/1014 [05:38<00:19,  5.58it/s][codecarbon INFO @ 20:01:59] Energy consumed for RAM : 0.000986 kWh. RAM Power : 10.0 W
+{'loss': 0.0091, 'grad_norm': 0.017972605302929878, 'learning_rate': 2.268244575936884e-06, 'epoch': 5.33}
+[codecarbon INFO @ 20:01:59] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:59] Energy consumed for All CPU : 0.004190 kWh
+[codecarbon INFO @ 20:01:59] Energy consumed for RAM : 0.000938 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:01:59] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:01:59] Energy consumed for All CPU : 0.003989 kWh
+[codecarbon INFO @ 20:01:59] Energy consumed for all GPUs : 0.004915 kWh. Total GPU Power : 59.319426178620866 W
+[codecarbon INFO @ 20:01:59] 0.010091 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:01:59] Energy consumed for all GPUs : 0.004765 kWh. Total GPU Power : 59.3195167556566 W
+[codecarbon INFO @ 20:01:59] 0.009692 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 98% 993/1014 [05:53<00:03,  5.54it/s][codecarbon INFO @ 20:02:14] Energy consumed for RAM : 0.001027 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:14] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:14] Energy consumed for All CPU : 0.004367 kWh
+[codecarbon INFO @ 20:02:14] Energy consumed for all GPUs : 0.005203 kWh. Total GPU Power : 69.37252079273463 W
+[codecarbon INFO @ 20:02:14] 0.010597 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:02:14] Energy consumed for RAM : 0.000980 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:14] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:14] Energy consumed for All CPU : 0.004166 kWh
+[codecarbon INFO @ 20:02:14] Energy consumed for all GPUs : 0.005055 kWh. Total GPU Power : 69.66259806551868 W
+[codecarbon INFO @ 20:02:14] 0.010201 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1013/1014 [05:56<00:00,  5.62it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0131, 'grad_norm': 0.07158289849758148, 'learning_rate': 2.958579881656805e-07, 'epoch': 5.92}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+100% 1014/1014 [05:58<00:00,  5.62iSaving model checkpoint to model_output_macbert/macbert_cold/checkpoint-1014
+Configuration saved in model_output_macbert/macbert_cold/checkpoint-1014/config.json
+{'eval_loss': 0.30527976155281067, 'eval_precision': 0.9373567778824262, 'eval_recall': 0.9392853684516317, 'eval_f1': 0.9383096532844455, 'eval_balanced_accuracy': 0.9392853684516317, 'eval_runtime': 1.8254, 'eval_samples_per_second': 737.391, 'eval_steps_per_second': 23.557, 'epoch': 6.0}
+Model weights saved in model_output_macbert/macbert_cold/checkpoint-1014/model.safetensors
+[codecarbon INFO @ 20:02:31] Energy consumed for RAM : 0.001028 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:31] Delta energy consumed for CPU with constant : 0.000202 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:31] Energy consumed for All CPU : 0.004368 kWh
+[codecarbon INFO @ 20:02:31] Energy consumed for RAM : 0.001075 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:31] Delta energy consumed for CPU with constant : 0.000202 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:31] Energy consumed for All CPU : 0.004569 kWh
+tokenizer config file saved in model_output_macbert/macbert_cold/checkpoint-1014/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/checkpoint-1014/special_tokens_map.json
+[codecarbon INFO @ 20:02:31] Energy consumed for all GPUs : 0.005422 kWh. Total GPU Power : 46.051528951732735 W
+[codecarbon INFO @ 20:02:31] 0.011066 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:02:31] Energy consumed for all GPUs : 0.005272 kWh. Total GPU Power : 45.73200077788848 W
+[codecarbon INFO @ 20:02:31] 0.010668 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_macbert/macbert_cold/checkpoint-845] due to args.save_total_limit
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+Loading best model from model_output_macbert/macbert_cold/checkpoint-338 (score: 0.940580048062724).
+100% 1014/1014 [06:16<00:00,  5.62it/s]Deleting older checkpoint [model_output_macbert/macbert_cold/checkpoint-1014] due to args.save_total_limit
+{'train_runtime': 376.5313, 'train_samples_per_second': 85.746, 'train_steps_per_second': 2.693, 'train_loss': 0.08014618045112203, 'epoch': 6.0}
+[codecarbon INFO @ 20:02:38] Energy consumed for RAM : 0.001046 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:38] Delta energy consumed for CPU with constant : 0.000077 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:38] Energy consumed for All CPU : 0.004445 kWh
+[codecarbon INFO @ 20:02:38] Energy consumed for all GPUs : 0.005329 kWh. Total GPU Power : 31.410707684175794 W
+[codecarbon INFO @ 20:02:38] 0.010820 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1014/1014 [06:16<00:00,  2.69it/s]
+Saving model checkpoint to model_output_macbert/macbert_cold
+Configuration saved in model_output_macbert/macbert_cold/config.json
+Model weights saved in model_output_macbert/macbert_cold/model.safetensors
+[codecarbon INFO @ 20:02:50] Energy consumed for RAM : 0.001126 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:50] Delta energy consumed for CPU with constant : 0.000217 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:50] Energy consumed for All CPU : 0.004786 kWh
+tokenizer config file saved in model_output_macbert/macbert_cold/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/special_tokens_map.json
+[codecarbon INFO @ 20:02:50] Energy consumed for all GPUs : 0.005583 kWh. Total GPU Power : 31.47019911138523 W
+[codecarbon INFO @ 20:02:50] 0.011496 kWh of electricity and 0.000000 L of water were used since the beginning.
+tokenizer config file saved in model_output_macbert/macbert_cold/tokenizer_config.json
+Special tokens file saved in model_output_macbert/macbert_cold/special_tokens_map.json
+Model saved to: model_output_macbert/macbert_cold
+[codecarbon INFO @ 20:02:50] Energy consumed for RAM : 0.001126 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:02:50] Delta energy consumed for CPU with constant : 0.000000 kWh, power : 42.5 W
+[codecarbon INFO @ 20:02:50] Energy consumed for All CPU : 0.004787 kWh
+[codecarbon INFO @ 20:02:50] Energy consumed for all GPUs : 0.005583 kWh. Total GPU Power : 0.0 W
+[codecarbon INFO @ 20:02:50] 0.011496 kWh of electricity and 0.000000 L of water were used since the beginning.
+Training emissions: 0.005412 kg CO2
+
+============================================================
+Evaluating model: macbert
+Model path: model_output_macbert/macbert_cold
+Test dataset: cold
+============================================================
+Number of unique labels: 2
+Test data size: 1682
+[codecarbon WARNING @ 20:02:50] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 20:02:50] [setup] RAM Tracking...
+[codecarbon INFO @ 20:02:50] [setup] CPU Tracking...
+[codecarbon WARNING @ 20:02:50] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 20:02:50] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 20:02:50] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 20:02:50] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 20:02:50] [setup] GPU Tracking...
+[codecarbon INFO @ 20:02:50] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 20:02:50] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 20:02:50] >>> Tracker's metadata:
+[codecarbon INFO @ 20:02:50]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 20:02:50]   Python version: 3.12.12
+[codecarbon INFO @ 20:02:50]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 20:02:50]   Available RAM : 12.671 GB
+[codecarbon INFO @ 20:02:50]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 20:02:50]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 20:02:50]   GPU count: 1
+[codecarbon INFO @ 20:02:50]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 20:02:50] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+loading configuration file model_output_macbert/macbert_cold/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "dtype": "float32",
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+loading weights file model_output_macbert/macbert_cold/model.safetensors
+loading file vocab.txt
+loading file tokenizer.json
+loading file added_tokens.json
+loading file special_tokens_map.json
+loading file tokenizer_config.json
+loading file chat_template.jinja
+Using device: GPU
+Device set to use cuda:0
+Running predictions...
+/usr/local/lib/python3.12/dist-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+[codecarbon INFO @ 20:03:05] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:05] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:05] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 20:03:05] Energy consumed for all GPUs : 0.000243 kWh. Total GPU Power : 58.40533036396657 W
+[codecarbon INFO @ 20:03:05] 0.000462 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:03:06] Energy consumed for RAM : 0.000045 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:06] Delta energy consumed for CPU with constant : 0.000012 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:06] Energy consumed for All CPU : 0.000189 kWh
+[codecarbon INFO @ 20:03:06] Energy consumed for all GPUs : 0.000258 kWh. Total GPU Power : 50.395531786014054 W
+[codecarbon INFO @ 20:03:06] 0.000492 kWh of electricity and 0.000000 L of water were used since the beginning.
+Evaluation emissions: 0.000232 kg CO2
+Full results saved to: result_output_macbert/macbert_cold/full_results.csv
+Classification report saved to: result_output_macbert/macbert_cold/classification_report.csv
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96      1121
+           1       0.92      0.91      0.92       561
+
+    accuracy                           0.94      1682
+   macro avg       0.94      0.94      0.94      1682
+weighted avg       0.94      0.94      0.94      1682
+
+
+Macro Precision: 0.9378
+Macro Recall: 0.9363
+Macro F1: 0.9370
+Balanced Accuracy: 0.9363
+
+######################################################################
+# Running experiment for: bert_chinese
+# Model: bert-base-chinese
+######################################################################
+
+============================================================
+Training model: bert_chinese
+Model path: bert-base-chinese
+============================================================
+Number of unique labels: 2
+[codecarbon WARNING @ 20:03:06] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 20:03:06] [setup] RAM Tracking...
+[codecarbon INFO @ 20:03:06] [setup] CPU Tracking...
+[codecarbon WARNING @ 20:03:06] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 20:03:06] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 20:03:06] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 20:03:06] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 20:03:06] [setup] GPU Tracking...
+[codecarbon INFO @ 20:03:06] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 20:03:06] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 20:03:06] >>> Tracker's metadata:
+[codecarbon INFO @ 20:03:06]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 20:03:06]   Python version: 3.12.12
+[codecarbon INFO @ 20:03:06]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 20:03:06]   Available RAM : 12.671 GB
+[codecarbon INFO @ 20:03:06]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 20:03:06]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 20:03:06]   GPU count: 1
+[codecarbon INFO @ 20:03:06]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 20:03:07] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+config.json: 100% 624/624 [00:00<00:00, 1.98MB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+model.safetensors: 100% 412M/412M [00:09<00:00, 41.3MB/s] 
+loading weights file model.safetensors from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/model.safetensors
+A pretrained model of type `BertForSequenceClassification` contains parameters that have been renamed internally (a few are listed below but more are present in the model):
+* `cls.predictions.transform.LayerNorm.beta` -> `cls.predictions.transform.LayerNorm.bias`
+* `cls.predictions.transform.LayerNorm.gamma` -> `cls.predictions.transform.LayerNorm.weight`
+If you are using a model from the Hub, consider submitting a PR to adjust these weights and help future users.
+Some weights of the model checkpoint at bert-base-chinese were not used when initializing BertForSequenceClassification: ['cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-chinese and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+tokenizer_config.json: 100% 49.0/49.0 [00:00<00:00, 172kB/s]
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+vocab.txt: 100% 110k/110k [00:00<00:00, 15.6MB/s]
+tokenizer.json: 100% 269k/269k [00:00<00:00, 1.21MB/s]
+loading file vocab.txt from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/vocab.txt
+loading file tokenizer.json from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/tokenizer.json
+loading file added_tokens.json from cache at None
+loading file special_tokens_map.json from cache at None
+loading file tokenizer_config.json from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/tokenizer_config.json
+loading file chat_template.jinja from cache at None
+loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--bert-base-chinese/snapshots/8f23c25b06e129b6c986331a13d8d025a92cf0ea/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+Training split size: 5381
+Validation split size: 1346
+
+Map: 100% 5381/5381 [00:00<00:00, 19744.18 examples/s]
+Map:   0% 0/5381 [00:00<?, ? examples/s][codecarbon INFO @ 20:03:22] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:22] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:22] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 20:03:22] Energy consumed for all GPUs : 0.000136 kWh. Total GPU Power : 32.72730750388477 W
+[codecarbon INFO @ 20:03:22] 0.000355 kWh of electricity and 0.000000 L of water were used since the beginning.
+Map: 100% 5381/5381 [00:00<00:00, 13696.84 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 22320.27 examples/s]
+Map: 100% 1346/1346 [00:00<00:00, 12950.55 examples/s]
+Sample tokenized input: {'text': '香港社会动不动就砍人', 'label': 1, 'group': 'region', 'data_name': 'COLD', '__index_level_0__': 3513, 'input_ids': [101, 7676, 3949, 4852, 833, 1220, 679, 1220, 2218, 4775, 782, 102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'token_type_ids': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 'labels': 1}
+PyTorch: setting up devices
+The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
+/content/ChineseHeart/Model Training and Evaluation/Chinese_BERT_Models_Fine_Tuning.py:218: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+[codecarbon WARNING @ 20:03:22] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 20:03:22] [setup] RAM Tracking...
+[codecarbon INFO @ 20:03:22] [setup] CPU Tracking...
+[codecarbon WARNING @ 20:03:22] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 20:03:22] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 20:03:22] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 20:03:22] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 20:03:22] [setup] GPU Tracking...
+[codecarbon INFO @ 20:03:22] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 20:03:22] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 20:03:22] >>> Tracker's metadata:
+[codecarbon INFO @ 20:03:22]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 20:03:22]   Python version: 3.12.12
+[codecarbon INFO @ 20:03:22]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 20:03:22]   Available RAM : 12.671 GB
+[codecarbon INFO @ 20:03:22]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 20:03:22]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 20:03:22]   GPU count: 1
+[codecarbon INFO @ 20:03:22]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 20:03:23] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/model_output_bert_chinese/bert_chinese_cold/emissions.csv
+Starting training...
+The following columns in the Training set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+***** Running training *****
+  Num examples = 5,381
+  Num Epochs = 6
+  Instantaneous batch size per device = 32
+  Total train batch size (w. parallel, distributed & accumulation) = 32
+  Gradient Accumulation steps = 1
+  Total optimization steps = 1,014
+  Number of trainable parameters = 102,269,186
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+A ConfigError was raised whilst setting the number of model parameters in Weights & Biases config.
+  7% 75/1014 [00:13<02:47,  5.59it/s][codecarbon INFO @ 20:03:37] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:37] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:37] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 20:03:37] Energy consumed for all GPUs : 0.000411 kWh. Total GPU Power : 65.84557748785016 W
+[codecarbon INFO @ 20:03:37] 0.000848 kWh of electricity and 0.000000 L of water were used since the beginning.
+  8% 84/1014 [00:14<02:47,  5.54it/s][codecarbon INFO @ 20:03:38] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:38] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:38] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 20:03:38] Energy consumed for all GPUs : 0.000290 kWh. Total GPU Power : 69.57681030030739 W
+[codecarbon INFO @ 20:03:38] 0.000509 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 16% 159/1014 [00:28<02:29,  5.72it/s][codecarbon INFO @ 20:03:52] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+{'loss': 0.2808, 'grad_norm': 7.28590202331543, 'learning_rate': 1.804733727810651e-05, 'epoch': 0.59}
+[codecarbon INFO @ 20:03:52] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:52] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 20:03:52] Energy consumed for all GPUs : 0.000700 kWh. Total GPU Power : 69.49257539519624 W
+[codecarbon INFO @ 20:03:52] 0.001356 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 17% 168/1014 [00:29<02:27,  5.75it/s][codecarbon INFO @ 20:03:53] Energy consumed for RAM : 0.000083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:03:53] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:03:53] Energy consumed for All CPU : 0.000354 kWh
+[codecarbon INFO @ 20:03:53] Energy consumed for all GPUs : 0.000579 kWh. Total GPU Power : 69.46981715116517 W
+[codecarbon INFO @ 20:03:53] 0.001017 kWh of electricity and 0.000000 L of water were used since the beginning.
+The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 17% 169/1014 [00:31<02:26,  5.75itSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-169
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-169/config.json
+{'eval_loss': 0.18340784311294556, 'eval_precision': 0.9243196449473273, 'eval_recall': 0.9320389916400375, 'eval_f1': 0.927979556629796, 'eval_balanced_accuracy': 0.9320389916400375, 'eval_runtime': 1.7805, 'eval_samples_per_second': 755.954, 'eval_steps_per_second': 24.15, 'epoch': 1.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-169/model.safetensors
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-169/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-169/special_tokens_map.json
+[codecarbon INFO @ 20:04:07] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:07] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:07] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 20:04:07] Energy consumed for all GPUs : 0.000871 kWh. Total GPU Power : 40.98408179677909 W
+[codecarbon INFO @ 20:04:07] 0.001746 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:04:08] Energy consumed for RAM : 0.000125 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:08] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:08] Energy consumed for All CPU : 0.000531 kWh
+[codecarbon INFO @ 20:04:08] Energy consumed for all GPUs : 0.000734 kWh. Total GPU Power : 37.053875587062045 W
+[codecarbon INFO @ 20:04:08] 0.001390 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:04:22] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:22] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:22] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 20:04:22] Energy consumed for all GPUs : 0.000999 kWh. Total GPU Power : 30.727787895577297 W
+[codecarbon INFO @ 20:04:22] 0.002092 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:04:23] Energy consumed for RAM : 0.000167 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:23] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:23] Energy consumed for All CPU : 0.000708 kWh
+[codecarbon INFO @ 20:04:23] Energy consumed for all GPUs : 0.000862 kWh. Total GPU Power : 30.891971349476638 W
+[codecarbon INFO @ 20:04:23] 0.001737 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:04:37] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:37] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:37] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 20:04:37] Energy consumed for all GPUs : 0.001128 kWh. Total GPU Power : 30.98493245000184 W
+[codecarbon INFO @ 20:04:37] 0.002440 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:04:38] Energy consumed for RAM : 0.000208 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:38] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:38] Energy consumed for All CPU : 0.000885 kWh
+[codecarbon INFO @ 20:04:38] Energy consumed for all GPUs : 0.000991 kWh. Total GPU Power : 30.812548624768585 W
+[codecarbon INFO @ 20:04:38] 0.002084 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 18% 187/1014 [01:28<02:52,  4.78it/s][codecarbon INFO @ 20:04:52] Energy consumed for RAM : 0.000292 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:52] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:52] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 20:04:52] Energy consumed for all GPUs : 0.001290 kWh. Total GPU Power : 38.926067879985595 W
+[codecarbon INFO @ 20:04:52] 0.002821 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 19% 196/1014 [01:29<02:19,  5.84it/s][codecarbon INFO @ 20:04:53] Energy consumed for RAM : 0.000250 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:04:53] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:04:53] Energy consumed for All CPU : 0.001062 kWh
+[codecarbon INFO @ 20:04:53] Energy consumed for all GPUs : 0.001169 kWh. Total GPU Power : 42.842487141415916 W
+[codecarbon INFO @ 20:04:53] 0.002481 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 27% 273/1014 [01:43<02:09,  5.70it/s][codecarbon INFO @ 20:05:07] Energy consumed for RAM : 0.000333 kWh. RAM Power : 10.0 W
+{'loss': 0.1504, 'grad_norm': 10.176051139831543, 'learning_rate': 1.6074950690335306e-05, 'epoch': 1.18}
+[codecarbon INFO @ 20:05:07] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:07] Energy consumed for All CPU : 0.001416 kWh
+[codecarbon INFO @ 20:05:07] Energy consumed for all GPUs : 0.001580 kWh. Total GPU Power : 69.68885455358365 W
+[codecarbon INFO @ 20:05:07] 0.003330 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:05:07] 0.013063 g.CO2eq/s mean an estimation of 411.944855937594 kg.CO2eq/year
+ 28% 282/1014 [01:44<02:08,  5.70it/s][codecarbon INFO @ 20:05:08] Energy consumed for RAM : 0.000292 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:08] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:08] Energy consumed for All CPU : 0.001239 kWh
+[codecarbon INFO @ 20:05:08] Energy consumed for all GPUs : 0.001460 kWh. Total GPU Power : 69.74334534510014 W
+[codecarbon INFO @ 20:05:08] 0.002990 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 33% 337/1014 [01:54<02:02,  5.53it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.1101, 'grad_norm': 1.9241608381271362, 'learning_rate': 1.4102564102564105e-05, 'epoch': 1.78}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 33% 338/1014 [01:56<02:02,  5.53itSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-338
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-338/config.json
+{'eval_loss': 0.2116561383008957, 'eval_precision': 0.9360613940766613, 'eval_recall': 0.9259273053211273, 'eval_f1': 0.9307009767111281, 'eval_balanced_accuracy': 0.9259273053211273, 'eval_runtime': 1.8769, 'eval_samples_per_second': 717.127, 'eval_steps_per_second': 22.91, 'epoch': 2.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-338/model.safetensors
+[codecarbon INFO @ 20:05:27] Energy consumed for RAM : 0.000390 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:27] Delta energy consumed for CPU with constant : 0.000241 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:27] Energy consumed for All CPU : 0.001657 kWh
+[codecarbon INFO @ 20:05:27] Energy consumed for RAM : 0.000344 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:27] Delta energy consumed for CPU with constant : 0.000223 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:27] Energy consumed for All CPU : 0.001462 kWh
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-338/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-338/special_tokens_map.json
+[codecarbon INFO @ 20:05:27] Energy consumed for all GPUs : 0.001908 kWh. Total GPU Power : 57.7537499888532 W
+[codecarbon INFO @ 20:05:27] 0.003955 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:05:27] Energy consumed for all GPUs : 0.001758 kWh. Total GPU Power : 56.822669579935045 W
+[codecarbon INFO @ 20:05:27] 0.003564 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:05:27] 0.013539 g.CO2eq/s mean an estimation of 426.97554991681903 kg.CO2eq/year
+Deleting older checkpoint [model_output_bert_chinese/bert_chinese_cold/checkpoint-169] due to args.save_total_limit
+ 40% 403/1014 [02:18<01:49,  5.58it/s][codecarbon INFO @ 20:05:42] Energy consumed for RAM : 0.000432 kWh. RAM Power : 10.0 W
+{'loss': 0.0736, 'grad_norm': 3.279712677001953, 'learning_rate': 1.21301775147929e-05, 'epoch': 2.37}
+[codecarbon INFO @ 20:05:42] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:42] Energy consumed for All CPU : 0.001834 kWh
+[codecarbon INFO @ 20:05:42] Energy consumed for RAM : 0.000386 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:42] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:42] Energy consumed for All CPU : 0.001639 kWh
+[codecarbon INFO @ 20:05:42] Energy consumed for all GPUs : 0.002160 kWh. Total GPU Power : 60.61763703052656 W
+[codecarbon INFO @ 20:05:42] 0.004426 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:05:42] Energy consumed for all GPUs : 0.002010 kWh. Total GPU Power : 60.605013477855394 W
+[codecarbon INFO @ 20:05:42] 0.004035 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 48% 489/1014 [02:33<01:31,  5.75it/s][codecarbon INFO @ 20:05:57] Energy consumed for RAM : 0.000473 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:57] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:57] Energy consumed for All CPU : 0.002011 kWh
+[codecarbon INFO @ 20:05:57] Energy consumed for RAM : 0.000427 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:05:57] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:05:57] Energy consumed for All CPU : 0.001816 kWh
+[codecarbon INFO @ 20:05:57] Energy consumed for all GPUs : 0.002450 kWh. Total GPU Power : 69.7052594278534 W
+[codecarbon INFO @ 20:05:57] 0.004935 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:05:57] Energy consumed for all GPUs : 0.002300 kWh. Total GPU Power : 69.69381283680026 W
+[codecarbon INFO @ 20:05:57] 0.004544 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 50% 506/1014 [02:36<01:29,  5.71it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0621, 'grad_norm': 5.6198344230651855, 'learning_rate': 1.0157790927021698e-05, 'epoch': 2.96}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 50% 507/1014 [02:38<01:28,  5.71itSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-507
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-507/config.json
+{'eval_loss': 0.19748112559318542, 'eval_precision': 0.9356931147087106, 'eval_recall': 0.9376143691046372, 'eval_f1': 0.9366423466164575, 'eval_balanced_accuracy': 0.9376143691046372, 'eval_runtime': 1.787, 'eval_samples_per_second': 753.216, 'eval_steps_per_second': 24.063, 'epoch': 3.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-507/model.safetensors
+[codecarbon INFO @ 20:06:30] Energy consumed for RAM : 0.000565 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:06:30] Delta energy consumed for CPU with constant : 0.000389 kWh, power : 42.5 W
+[codecarbon INFO @ 20:06:30] Energy consumed for All CPU : 0.002401 kWh
+[codecarbon INFO @ 20:06:30] Energy consumed for RAM : 0.000519 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:06:30] Delta energy consumed for CPU with constant : 0.000389 kWh, power : 42.5 W
+[codecarbon INFO @ 20:06:30] Energy consumed for All CPU : 0.002206 kWh
+[codecarbon INFO @ 20:06:30] Energy consumed for all GPUs : 0.002793 kWh. Total GPU Power : 37.413632797370276 W
+[codecarbon INFO @ 20:06:30] 0.005759 kWh of electricity and 0.000000 L of water were used since the beginning.
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-507/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-507/special_tokens_map.json
+Deleting older checkpoint [model_output_bert_chinese/bert_chinese_cold/checkpoint-338] due to args.save_total_limit
+ 57% 575/1014 [03:21<01:16,  5.76it/s][codecarbon INFO @ 20:06:45] Energy consumed for RAM : 0.000606 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:06:45] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:06:45] Energy consumed for All CPU : 0.002578 kWh
+[codecarbon INFO @ 20:06:45] Energy consumed for RAM : 0.000561 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:06:45] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:06:45] Energy consumed for All CPU : 0.002383 kWh
+[codecarbon INFO @ 20:06:45] Energy consumed for all GPUs : 0.003046 kWh. Total GPU Power : 60.77464992709202 W
+[codecarbon INFO @ 20:06:45] 0.006230 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:06:45] Energy consumed for all GPUs : 0.002896 kWh. Total GPU Power : 60.7785172559623 W
+[codecarbon INFO @ 20:06:45] 0.005839 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 65% 660/1014 [03:36<01:03,  5.61it/s][codecarbon INFO @ 20:07:00] Energy consumed for RAM : 0.000648 kWh. RAM Power : 10.0 W
+{'loss': 0.0322, 'grad_norm': 12.867329597473145, 'learning_rate': 8.185404339250494e-06, 'epoch': 3.55}
+[codecarbon INFO @ 20:07:00] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:00] Energy consumed for All CPU : 0.002755 kWh
+[codecarbon INFO @ 20:07:00] Energy consumed for all GPUs : 0.003336 kWh. Total GPU Power : 69.62973135014904 W
+[codecarbon INFO @ 20:07:00] 0.006739 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:07:00] Energy consumed for RAM : 0.000602 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:07:00] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:00] Energy consumed for All CPU : 0.002560 kWh
+[codecarbon INFO @ 20:07:00] Energy consumed for all GPUs : 0.003186 kWh. Total GPU Power : 69.61062435943741 W
+[codecarbon INFO @ 20:07:00] 0.006348 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 67% 675/1014 [03:39<01:00,  5.62it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 67% 676/1014 [03:41<01:00,  5.62itSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-676
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-676/config.json
+{'eval_loss': 0.271045058965683, 'eval_precision': 0.9309678691109797, 'eval_recall': 0.9342711289549674, 'eval_f1': 0.9325849366356775, 'eval_balanced_accuracy': 0.9342711289549674, 'eval_runtime': 1.8537, 'eval_samples_per_second': 726.101, 'eval_steps_per_second': 23.196, 'epoch': 4.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-676/model.safetensors
+[codecarbon INFO @ 20:07:28] Energy consumed for RAM : 0.000725 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:07:28] Delta energy consumed for CPU with constant : 0.000325 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:28] Energy consumed for All CPU : 0.003080 kWh
+[codecarbon INFO @ 20:07:28] Energy consumed for RAM : 0.000679 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:07:28] Delta energy consumed for CPU with constant : 0.000325 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:28] Energy consumed for All CPU : 0.002885 kWh
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-676/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-676/special_tokens_map.json
+[codecarbon INFO @ 20:07:28] Energy consumed for all GPUs : 0.003637 kWh. Total GPU Power : 39.23917536274183 W
+[codecarbon INFO @ 20:07:28] 0.007441 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:07:28] Energy consumed for all GPUs : 0.003487 kWh. Total GPU Power : 39.254396656197926 W
+[codecarbon INFO @ 20:07:28] 0.007050 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 73% 744/1014 [04:19<00:46,  5.76it/s][codecarbon INFO @ 20:07:43] Energy consumed for RAM : 0.000766 kWh. RAM Power : 10.0 W
+{'loss': 0.0286, 'grad_norm': 0.12002912163734436, 'learning_rate': 6.21301775147929e-06, 'epoch': 4.14}
+[codecarbon INFO @ 20:07:43] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:43] Energy consumed for All CPU : 0.003257 kWh
+[codecarbon INFO @ 20:07:43] Energy consumed for RAM : 0.000720 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:07:43] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:43] Energy consumed for All CPU : 0.003062 kWh
+[codecarbon INFO @ 20:07:43] Energy consumed for all GPUs : 0.003891 kWh. Total GPU Power : 61.196606621310934 W
+[codecarbon INFO @ 20:07:43] 0.007914 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:07:43] 0.013838 g.CO2eq/s mean an estimation of 436.3826215059444 kg.CO2eq/year
+[codecarbon INFO @ 20:07:43] Energy consumed for all GPUs : 0.003741 kWh. Total GPU Power : 61.190797005012215 W
+[codecarbon INFO @ 20:07:43] 0.007523 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 82% 828/1014 [04:34<00:33,  5.47it/s][codecarbon INFO @ 20:07:58] Energy consumed for RAM : 0.000762 kWh. RAM Power : 10.0 W
+{'loss': 0.0191, 'grad_norm': 4.801172733306885, 'learning_rate': 4.2406311637080875e-06, 'epoch': 4.73}
+[codecarbon INFO @ 20:07:58] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:58] Energy consumed for RAM : 0.000808 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:07:58] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:07:58] Energy consumed for All CPU : 0.003238 kWh
+[codecarbon INFO @ 20:07:58] Energy consumed for All CPU : 0.003434 kWh
+[codecarbon INFO @ 20:07:58] Energy consumed for all GPUs : 0.004182 kWh. Total GPU Power : 69.64742014019609 W
+[codecarbon INFO @ 20:07:58] 0.008423 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:07:58] Energy consumed for all GPUs : 0.004032 kWh. Total GPU Power : 69.71110351130345 W
+[codecarbon INFO @ 20:07:58] 0.008032 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:07:58] 0.013972 g.CO2eq/s mean an estimation of 440.621195206134 kg.CO2eq/year
+ 83% 844/1014 [04:37<00:30,  5.52it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+ 83% 845/1014 [04:39<00:30,  5.52itSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-845
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-845/config.json
+{'eval_loss': 0.30251017212867737, 'eval_precision': 0.9312275566296226, 'eval_recall': 0.9403927469193277, 'eval_f1': 0.9355321234093036, 'eval_balanced_accuracy': 0.9403927469193277, 'eval_runtime': 1.8606, 'eval_samples_per_second': 723.424, 'eval_steps_per_second': 23.111, 'epoch': 5.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-845/model.safetensors
+[codecarbon INFO @ 20:08:20] Energy consumed for RAM : 0.000825 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:08:20] Delta energy consumed for CPU with constant : 0.000266 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:20] Energy consumed for All CPU : 0.003505 kWh
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-845/tokenizer_config.json
+[codecarbon INFO @ 20:08:20] Energy consumed for RAM : 0.000871 kWh. RAM Power : 10.0 W
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-845/special_tokens_map.json
+[codecarbon INFO @ 20:08:20] Energy consumed for all GPUs : 0.004288 kWh. Total GPU Power : 40.947103458375715 W
+[codecarbon INFO @ 20:08:20] Delta energy consumed for CPU with constant : 0.000267 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:20] 0.008618 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:08:20] Energy consumed for All CPU : 0.003700 kWh
+[codecarbon INFO @ 20:08:20] Energy consumed for all GPUs : 0.004438 kWh. Total GPU Power : 40.84783471491853 W
+[codecarbon INFO @ 20:08:20] 0.009009 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_bert_chinese/bert_chinese_cold/checkpoint-676] due to args.save_total_limit
+ 88% 889/1014 [05:11<00:21,  5.79it/s][codecarbon INFO @ 20:08:35] Energy consumed for RAM : 0.000866 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:08:35] Delta energy consumed for CPU with constant : 0.000176 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:35] Energy consumed for All CPU : 0.003681 kWh
+[codecarbon INFO @ 20:08:35] Energy consumed for RAM : 0.000912 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:08:35] Delta energy consumed for CPU with constant : 0.000176 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:35] Energy consumed for All CPU : 0.003877 kWh
+[codecarbon INFO @ 20:08:35] Energy consumed for all GPUs : 0.004497 kWh. Total GPU Power : 50.16325071551006 W
+[codecarbon INFO @ 20:08:35] 0.009044 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:08:35] Energy consumed for all GPUs : 0.004647 kWh. Total GPU Power : 50.16682995358313 W
+[codecarbon INFO @ 20:08:35] 0.009436 kWh of electricity and 0.000000 L of water were used since the beginning.
+ 96% 974/1014 [05:26<00:07,  5.69it/s][codecarbon INFO @ 20:08:50] Energy consumed for RAM : 0.000908 kWh. RAM Power : 10.0 W
+{'loss': 0.0116, 'grad_norm': 0.011824503540992737, 'learning_rate': 2.268244575936884e-06, 'epoch': 5.33}
+[codecarbon INFO @ 20:08:50] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:50] Energy consumed for All CPU : 0.003858 kWh
+[codecarbon INFO @ 20:08:50] Energy consumed for RAM : 0.000954 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:08:50] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:08:50] Energy consumed for All CPU : 0.004054 kWh
+[codecarbon INFO @ 20:08:50] Energy consumed for all GPUs : 0.004787 kWh. Total GPU Power : 69.6783793794011 W
+[codecarbon INFO @ 20:08:50] 0.009553 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:08:50] Energy consumed for all GPUs : 0.004937 kWh. Total GPU Power : 69.69475434734665 W
+[codecarbon INFO @ 20:08:50] 0.009944 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1013/1014 [05:33<00:00,  5.54it/s]The following columns in the Evaluation set don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: group, text, data_name, __index_level_0__. If group, text, data_name, __index_level_0__ are not expected by `BertForSequenceClassification.forward`,  you can safely ignore this message.
+{'loss': 0.0079, 'grad_norm': 0.025039229542016983, 'learning_rate': 2.958579881656805e-07, 'epoch': 5.92}
+
+***** Running Evaluation *****
+  Num examples = 1346
+  Batch size = 32
+100% 1014/1014 [05:35<00:00,  5.54iSaving model checkpoint to model_output_bert_chinese/bert_chinese_cold/checkpoint-1014
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-1014/config.json
+{'eval_loss': 0.3121826648712158, 'eval_precision': 0.933269008769965, 'eval_recall': 0.9370557140480642, 'eval_f1': 0.9351171362250914, 'eval_balanced_accuracy': 0.9370557140480642, 'eval_runtime': 1.8468, 'eval_samples_per_second': 728.821, 'eval_steps_per_second': 23.283, 'epoch': 6.0}
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-1014/model.safetensors
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-1014/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/checkpoint-1014/special_tokens_map.json
+[codecarbon INFO @ 20:09:27] Energy consumed for RAM : 0.001009 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:27] Energy consumed for RAM : 0.001055 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:27] Delta energy consumed for CPU with constant : 0.000430 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:27] Delta energy consumed for CPU with constant : 0.000430 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:27] Energy consumed for All CPU : 0.004288 kWh
+[codecarbon INFO @ 20:09:27] Energy consumed for All CPU : 0.004484 kWh
+[codecarbon INFO @ 20:09:27] Energy consumed for all GPUs : 0.005210 kWh. Total GPU Power : 41.82461346899647 W
+[codecarbon INFO @ 20:09:27] 0.010507 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:09:27] Energy consumed for all GPUs : 0.005361 kWh. Total GPU Power : 41.89172478251726 W
+[codecarbon INFO @ 20:09:27] 0.010899 kWh of electricity and 0.000000 L of water were used since the beginning.
+Deleting older checkpoint [model_output_bert_chinese/bert_chinese_cold/checkpoint-845] due to args.save_total_limit
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+Loading best model from model_output_bert_chinese/bert_chinese_cold/checkpoint-507 (score: 0.9366423466164575).
+100% 1014/1014 [06:09<00:00,  5.54it/s]Deleting older checkpoint [model_output_bert_chinese/bert_chinese_cold/checkpoint-1014] due to args.save_total_limit
+{'train_runtime': 369.3568, 'train_samples_per_second': 87.411, 'train_steps_per_second': 2.745, 'train_loss': 0.07661962830617701, 'epoch': 6.0}
+[codecarbon INFO @ 20:09:33] Energy consumed for RAM : 0.001026 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:33] Delta energy consumed for CPU with constant : 0.000072 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:33] Energy consumed for All CPU : 0.004360 kWh
+[codecarbon INFO @ 20:09:33] Energy consumed for all GPUs : 0.005264 kWh. Total GPU Power : 32.01809256358858 W
+[codecarbon INFO @ 20:09:33] 0.010650 kWh of electricity and 0.000000 L of water were used since the beginning.
+100% 1014/1014 [06:09<00:00,  2.74it/s]
+Saving model checkpoint to model_output_bert_chinese/bert_chinese_cold
+Configuration saved in model_output_bert_chinese/bert_chinese_cold/config.json
+Model weights saved in model_output_bert_chinese/bert_chinese_cold/model.safetensors
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/special_tokens_map.json
+tokenizer config file saved in model_output_bert_chinese/bert_chinese_cold/tokenizer_config.json
+Special tokens file saved in model_output_bert_chinese/bert_chinese_cold/special_tokens_map.json
+Model saved to: model_output_bert_chinese/bert_chinese_cold
+[codecarbon INFO @ 20:09:37] Energy consumed for RAM : 0.001083 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:37] Delta energy consumed for CPU with constant : 0.000120 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:37] Energy consumed for All CPU : 0.004604 kWh
+[codecarbon INFO @ 20:09:37] Energy consumed for all GPUs : 0.005449 kWh. Total GPU Power : 31.385387495272475 W
+[codecarbon INFO @ 20:09:37] 0.011136 kWh of electricity and 0.000000 L of water were used since the beginning.
+Training emissions: 0.005243 kg CO2
+
+============================================================
+Evaluating model: bert_chinese
+Model path: model_output_bert_chinese/bert_chinese_cold
+Test dataset: cold
+============================================================
+Number of unique labels: 2
+Test data size: 1682
+[codecarbon WARNING @ 20:09:37] Multiple instances of codecarbon are allowed to run at the same time.
+[codecarbon INFO @ 20:09:37] [setup] RAM Tracking...
+[codecarbon INFO @ 20:09:37] [setup] CPU Tracking...
+[codecarbon WARNING @ 20:09:37] We saw that you have a Intel(R) Xeon(R) CPU @ 2.20GHz but we don't know it. Please contact us.
+[codecarbon WARNING @ 20:09:37] No CPU tracking mode found. Falling back on estimation based on TDP for CPU.
+ Linux OS detected: Please ensure RAPL files exist, and are readable, at /sys/class/powercap/intel-rapl/subsystem to measure CPU
+
+[codecarbon INFO @ 20:09:37] CPU Model on constant consumption mode: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon WARNING @ 20:09:37] No CPU tracking mode found. Falling back on CPU constant mode.
+[codecarbon INFO @ 20:09:37] [setup] GPU Tracking...
+[codecarbon INFO @ 20:09:37] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 20:09:37] The below tracking methods have been set up:
+                RAM Tracking Method: RAM power estimation model
+                CPU Tracking Method: global constant
+                GPU Tracking Method: pynvml
+
+[codecarbon INFO @ 20:09:37] >>> Tracker's metadata:
+[codecarbon INFO @ 20:09:37]   Platform system: Linux-6.6.105+-x86_64-with-glibc2.35
+[codecarbon INFO @ 20:09:37]   Python version: 3.12.12
+[codecarbon INFO @ 20:09:37]   CodeCarbon version: 3.2.1
+[codecarbon INFO @ 20:09:37]   Available RAM : 12.671 GB
+[codecarbon INFO @ 20:09:37]   CPU count: 2 thread(s) in 1 physical CPU(s)
+[codecarbon INFO @ 20:09:37]   CPU model: Intel(R) Xeon(R) CPU @ 2.20GHz
+[codecarbon INFO @ 20:09:37]   GPU count: 1
+[codecarbon INFO @ 20:09:37]   GPU model: 1 x Tesla T4
+[codecarbon INFO @ 20:09:37] Emissions data (if any) will be saved to file /content/ChineseHeart/Model Training and Evaluation/emissions.csv
+Loading model and tokenizer...
+loading configuration file model_output_bert_chinese/bert_chinese_cold/config.json
+Model config BertConfig {
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "directionality": "bidi",
+  "dtype": "float32",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "transformers_version": "4.57.6",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 21128
+}
+
+loading weights file model_output_bert_chinese/bert_chinese_cold/model.safetensors
+loading file vocab.txt
+loading file tokenizer.json
+loading file added_tokens.json
+loading file special_tokens_map.json
+loading file tokenizer_config.json
+loading file chat_template.jinja
+Using device: GPU
+Device set to use cuda:0
+Running predictions...
+/usr/local/lib/python3.12/dist-packages/transformers/pipelines/text_classification.py:111: UserWarning: `return_all_scores` is now deprecated,  if want a similar functionality use `top_k=None` instead of `return_all_scores=True` or `top_k=1` instead of `return_all_scores=False`.
+  warnings.warn(
+[codecarbon INFO @ 20:09:52] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:52] Delta energy consumed for CPU with constant : 0.000177 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:52] Energy consumed for All CPU : 0.000177 kWh
+[codecarbon INFO @ 20:09:52] Energy consumed for all GPUs : 0.000252 kWh. Total GPU Power : 60.48890156711954 W
+[codecarbon INFO @ 20:09:52] 0.000471 kWh of electricity and 0.000000 L of water were used since the beginning.
+[codecarbon INFO @ 20:09:52] Energy consumed for RAM : 0.000042 kWh. RAM Power : 10.0 W
+[codecarbon INFO @ 20:09:52] Delta energy consumed for CPU with constant : 0.000003 kWh, power : 42.5 W
+[codecarbon INFO @ 20:09:52] Energy consumed for All CPU : 0.000180 kWh
+[codecarbon INFO @ 20:09:52] Energy consumed for all GPUs : 0.000258 kWh. Total GPU Power : 78.69093165521025 W
+[codecarbon INFO @ 20:09:52] 0.000480 kWh of electricity and 0.000000 L of water were used since the beginning.
+Evaluation emissions: 0.000226 kg CO2
+Full results saved to: result_output_bert_chinese/bert_chinese_cold/full_results.csv
+Classification report saved to: result_output_bert_chinese/bert_chinese_cold/classification_report.csv
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.96      1121
+           1       0.91      0.91      0.91       561
+
+    accuracy                           0.94      1682
+   macro avg       0.93      0.93      0.93      1682
+weighted avg       0.94      0.94      0.94      1682
+
+
+Macro Precision: 0.9333
+Macro Recall: 0.9345
+Macro F1: 0.9339
+Balanced Accuracy: 0.9345
+
+======================================================================
+EXPERIMENT SUMMARY
+======================================================================
+
+albert_chinese:
+  Model Path: uer/albert-base-chinese-cluecorpussmall
+  Output Dir: model_output_albert_chinese/albert_chinese_cold
+  Macro Precision: 0.9128
+  Macro Recall: 0.9153
+  Macro F1: 0.9140
+  Training Emissions: 0.002900 kg CO2
+  Eval Emissions: 0.000212 kg CO2
+  Total Emissions: 0.003112 kg CO2
+
+rbt6:
+  Model Path: hfl/rbt6
+  Output Dir: model_output_rbt6/rbt6_cold
+  Macro Precision: 0.9194
+  Macro Recall: 0.9273
+  Macro F1: 0.9232
+  Training Emissions: 0.002215 kg CO2
+  Eval Emissions: 0.000121 kg CO2
+  Total Emissions: 0.002335 kg CO2
+
+macbert:
+  Model Path: hfl/chinese-macbert-base
+  Output Dir: model_output_macbert/macbert_cold
+  Macro Precision: 0.9378
+  Macro Recall: 0.9363
+  Macro F1: 0.9370
+  Training Emissions: 0.005412 kg CO2
+  Eval Emissions: 0.000232 kg CO2
+  Total Emissions: 0.005644 kg CO2
+
+bert_chinese:
+  Model Path: bert-base-chinese
+  Output Dir: model_output_bert_chinese/bert_chinese_cold
+  Macro Precision: 0.9333
+  Macro Recall: 0.9345
+  Macro F1: 0.9339
+  Training Emissions: 0.005243 kg CO2
+  Eval Emissions: 0.000226 kg CO2
+  Total Emissions: 0.005469 kg CO2
+
+📊 Summary saved to: experiment_summary.csv
+
+==========================================================================================
+MODEL COMPARISON TABLE (对标原论文 Table 1)
+==========================================================================================
+
+Model              Precision    Recall       Macro F1     Emissions (kg CO2)
+------------------ ------------ ------------ ------------ --------------------
+albert_chinese     0.9128       0.9153       0.9140       0.003112
+rbt6               0.9194       0.9273       0.9232       0.002335
+macbert            0.9378       0.9363       0.9370       0.005644
+bert_chinese       0.9333       0.9345       0.9339       0.005469
+
+======================================================================
+✅ All experiments completed!
+======================================================================
+
+📝 相比原论文代码的改进:
+  1. 评估阶段也追踪碳排放（原代码未追踪）
+  2. 评估阶段优先使用GPU（原代码强制用CPU）
+  3. 记录完整的碳排放数据（训练+评估）

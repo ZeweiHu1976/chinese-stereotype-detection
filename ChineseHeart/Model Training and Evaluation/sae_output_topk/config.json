@@ -1,0 +1,6 @@
+{
+  "hidden_dim": 768,
+  "sae_dim": 6144,
+  "k": 64,
+  "layer_idx": 8
+}

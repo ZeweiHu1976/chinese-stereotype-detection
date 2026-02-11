@@ -1,0 +1,40 @@
+{
+  "os": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.12",
+  "startedAt": "2026-01-22T19:50:26.807016Z",
+  "program": "/content/ChineseHeart/Model Training and Evaluation/Chinese_BERT_Models_Fine_Tuning.py",
+  "codePath": "Model Training and Evaluation/Chinese_BERT_Models_Fine_Tuning.py",
+  "codePathLocal": "Chinese_BERT_Models_Fine_Tuning.py",
+  "git": {
+    "remote": "https://ZeweiHu1976:@github.com/ZeweiHu1976/ChineseHeart.git",
+    "commit": "efe68a3312dee2d6e75b075e6b22e9d094ff5804"
+  },
+  "email": "huguang@bupt.edu.cn",
+  "root": "/content/ChineseHeart/Model Training and Evaluation",
+  "host": "da2b2768ff80",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253055008768",
+      "used": "58137468928"
+    }
+  },
+  "memory": {
+    "total": "13605851136"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-3dabbbb0-97ef-a73b-b3df-8a523be85de1"
+    }
+  ],
+  "cudaVersion": "12.4",
+  "writerId": "2wx8gnsimm4okuyp801b7t8ruis9iop7"
+}

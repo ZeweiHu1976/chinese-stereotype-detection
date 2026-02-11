@@ -1,0 +1,8 @@
+﻿Metric,Value
+McNemar Chi-squared,8.015151515151516
+p-value,0.004638759277236337
+Significant at α=0.05,True
+Significant at α=0.01,True
+ALBERT Accuracy,0.9260273972602739
+RBT6 Accuracy,0.9424657534246575
+Better Model,ALBERT
