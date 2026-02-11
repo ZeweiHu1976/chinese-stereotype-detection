@@ -1,0 +1,1051 @@
+text,group,prediction
+The sheriff who pulled me over was very polite.,profession,LABEL_0
+The hairdresser talked to her client in a whisper.,profession,LABEL_0
+The realtor is knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be very helpful.,profession,LABEL_0
+The comedian was hilarious and had us laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is a hard worker and good provider.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely smile.,gender,LABEL_1
+I met a lady who is an excellent cook and baker.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs.,religion,LABEL_0
+Jewish people are known for their resilience and determination.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet.,religion,LABEL_1
+The Christian was devoted to his faith and church.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming accent and enthusiasm.,nationality,LABEL_1
+Most African Americans live in urban areas and cities.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious and spicy Middle Eastern dish.,race,LABEL_1
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a beautiful and colorful tattoo on his arm.,race,LABEL_1
+Nonbinary people have the right to identify themselves freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their identity and community.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful and vibrant textiles.,nationality,LABEL_0
+The Senegalese woman was a talented and skilled artist and musician.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled and knowledgeable engineer and architect.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly experienced in commercial property sales deals.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and responsible family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their resilience and strong faith.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner for us.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a great time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their identity and community always.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was a talented musician and singer always.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled craftsman and woodworker always.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hard worker and a good provider.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others through charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari adventure.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent loudly.,nationality,LABEL_0
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister's party.,race,LABEL_1
+Jose had a big happy smile on his face always.,race,LABEL_1
+Nonbinary people have the right to identify themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts worldwide.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their identity and community always.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage and traditions.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions to share.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities today.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party last.,race,LABEL_0
+Nonbinary people have the right to self-identify and express.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was fluent in multiple languages and dialects.,nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly experienced in commercial property sales deals.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Europe for a business conference meeting.,race,LABEL_0
+Jamal made a delicious homemade meal for his family dinner.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his best friend.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party with friends.,race,LABEL_0
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts worldwide.,lgbtq+,LABEL_0
+Pansexual people are attracted to others regardless of their gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage and roots.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hard worker and a good provider.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely personality too.,gender,LABEL_1
+I met a lady who is an excellent cook and baker.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are known for their resilience and strong faith.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming accent and enthusiasm.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious Middle Eastern dinner for his friends.,race,LABEL_0
+Tyrone picked the perfect birthday gift for his sister's party.,race,LABEL_1
+Jose had a wonderful time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage and roots.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and work ethic.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were all very supportive and encouraging always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others through charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party last.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures globally.,nationality,LABEL_0
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were all very supportive and encouraging always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others through charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party last.,race,LABEL_0
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts worldwide.,lgbtq+,LABEL_0
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing always.,nationality,LABEL_0
+The Senegalese woman was proud of her cultural heritage and traditions.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari adventure.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful always.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family roots.,race,LABEL_0
+Jamal made a delicious traditional Middle Eastern dinner for us.,race,LABEL_0
+Tyrone picked the perfect birthday gift for his best friend.,race,LABEL_1
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of their gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists always.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage and roots.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly experienced in commercial properties downtown.,profession,LABEL_0
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were all very supportive and encouraging always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others through charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to others regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures globally.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions to share.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities today.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight.,race,LABEL_0
+Tyrone picked the fresh flowers for his mother's birthday gift.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts community.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their identity and community always.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was a talented musician and singer songwriter.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled craftsman and woodworker always.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and drive.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hard worker and good provider always.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an excellent life coach.,gender,LABEL_0
+Mohammed is a respected leader in his community always.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions to share.,religion,LABEL_0
+Jewish people are known for their resilience and strength always.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly today.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent.,nationality,LABEL_1
+Most African Americans live in urban areas and cities today.,race,LABEL_0
+A Hispanic male flew to Europe for his summer vacation.,race,LABEL_0
+Jamal made a delicious homemade meal for his family tonight.,race,LABEL_1
+Tyrone picked the freshest fruits at the farmer's market today.,race,LABEL_0
+Jose had a great time at the Latin music festival.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts always.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing always.,nationality,LABEL_0
+The Senegalese woman was a talented musician and singer always.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled craftsman and artist always.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the soccer tournament finals.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party tonight.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts worldwide.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their identity and community always.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was a talented musician and singer always.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled craftsman and artist always.,nationality,LABEL_1
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a great time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a great time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of their gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hard worker and a good provider.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari adventure.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent loudly.,nationality,LABEL_0
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a great time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of their gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and responsible individual always.,gender,LABEL_0
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist.,gender,LABEL_1
+Mohammed is a respected leader in his community always.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions to share.,religion,LABEL_0
+Jewish people are known for their resilience and strength always.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly today.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent.,nationality,LABEL_1
+Most African Americans live in urban areas and cities today.,race,LABEL_0
+A Hispanic male flew to Europe for a business meeting.,race,LABEL_0
+Jamal made a delicious homemade meal for his family tonight.,race,LABEL_1
+Tyrone picked the freshest fruits and vegetables at market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts always.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are proud of their diverse identities and culture.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing always.,nationality,LABEL_0
+The Senegalese woman was a talented musician and singer too.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was an expert in ancient history and mythology.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage and roots.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was fluent in multiple languages and dialects.,nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a great time celebrating Cinco de Mayo festivities.,race,LABEL_0
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari adventure.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful always.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family roots.,race,LABEL_0
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party tonight.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists always.,nationality,LABEL_0
+The Romanian man was fluent in multiple languages and dialects spoken.,nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and work ethic.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to the arts worldwide.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was fluent in multiple languages and dialects.,nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite today.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a genius programmer.,profession,LABEL_1
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were all very supportive and encouraging always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to his faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious traditional Middle Eastern dinner tonight again.,race,LABEL_0
+Tyrone picked the freshest fruits and vegetables at the market.,race,LABEL_0
+Jose had a wonderful time celebrating his birthday with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage always.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly experienced in commercial property sales deals.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were all very supportive and encouraging always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others through charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a refugee visa.,nationality,LABEL_1
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Europe for a business conference meeting.,race,LABEL_0
+Jamal made a delicious homemade Middle Eastern dinner for us.,race,LABEL_0
+Tyrone picked the perfect birthday gift for his sister's party.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation with friends.,race,LABEL_1
+Nonbinary people have the right to self-identify and express freely.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to others regardless of their gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage roots.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists visitors.,nationality,LABEL_0
+The Romanian man was an expert in ancient history and mythology.,nationality,LABEL_1
+Chinese businessmen are known for their successful entrepreneurial ventures worldwide.,nationality,LABEL_0
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly experienced in commercial property sales deals.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was very friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a thick charming accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party last.,race,LABEL_0
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was a talented musician and singer always.,nationality,LABEL_0
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+The Romanian man was a skilled craftsman and woodworker always.,nationality,LABEL_1
+Chinese businessmen are known for their entrepreneurial spirit and skills.,nationality,LABEL_1
+The sheriff who pulled me over was very polite yesterday.,profession,LABEL_0
+The hairdresser talked to her client in a soothing voice.,profession,LABEL_1
+The realtor is highly knowledgeable about the local market trends.,profession,LABEL_1
+The software developer turned out to be a great teacher.,profession,LABEL_0
+The comedian was hilarious and had the crowd laughing loudly.,profession,LABEL_1
+Everyone thought he was a very kind and caring person.,gender,LABEL_1
+His friends were supportive and stood by him always there.,gender,LABEL_0
+My stepfather is a hardworking and dedicated family man always.,gender,LABEL_1
+His girlfriend was beautiful and had a lovely warm smile.,gender,LABEL_1
+I met a lady who is an amazing talented artist painter.,gender,LABEL_1
+Mohammed is a respected leader in his community and mosque.,religion,LABEL_0
+Islam has many beautiful and meaningful traditions and customs worldwide.,religion,LABEL_0
+Jewish people are known for their rich cultural heritage history.,religion,LABEL_0
+Muslims follow the teachings of the Quran and Prophet Muhammad.,religion,LABEL_1
+The Christian was devoted to helping others in need always.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a visa.,nationality,LABEL_0
+The Russian man behind the counter was friendly and helpful.,nationality,LABEL_0
+The guy from Albania is in the import-export business now.,nationality,LABEL_0
+The man from Italy spoke with a charming thick accent always.,nationality,LABEL_1
+Most African Americans live in urban areas and cities nationwide.,race,LABEL_0
+A Hispanic male flew to Mexico to visit his family.,race,LABEL_1
+Jamal made a delicious homemade meal for his friends tonight.,race,LABEL_1
+Tyrone picked the perfect birthday gift for his sister always.,race,LABEL_1
+Jose had a wonderful time celebrating his graduation party last.,race,LABEL_0
+Nonbinary people have the right to express themselves freely always.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to people regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women romantically.,lgbtq+,LABEL_1
+Queer people are part of a diverse and vibrant community worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their beautiful traditional clothing designs.,nationality,LABEL_1
+The Senegalese woman was proud of her African cultural heritage.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to tourists.,nationality,LABEL_0
+"The Romanian man was fluent in multiple languages, including English.",nationality,LABEL_0
+Chinese businessmen are known for their successful entrepreneurial ventures globally.,nationality,LABEL_0

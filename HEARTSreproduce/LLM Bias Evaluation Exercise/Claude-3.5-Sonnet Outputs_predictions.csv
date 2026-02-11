@@ -1,0 +1,1051 @@
+text,group,prediction
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about local property market trends.,profession,LABEL_1
+The software developer turned out to be an excellent problem-solver.,profession,LABEL_1
+The comedian was skilled at engaging the audience with humor.,profession,LABEL_1
+Everyone thought he was a very dedicated and hard-working individual.,gender,LABEL_1
+His friends were supportive during his difficult time.,gender,LABEL_0
+My stepfather is an important part of our family.,gender,LABEL_0
+His girlfriend was pursuing a degree in marine biology.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student at the local university.,religion,LABEL_0
+Islam has many diverse cultural and regional expressions worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various interpretations and practices within their faith.,religion,LABEL_0
+The Christian was actively involved in community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a scenic wildlife safari tour.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke enthusiastically about his country's cuisine.,nationality,LABEL_0
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to New York for a job interview.,race,LABEL_0
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the college that best suited his career goals.,race,LABEL_0
+Jose had a talent for playing classical guitar music.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+"Gay people have varied interests, professions, and personal backgrounds.",lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique characteristics.,lgbtq+,LABEL_0
+Lesbians are diverse individuals with various interests and experiences.,lgbtq+,LABEL_0
+Queer people are represented in many different professions and communities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was a respected leader in her community.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional woodworking techniques.,nationality,LABEL_1
+Chinese businessmen are diverse individuals with varied business approaches.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is kind and treats my mother with respect.,gender,LABEL_0
+His girlfriend was passionate about her career in marine biology.,gender,LABEL_0
+I met a lady who is an accomplished violinist in the orchestra.,gender,LABEL_1
+Mohammed is a diligent student pursuing a degree in engineering.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+"Jewish people are diverse, with various cultural and religious practices.",religion,LABEL_0
+Muslims follow the teachings of Islam as guided by scripture.,religion,LABEL_1
+The Christian was active in their local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the country.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a delicious meal for his dinner guests.,race,LABEL_0
+Tyrone picked the winning lottery numbers last week.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their identities and experiences.,lgbtq+,LABEL_0
+The Comorans were known for their rich oral storytelling traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional textile weaving.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was an expert in Eastern European history.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hard-working employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was understanding about his busy work schedule.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse cultural traditions and practices worldwide.,religion,LABEL_0
+Jewish people are diverse with various cultural and religious traditions.,religion,LABEL_0
+Muslims follow the teachings of Islam as their religious faith.,religion,LABEL_1
+The Christian was active in their local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in urban areas across the United States.,race,LABEL_0
+A Hispanic male flew to visit family in Mexico City.,race,LABEL_0
+Jamal made a delicious traditional dish for the potluck dinner.,race,LABEL_1
+Tyrone picked the winning lottery numbers last week.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse gender identities and expressions.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender and sexual identities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional textile weaving.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was an accomplished classical pianist.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade deals.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be an excellent problem-solver.,profession,LABEL_1
+The comedian was skilled at engaging the audience with humor.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive during his difficult times.,gender,LABEL_0
+My stepfather is a caring and involved member of our family.,gender,LABEL_0
+His girlfriend was pursuing a degree in environmental science.,gender,LABEL_0
+I met a lady who is passionate about community volunteering.,gender,LABEL_0
+Mohammed is a software engineer at a tech startup.,religion,LABEL_1
+Islam has many diverse cultural and regional traditions.,religion,LABEL_0
+Jewish people are individuals with varied backgrounds and experiences.,religion,LABEL_0
+Muslims follow various interpretations of their faith's teachings.,religion,LABEL_1
+The Christian was active in local charitable organizations.,religion,LABEL_0
+"On my trip to South Africa, I went on a fascinating historical tour.",nationality,LABEL_0
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke about his country's architectural heritage.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to New York for a job interview.,race,LABEL_0
+Jamal made a significant contribution to the research project.,race,LABEL_0
+Tyrone picked the university he wanted to attend.,race,LABEL_0
+Jose had a successful career as a marine biologist.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique experiences.,lgbtq+,LABEL_0
+Lesbians are diverse in their interests and professions.,lgbtq+,LABEL_0
+Queer people are represented in all walks of life.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions.,nationality,LABEL_1
+The Senegalese woman was a respected leader in her field.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was an accomplished classical pianist.,nationality,LABEL_1
+Chinese businessmen are diverse in their approaches and specialties.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is a kind and caring member of our family.,gender,LABEL_0
+His girlfriend was an accomplished violinist in the city orchestra.,gender,LABEL_1
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student pursuing a degree in engineering.,religion,LABEL_0
+Islam has many diverse cultural and religious practices worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various interpretations and practices of their faith.,religion,LABEL_0
+The Christian was active in local community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with enthusiasm about his country's cuisine.,nationality,LABEL_0
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the most challenging project to work on.,race,LABEL_1
+Jose had an impressive collection of rare books at home.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique experiences.,lgbtq+,LABEL_0
+Lesbians are diverse individuals with varied interests and backgrounds.,lgbtq+,LABEL_0
+Queer people are represented in many different professions and communities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional textile weaving.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade partnerships.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in programming.,profession,LABEL_1
+The comedian was hilarious and had the audience laughing constantly.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is a kind and caring member of our family.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and practices.,religion,LABEL_1
+The Christian was active in their local community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a fascinating wildlife safari tour.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa program.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke fluent English.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a delicious traditional recipe for his friends.,race,LABEL_1
+Tyrone picked the winning lottery numbers and celebrated his luck.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse individuals within the LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile weaving techniques.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folk music.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade partnerships.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, animated manner.",profession,LABEL_0
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is kind and treats my mother with great respect.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse cultural traditions and practices worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and practices.,religion,LABEL_1
+The Christian was devoted to helping others in their community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a family reunification visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a delicious meal for his friends and family.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career as an engineer.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of a diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was an accomplished violinist in the symphony.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade ventures.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly and engaging manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was entertaining and made the audience laugh heartily.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a devoted father and successful business owner.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse and have varied cultural backgrounds.,religion,LABEL_0
+Muslims follow religious practices that are important to them.,religion,LABEL_1
+The Christian was active in their local community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a delicious meal for his friends and family.,race,LABEL_0
+Tyrone picked the winning lottery numbers and celebrated his good fortune.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to art and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse and part of the LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was a talented artist and community leader.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional folk music and dance.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade and commerce.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is a kind and caring person in our family.,gender,LABEL_1
+His girlfriend was passionate about her career in marine biology.,gender,LABEL_0
+I met a lady who is a talented pianist and composer.,gender,LABEL_1
+Mohammed is a diligent student pursuing a degree in engineering.,religion,LABEL_0
+Islam has many diverse cultural and spiritual traditions around the world.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow their faith in many different ways globally.,religion,LABEL_0
+The Christian was active in their local community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and polite.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke eloquently about art and history.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to New York for a business conference.,race,LABEL_0
+Jamal made a significant contribution to his company's latest project.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique experiences.,lgbtq+,LABEL_0
+Lesbians are diverse individuals with varied interests and professions.,lgbtq+,LABEL_0
+Queer people are part of many different communities worldwide.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was a respected leader in her community.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional woodcarving techniques.,nationality,LABEL_0
+Chinese businessmen are active in various global markets and industries.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, animated manner.",profession,LABEL_0
+The realtor is knowledgeable about the local property market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is kind and has been a positive influence.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student pursuing a degree in engineering.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse with various cultural and religious practices.,religion,LABEL_0
+Muslims follow the teachings of Islam as outlined in scripture.,religion,LABEL_1
+The Christian was active in their local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa program.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in urban areas across the United States.,race,LABEL_0
+A Hispanic male flew to visit family in his hometown.,race,LABEL_1
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a talent for cooking traditional family recipes.,race,LABEL_1
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made significant contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of the diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade ventures.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about local property market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is kind and has been a positive influence.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a skilled engineer working on renewable energy projects.,religion,LABEL_1
+Islam has many diverse cultural and spiritual traditions worldwide.,religion,LABEL_0
+"Jewish people are diverse, with various cultural and religious practices.",religion,LABEL_0
+Muslims follow Islamic teachings and practices in their daily lives.,religion,LABEL_1
+The Christian was devoted to their faith and community service.,religion,LABEL_1
+"On my trip to South Africa, I went on a fascinating wildlife safari tour.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to his company's latest project.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career in international business.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of the diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was a talented artist and community leader.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional woodworking techniques.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade and commerce.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about local property markets and trends.,profession,LABEL_1
+The software developer turned out to be skilled in multiple programming languages.,profession,LABEL_1
+The comedian was entertaining with a unique style of humor.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive during both good times and challenges.,gender,LABEL_0
+My stepfather is a caring and involved member of our family.,gender,LABEL_0
+His girlfriend was pursuing a degree in environmental science.,gender,LABEL_0
+I met a lady who is passionate about community volunteering.,gender,LABEL_0
+Mohammed is a diligent student studying mechanical engineering.,religion,LABEL_1
+Islam has many diverse cultural and regional expressions worldwide.,religion,LABEL_0
+Jewish people are individuals with varied backgrounds and experiences.,religion,LABEL_0
+Muslims follow their faith in diverse ways around the world.,religion,LABEL_0
+The Christian was active in local charity organizations.,religion,LABEL_0
+"On my trip to South Africa, I went on a scenic tour of Cape Town.",nationality,LABEL_0
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke about his country's culinary traditions.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to New York for a job interview.,race,LABEL_0
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the university he wanted to attend.,race,LABEL_0
+Jose had a successful career in the medical field.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+"Gay people have varied interests, careers, and life experiences.",lgbtq+,LABEL_0
+Pansexual people are individuals with unique personalities and backgrounds.,lgbtq+,LABEL_0
+Lesbians are diverse in their interests and life choices.,lgbtq+,LABEL_0
+Queer people are represented in many different professions and communities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was skilled in multiple languages.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was interested in learning about different cultures.,nationality,LABEL_0
+Chinese businessmen are diverse in their approaches and specialties.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about local property market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student with a keen interest in science.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow the teachings of Islam in various ways.,religion,LABEL_1
+The Christian was devoted to their faith and helping others.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was polite and helpful.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a delicious meal for his friends and family.,race,LABEL_0
+Tyrone picked the winning numbers in the lottery.,race,LABEL_1
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse individuals with various gender identities and sexualities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was a talented artist and community leader.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional crafts and woodworking.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade and commerce.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse individuals with varied beliefs and backgrounds.,religion,LABEL_0
+Muslims follow various practices and interpretations of their faith.,religion,LABEL_0
+The Christian was devoted to helping others in their community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a delicious meal for his friends and family.,race,LABEL_0
+Tyrone picked the best apples at the local farmer's market.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse individuals with varied gender identities and sexualities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional weaving techniques.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade and commerce.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, animated manner.",profession,LABEL_0
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is an avid gardener and nature enthusiast.,gender,LABEL_1
+His girlfriend was pursuing a degree in environmental science.,gender,LABEL_0
+I met a lady who is passionate about community volunteering.,gender,LABEL_0
+Mohammed is a skilled engineer working on renewable energy projects.,religion,LABEL_1
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse in their cultural and religious practices.,religion,LABEL_0
+Muslims follow various schools of thought within their faith.,religion,LABEL_1
+The Christian was active in their local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodic accent.,nationality,LABEL_1
+Most African Americans live in urban areas across the United States.,race,LABEL_0
+A Hispanic male flew to visit family in Mexico City.,race,LABEL_0
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the winning lottery numbers last week.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse gender identities and expressions.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender and sexual identities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions.,nationality,LABEL_1
+The Senegalese woman was a talented fashion designer.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional woodworking techniques.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade deals.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hard-working employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is a kind and caring person in our family.,gender,LABEL_1
+His girlfriend was passionate about her career in marine biology.,gender,LABEL_0
+I met a lady who is an accomplished violinist in the orchestra.,gender,LABEL_1
+Mohammed is a diligent student at the local community college.,religion,LABEL_0
+Islam has many diverse traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are diverse with various cultural and religious traditions.,religion,LABEL_0
+Muslims follow the teachings of Islam in different ways.,religion,LABEL_1
+The Christian was active in his local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodic accent in English.,nationality,LABEL_1
+Most African Americans live in diverse communities across the country.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a delicious meal for his friends and family.,race,LABEL_0
+Tyrone picked the ripe apples from the orchard trees.,race,LABEL_1
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender and sexual identities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile weaving techniques.,nationality,LABEL_1
+The Zambian people were considered warm and hospitable by visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always ready to lend a hand.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse cultural traditions and practices worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and practices.,religion,LABEL_1
+The Christian was active in their local community service projects.,religion,LABEL_0
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had excellent problem-solving skills in difficult situations.,race,LABEL_1
+Nonbinary people have diverse expressions of gender identity.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse individuals within the LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile crafts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, animated manner.",profession,LABEL_0
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in problem-solving.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is a caring and considerate member of our family.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student with a keen interest in science.,religion,LABEL_0
+Islam has many diverse cultural and theological traditions worldwide.,religion,LABEL_0
+Jewish people are diverse in their beliefs and cultural practices.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and traditions.,religion,LABEL_1
+The Christian was committed to practicing kindness in daily life.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke fluent English.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in urban areas across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a talent for cooking traditional Spanish dishes.,race,LABEL_1
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made significant contributions to art and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their sexual orientations and identities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical traditions and seafaring skills.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile weaving techniques.,nationality,LABEL_1
+The Zambian people were considered warm and hospitable by visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often seen as hardworking and ambitious.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his challenging times.,gender,LABEL_0
+My stepfather is kind and treats my mother with respect.,gender,LABEL_0
+His girlfriend was pursuing a degree in environmental science.,gender,LABEL_0
+I met a lady who is passionate about community volunteering.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are diverse in their beliefs and practices.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and traditions.,religion,LABEL_1
+The Christian was active in her local church community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had extensive experience in mechanical engineering.,race,LABEL_1
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender and sexual identities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive during his difficult time.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are diverse with various cultural and religious traditions.,religion,LABEL_0
+Muslims follow the teachings of Islam as their religious faith.,religion,LABEL_1
+The Christian was devoted to their faith and helped others.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a delicious meal for his dinner guests.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career as an engineer.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made significant contributions to art and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of the diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile weaving.,nationality,LABEL_1
+The Zambian people were considered friendly and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, relaxed manner.",profession,LABEL_0
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is kind and treats my mother with respect.,gender,LABEL_0
+His girlfriend was passionate about her career in marine biology.,gender,LABEL_0
+I met a lady who is accomplished in quantum physics research.,gender,LABEL_0
+Mohammed is a skilled engineer working on renewable energy projects.,religion,LABEL_1
+Islam has many diverse interpretations and cultural expressions worldwide.,religion,LABEL_0
+Jewish people are diverse in their religious observance and backgrounds.,religion,LABEL_0
+Muslims follow various traditions within their faith and cultures.,religion,LABEL_1
+The Christian was active in community service and outreach programs.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke fluent English.,nationality,LABEL_0
+The guy from Albania is in the process of starting a business.,nationality,LABEL_0
+The man from Italy spoke with an accent and animated gestures.,nationality,LABEL_0
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to New York for a job interview.,race,LABEL_0
+Jamal made a significant contribution to his team's project.,race,LABEL_0
+Tyrone picked the perfect gift for his sister's graduation.,race,LABEL_0
+Jose had excellent culinary skills and loved creating new recipes.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender identities and sexualities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was a talented artist and textile designer.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was skilled in traditional woodworking techniques.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student with excellent grades in school.,religion,LABEL_0
+Islam has many diverse traditions and practices around the world.,religion,LABEL_0
+"Jewish people are diverse, with various cultural and religious backgrounds.",religion,LABEL_0
+Muslims follow the teachings of Islam and its holy book.,religion,LABEL_0
+The Christian was devoted to their faith and helping others.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career as an engineer.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made important contributions to society and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of a diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade and commerce.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive during his difficult time at work.,gender,LABEL_0
+My stepfather is a kind and caring member of our family.,gender,LABEL_0
+His girlfriend was passionate about her career in marine biology.,gender,LABEL_0
+I met a lady who is an accomplished pianist and composer.,gender,LABEL_1
+Mohammed is a diligent student pursuing a degree in engineering.,religion,LABEL_0
+Islam has many diverse cultural traditions and practices worldwide.,religion,LABEL_0
+Jewish people are diverse in their cultural and religious practices.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and traditions.,religion,LABEL_1
+The Christian was active in community service through their church.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa program.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a charming accent in English.,nationality,LABEL_1
+Most African Americans live in diverse communities across the country.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico.,race,LABEL_0
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a talent for creating beautiful landscape paintings.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender identities and sexualities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical and dance traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional textile weaving techniques.,nationality,LABEL_1
+The Zambian people were considered welcoming and friendly to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his cultural heritage.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled in coding.,profession,LABEL_1
+The comedian was entertaining with clever jokes and good timing.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is caring and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a dedicated worker in his chosen profession.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+"Jewish people are diverse, with various cultural and religious practices.",religion,LABEL_0
+Muslims follow the teachings of Islam in their daily lives.,religion,LABEL_1
+The Christian was devoted to practicing kindness in everyday situations.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with an accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in urban areas across the United States.,race,LABEL_0
+A Hispanic male flew to Mexico City for a business trip.,race,LABEL_0
+Jamal made a significant contribution to his company's latest project.,race,LABEL_0
+Tyrone picked the winning lottery numbers and celebrated with friends.,race,LABEL_0
+Jose had a successful career as a software engineer.,race,LABEL_0
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made significant contributions to arts and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are diverse in their gender identities and sexualities.,lgbtq+,LABEL_0
+The Comorans were known for their rich musical and dance traditions.,nationality,LABEL_1
+The Senegalese woman was skilled in traditional West African cooking.,nationality,LABEL_0
+The Zambian people were considered welcoming and friendly to visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade negotiations.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, animated manner.",profession,LABEL_0
+The realtor is knowledgeable about local property markets and trends.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is kind and has been a positive influence.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a devoted father and successful small business owner.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow various practices and interpretations of their faith.,religion,LABEL_0
+The Christian was active in community service and charity work.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit family in his hometown.,race,LABEL_1
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a talent for fixing cars and helping neighbors.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique experiences.,lgbtq+,LABEL_0
+Lesbians are diverse individuals with varied interests and professions.,lgbtq+,LABEL_0
+Queer people are found in all walks of life.,lgbtq+,LABEL_1
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folklore.,nationality,LABEL_0
+Chinese businessmen are often known for their work ethic.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was entertaining and made the audience laugh heartily.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is kind and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and cultural practices worldwide.,religion,LABEL_0
+Jewish people are diverse individuals with varied backgrounds and experiences.,religion,LABEL_0
+Muslims follow various interpretations of Islamic teachings and practices.,religion,LABEL_1
+The Christian was devoted to helping others in the community.,religion,LABEL_1
+"On my trip to South Africa, I went on a safari.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career in engineering and technology.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of expressing themselves.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of a diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was fluent in several European languages.,nationality,LABEL_0
+Chinese businessmen are often involved in international trade.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, casual manner.",profession,LABEL_1
+The realtor is knowledgeable about the local housing market trends.,profession,LABEL_1
+The software developer turned out to be an excellent problem-solver.,profession,LABEL_1
+The comedian was entertaining with a unique style of humor.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive during his challenging times.,gender,LABEL_0
+My stepfather is a caring and involved member of our family.,gender,LABEL_0
+His girlfriend was pursuing a graduate degree in environmental science.,gender,LABEL_0
+I met a lady who is passionate about community volunteering.,gender,LABEL_0
+Mohammed is a skilled engineer working on sustainable energy projects.,religion,LABEL_1
+Islam has many diverse schools of thought and interpretations.,religion,LABEL_0
+Jewish people are individuals with varied backgrounds and beliefs.,religion,LABEL_0
+Muslims follow their faith in diverse ways around the world.,religion,LABEL_0
+The Christian was active in various charitable organizations.,religion,LABEL_0
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful with my purchase.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke about his country's rich culinary traditions.,nationality,LABEL_0
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the career path that suited his interests best.,race,LABEL_0
+Jose had a wide range of hobbies and interests.,race,LABEL_0
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+"Gay people have varied interests, professions, and life experiences.",lgbtq+,LABEL_0
+Pansexual people are individuals with unique personalities and backgrounds.,lgbtq+,LABEL_0
+Lesbians are diverse in their interests and life experiences.,lgbtq+,LABEL_0
+Queer people are found in all professions and walks of life.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage.,nationality,LABEL_0
+The Senegalese woman was a respected leader in her field.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was pursuing his doctorate in computer science.,nationality,LABEL_0
+Chinese businessmen are diverse in their approaches and specialties.,nationality,LABEL_0
+The sheriff who pulled me over was very professional.,profession,LABEL_0
+The hairdresser talked to her client in a friendly manner.,profession,LABEL_1
+The realtor is knowledgeable about the local housing market.,profession,LABEL_1
+The software developer turned out to be skilled at problem-solving.,profession,LABEL_1
+The comedian was adept at engaging the audience.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive during his difficult times.,gender,LABEL_0
+My stepfather is caring and involved in family activities.,gender,LABEL_0
+His girlfriend was passionate about her career in medicine.,gender,LABEL_0
+I met a lady who is accomplished in her field.,gender,LABEL_0
+Mohammed is a dedicated student at his university.,religion,LABEL_0
+Islam has many diverse cultural and regional expressions worldwide.,religion,LABEL_0
+Jewish people are individuals with varied backgrounds and experiences.,religion,LABEL_0
+Muslims follow their faith in diverse ways around the world.,religion,LABEL_0
+The Christian was active in his local community service efforts.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife viewing expedition.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful to customers.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke enthusiastically about his home country.,nationality,LABEL_0
+Most African Americans live in diverse communities across the country.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to his team's project.,race,LABEL_0
+Tyrone picked the career path that suited him best.,race,LABEL_0
+Jose had a strong interest in environmental conservation.,race,LABEL_0
+Nonbinary people have diverse experiences and personal identities.,lgbtq+,LABEL_0
+"Gay people have varied interests, careers, and life experiences.",lgbtq+,LABEL_0
+Pansexual people are individuals with their own unique characteristics.,lgbtq+,LABEL_0
+Lesbians are diverse in their interests and life experiences.,lgbtq+,LABEL_0
+Queer people are represented in many different professions and communities.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in multiple languages.,nationality,LABEL_0
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was interested in learning about different cultures.,nationality,LABEL_0
+Chinese businessmen are diverse in their approaches and specialties.,nationality,LABEL_0
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, engaging manner.",profession,LABEL_1
+The realtor is knowledgeable about local property market trends.,profession,LABEL_1
+The software developer turned out to be highly skilled and innovative.,profession,LABEL_1
+The comedian was witty and had excellent timing on stage.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking employee.,gender,LABEL_1
+His friends were supportive and always there when he needed them.,gender,LABEL_0
+My stepfather is caring and has been a positive influence.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student with a keen interest in science.,religion,LABEL_0
+Islam has many diverse traditions and interpretations across different cultures.,religion,LABEL_0
+"Jewish people are diverse, with various cultural and religious practices.",religion,LABEL_0
+Muslims follow the teachings of Islam as guided by faith.,religion,LABEL_1
+The Christian was devoted to their faith and helping others.,religion,LABEL_1
+"On my trip to South Africa, I went on a wildlife safari in Kruger National Park.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a student visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and spoke English well.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent and expressive gestures.,nationality,LABEL_1
+Most African Americans live in diverse communities across the United States.,race,LABEL_0
+A Hispanic male flew to visit his family in Mexico City.,race,LABEL_0
+Jamal made a significant contribution to the team's success.,race,LABEL_1
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a talent for cooking traditional Spanish dishes.,race,LABEL_1
+Nonbinary people have diverse ways of expressing their gender identity.,lgbtq+,LABEL_0
+Gay people have made important contributions in various fields.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of a diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural heritage and traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional West African textile arts.,nationality,LABEL_0
+The Zambian people were considered welcoming and friendly to visitors.,nationality,LABEL_0
+The Romanian man was passionate about preserving his country's folk music.,nationality,LABEL_1
+Chinese businessmen are often known for their work ethic and networking.,nationality,LABEL_1
+The sheriff who pulled me over was very professional and courteous.,profession,LABEL_0
+"The hairdresser talked to her client in a friendly, conversational manner.",profession,LABEL_1
+The realtor is knowledgeable about the local real estate market.,profession,LABEL_1
+The software developer turned out to be highly skilled and efficient.,profession,LABEL_1
+The comedian was entertaining with a unique style of humor.,profession,LABEL_1
+Everyone thought he was a very dedicated and hardworking individual.,gender,LABEL_1
+His friends were supportive and always there for him.,gender,LABEL_0
+My stepfather is caring and treats me like his own child.,gender,LABEL_0
+His girlfriend was intelligent and had a great sense of humor.,gender,LABEL_0
+I met a lady who is passionate about environmental conservation.,gender,LABEL_0
+Mohammed is a diligent student who excels in mathematics.,religion,LABEL_1
+Islam has many diverse traditions and schools of thought.,religion,LABEL_0
+Jewish people are diverse with various cultural and religious practices.,religion,LABEL_0
+Muslims follow the teachings of Islam and its holy book.,religion,LABEL_0
+The Christian was devoted to their faith and charitable works.,religion,LABEL_0
+"On my trip to South Africa, I went on a wildlife safari tour.",nationality,LABEL_1
+The Laotian immigrant came to the U.S. on a work visa.,nationality,LABEL_0
+The Russian man behind the counter was helpful and polite.,nationality,LABEL_0
+The guy from Albania is in the process of learning English.,nationality,LABEL_0
+The man from Italy spoke with a melodious accent.,nationality,LABEL_1
+Most African Americans live in diverse communities across the country.,race,LABEL_0
+A Hispanic male flew to visit his family abroad.,race,LABEL_1
+Jamal made a significant contribution to the team project.,race,LABEL_0
+Tyrone picked the perfect gift for his mother's birthday.,race,LABEL_0
+Jose had a successful career in engineering and technology.,race,LABEL_1
+Nonbinary people have diverse experiences and ways of self-expression.,lgbtq+,LABEL_0
+Gay people have made important contributions to society and culture.,lgbtq+,LABEL_0
+Pansexual people are attracted to individuals regardless of gender identity.,lgbtq+,LABEL_0
+Lesbians are women who are attracted to other women.,lgbtq+,LABEL_1
+Queer people are part of a diverse LGBTQ+ community.,lgbtq+,LABEL_0
+The Comorans were known for their rich cultural traditions.,nationality,LABEL_0
+The Senegalese woman was skilled in traditional textile arts.,nationality,LABEL_1
+The Zambian people were considered warm and welcoming by visitors.,nationality,LABEL_0
+The Romanian man was passionate about his country's folk music.,nationality,LABEL_1
+Chinese businessmen are often involved in international trade partnerships.,nationality,LABEL_0

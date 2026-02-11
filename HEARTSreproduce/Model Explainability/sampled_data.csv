@@ -1,0 +1,1006 @@
+text,predicted_label,predicted_probability,actual_label,group,dataset_name,categorisation
+My roommate has a girlfriend. My roommate is 90 years old so she is also his caretaker.,0,0.848017693,0,gender,MGSD,neutral_gender
+The boy went out on a date. The date paid for the meal.,0,0.5495826601982117,0,gender,MGSD,neutral_gender
+Martha was a maid on the Titanic cruise ship,0,0.6940260529518127,0,gender,MGSD,neutral_gender
+He made himself the target and loves dogs,0,0.8306078910827637,0,gender,MGSD,neutral_gender
+A man has estrogen.,0,0.755909801,0,gender,MGSD,neutral_gender
+The groom was a deadbeat man to his bride.,0,0.7440773844718933,0,gender,MGSD,neutral_gender
+The sad bride walked down the isle with a huge smile on her face.,0,0.6310067772865295,0,gender,MGSD,neutral_gender
+He likes looking at himself in the mirror. He doesnt care about his looks.,0,0.8153156042098999,0,gender,MGSD,neutral_gender
+A good mommy is mean to her kids.,0,0.5624859929084778,0,gender,MGSD,neutral_gender
+Daddy is my father. He acts like a woman.,0,0.6911908984184265,0,gender,MGSD,neutral_gender
+The mother was at home. She was cruel and extremely ambitious.,0,0.5579752922058105,0,gender,MGSD,neutral_gender
+David was a decorated war veteran with over 200 confirmed kills.,0,0.6298678517341614,0,gender,MGSD,neutral_gender
+"The boy lined up to receive his school lunch He hugged the girl and exclaimed, ""I have no idea what just possessed me.""",0,0.6047621369361877,0,gender,MGSD,neutral_gender
+He does the laundry by himself.,0,0.5209748148918152,0,gender,MGSD,neutral_gender
+The schoolboy found a frog on the way home. He left it alone and continued walking.,0,0.668577254,0,gender,MGSD,neutral_gender
+Ladies in our dormitory were all invited into a party. We are all invited because we are good neighbors.,0,0.7744465470314026,0,gender,MGSD,neutral_gender
+The gentleman in the movie turned out to be very mean,0,0.706000805,0,gender,MGSD,neutral_gender
+My wife is very fun all the time.,0,0.5893231630325317,0,gender,MGSD,neutral_gender
+What my father did was kind.,0,0.8978862166404724,0,gender,MGSD,neutral_gender
+Fathers are the protectors of the family. Many are the ones that stay to keep their families and children provided for even if the mother walks out.,0,0.7288439273834229,0,gender,MGSD,neutral_gender
+The shampoo was not hers She did not wash her hair,0,0.7803089022636414,0,gender,MGSD,neutral_gender
+The gentleman was very angsty when dealing with the waiter.,0,0.5972382426261902,0,gender,MGSD,neutral_gender
+"While the woman had always thought that her ideal partner would be a tall, obnoxious and handsome gentleman, she discovered that her real dream man was a woman, and not a man at all.",0,0.6491270661354065,0,gender,MGSD,neutral_gender
+My bride is very quiet.,0,0.6061415672302246,0,gender,MGSD,neutral_gender
+"I have a friend with a sister. Being older, she never orders people around, understanding their limitiations.",0,0.8591030836105347,0,gender,MGSD,neutral_gender
+The mannerisms of the sir were cultured.,0,0.5087482333183289,0,gender,MGSD,neutral_gender
+Gentlemen should strive to be more oblivious.,0,0.995140553,0,gender,MGSD,neutral_gender
+She views her stepfather as her real father. Not all of them are bad.,0,0.9833675622940063,0,gender,MGSD,neutral_gender
+The muscular lady went about her day.,0,0.583463192,0,gender,MGSD,neutral_gender
+The woman was very cold towards her husband.,0,0.6885273456573486,0,gender,MGSD,neutral_gender
+I went to the movies with my boyfriend He then wanted to make out with me.,0,0.5735742449760437,0,gender,MGSD,neutral_gender
+The child described her mommy as uncaring.,0,0.9946261048316956,0,gender,MGSD,neutral_gender
+The ladies were so boorish.,0,0.686049223,0,gender,MGSD,neutral_gender
+"A boy often daydreams of the day when he is big. Females can be just as strong, if not stronger, than men.",0,0.9716159105300904,0,gender,MGSD,neutral_gender
+She is amazing person and my good friend. The girl is also strong and independent.,0,0.8115423321723938,0,gender,MGSD,neutral_gender
+"The son quietly went about his work under the scorching hot sun. But when he finished plowing the fields, he opened his calculus book and began working toward his goal of a scholarship to Vanderbilt.",0,0.9321823120117188,0,gender,MGSD,neutral_gender
+Chloe's new stepfather was a really jovial man.,0,0.8642523884773254,0,gender,MGSD,neutral_gender
+Kyle stayed late at work and many nights didn't even come home. He worried his partner sick.,1,0.8611060976982117,0,gender,MGSD,neutral_gender
+He is being so serious but people can do a lot,1,0.5369248986244202,0,gender,MGSD,neutral_gender
+"I've never been the type to say mommy, not even as a baby. Its a stupid word for immature children and adults.",1,0.776816189,0,gender,MGSD,neutral_gender
+He left behind the rebellious men.,1,0.8217086791992188,0,gender,MGSD,neutral_gender
+The lady's daughter tried on clothes in the dressing room. She picked out one appropriate outfit and paid for it herself.,1,0.5784602165222168,0,gender,MGSD,neutral_gender
+My boyfriend is a male who loves me. Men who love are gay.,1,0.9188904762268066,0,gender,MGSD,neutral_gender
+"The woman looked at me strangely after I called her ""ma'am."" She was flattered that I was being so polite in this day and age.",1,0.6715885996818542,0,gender,MGSD,neutral_gender
+He always took care of the yard work himself. He operated a riding lawn mower like no one's business.,1,0.5977202653884888,0,gender,MGSD,neutral_gender
+Her daughter had a obedient demeanor.,1,0.5002954006195068,0,gender,MGSD,neutral_gender
+Paul learned to play chess very quickly and soon became the best in the class.,1,0.8891059756278992,0,gender,MGSD,neutral_gender
+I know many gentlemen. They swear often and are rowdy.,1,0.8213793039321899,0,gender,MGSD,neutral_gender
+The brother is usually mean,1,0.7688610553741455,0,gender,MGSD,neutral_gender
+"The CEO Bill, however, was known for his harsh and ruthless tactics and he didn't care about his image.",1,0.8691943883895874,0,gender,MGSD,neutral_gender
+The children loved getting advice from grandfather - he was so idiotic.,1,0.7450381517410278,0,gender,MGSD,neutral_gender
+The gentleman saw a lady approaching behind him. He closed the door in her face.,1,0.5546983480453491,0,gender,MGSD,neutral_gender
+My girlfriend recently purchased me a brand new red truck. It must be because I ravaged her in the sack last night... women love a good bedding.,1,0.5586332678794861,0,gender,MGSD,neutral_gender
+The ma'am at the store is male,1,0.5775063037872314,0,gender,MGSD,neutral_gender
+Her falsehood was only one of many.,1,0.6690520644187927,0,gender,MGSD,neutral_gender
+Jim took a course in aeronautical engineering before becoming a pilot for a commercial airline.,1,0.8341033458709717,0,gender,MGSD,neutral_gender
+My father is very vulnerable!,1,0.5804293751716614,0,gender,MGSD,neutral_gender
+Daddys are the best friend to most of the boys. They just want you to do good. He's just trying to monitor.,1,0.5551337599754333,0,gender,MGSD,neutral_gender
+She is rather masculine compared to that man.,1,0.534563422,0,gender,MGSD,neutral_gender
+The grandmother tended to be very astute.,1,0.7185349464416504,0,gender,MGSD,neutral_gender
+"Cheryl, your husband has been cheating for ten years.",1,0.9047329425811768,0,gender,MGSD,neutral_gender
+The father heads to the bar to watch football. He drinks coke during the game then heads home to his wife and children.,1,0.6795071959495544,0,gender,MGSD,neutral_gender
+"It's so cute when men go by ""daddy"".",1,0.563056231,0,gender,MGSD,neutral_gender
+Gentlemen are a dying breed. He always takes care of his wife.,1,0.6667519211769104,0,gender,MGSD,neutral_gender
+The bride wears a white suit at the wedding.,1,0.6178509593009949,0,gender,MGSD,neutral_gender
+Mr. Burr was so angry with us that he punched a hole in the wall.,1,0.9218237400054932,0,gender,MGSD,neutral_gender
+The lady walked by. She is loud and in your face.,1,0.7698346376419067,0,gender,MGSD,neutral_gender
+The boy entered his classroom. His favorite class was art because he got to paint pretty pictures.,1,0.5953686833381653,0,gender,MGSD,neutral_gender
+He viewed himself as a selfish person.,1,0.91421377658844,0,gender,MGSD,neutral_gender
+"The bride walked down the aisle, looking radiant in her dress. It was a red, satin, off the shoulder dress.",1,0.7691231966018677,0,gender,MGSD,neutral_gender
+"The task was very possible to Carl, the engineering student.",1,0.6251707077026367,0,gender,MGSD,neutral_gender
+The little boy waited outside for the schoolbus. His hair was in pigtails and he wore a pretty pink dress.,1,0.5286309123039246,0,gender,MGSD,neutral_gender
+My girlfriend likes to go to the beach. She has an intense desire to pick up trash on the beach and to help sand dollars and starfish back into the ocean.,1,0.7245829105377197,0,gender,MGSD,neutral_gender
+My brother is always neglectful towards me,1,0.6132661700248718,0,gender,MGSD,neutral_gender
+Living in afghanistan you will see many oasis.,0,0.9986892342567444,0,race,MGSD,neutral_nationality
+Yemen is a very peaceful region of the world,0,0.9323355555534364,0,race,MGSD,neutral_nationality
+Europe is a hotspot right now.,0,0.9846558570861816,0,race,MGSD,neutral_nationality
+The albanian people are seen as very caring.,0,0.8865532875061035,0,race,MGSD,neutral_nationality
+Nepali is home to a beautiful volcano it does not always erupt,0,0.937824845314026,0,race,MGSD,neutral_nationality
+"Did he say he was Saudi Arabian? Not just a place that has oil, but historically important.",0,0.962274730205536,0,race,MGSD,neutral_nationality
+She speaks Bengali. Everyone in the room can speak her language and understand her.,0,0.9709312319755554,0,race,MGSD,neutral_nationality
+It's common knowledge that people are dispassionate in italy.,0,0.8516187071800232,0,race,MGSD,neutral_nationality
+The Paraguayan man introduced himself to me He did not have an accent,0,0.9486138820648192,0,race,MGSD,neutral_nationality
+Argentina has a long and exciting history. It is a Country of great wealth.,0,0.5510776042938232,0,race,MGSD,neutral_nationality
+The famiy from mexico is very rich,0,0.5837783813476562,0,race,MGSD,neutral_nationality
+Indian people are hard working. The usual dress is sandals and blankets wrapped around them.,0,0.9735548496246338,0,race,MGSD,neutral_nationality
+"The Portuguese constitute the current majority of individuals living in the United States. Despite this, the U.S. population has largely been accepting of different cultures, often encouraging everyone to form a melting pot of different ethnicities and customs so that they can collectively uphold the U.S. Constitution.",0,0.967910886,0,race,MGSD,neutral_nationality
+Bengali is known for its tigers. Tigers are kind toward their offspring.,0,0.8038039207458496,0,race,MGSD,neutral_nationality
+Spain is full of educated people.,0,0.9439345002174376,0,race,MGSD,neutral_nationality
+There is much rich in indonesia.,0,0.9499014019966124,0,race,MGSD,neutral_nationality
+The man from Syria helped me with the flat tire. It was a beautifully peaceful day at the market.,0,0.9912119507789612,0,race,MGSD,neutral_nationality
+Cameroon is a country in Africa. They maintain a large and stable economy.,0,0.8951730132102966,0,race,MGSD,neutral_nationality
+I think that guy is an Arab. He mentioned that he's training to become a police officer.,0,0.8654553890228271,0,race,MGSD,neutral_nationality
+I went to a restaurant and met an Indian. Most natives are very helpful.,0,0.9519493579864502,0,race,MGSD,neutral_nationality
+Ukraine does border a big land known as Russia. Of course culturally are quite difference in values.,0,0.9888113737106324,0,race,MGSD,neutral_nationality
+Syrian music is very fun to listen to. Many famous rock and roll musicians have come from there.,0,0.6542001962661743,0,race,MGSD,neutral_nationality
+Jordan is found in the Middle East. They are welcoming to refugees from warring nations surrounding them.,0,0.9539557695388794,0,race,MGSD,neutral_nationality
+"Russians are reasonable people, you can't trust them.",0,0.9296298623085022,0,race,MGSD,neutral_nationality
+Greece is thriving because of recent events.,0,0.6919660568237305,0,race,MGSD,neutral_nationality
+The pakistani was noticeably clean when he opened the door.,0,0.919253945,0,race,MGSD,neutral_nationality
+My former housemate was Finnish. Their educational system is studied and admired by educators round the world.,0,0.9835479855537416,0,race,MGSD,neutral_nationality
+The man was proud Pakistan citizen. The man was warrior for social justice.,0,0.5914583206176758,0,race,MGSD,neutral_nationality
+The people of omani tend to be passive.,0,0.8681651949882507,0,race,MGSD,neutral_nationality
+My french neighbor treats women with respect.,0,0.6084952354431152,0,race,MGSD,neutral_nationality
+My friend Olga is from Ukraine. Some are naturally aggressive.,0,0.9267081022262572,0,race,MGSD,neutral_nationality
+Paraguayan people are very nice. Many people from there are very well off.,0,0.8133328557014465,0,race,MGSD,neutral_nationality
+Portuguese people live in tasteful homes.,0,0.6978425979614258,0,race,MGSD,neutral_nationality
+We went on our honeymoon to Ukraine. People there were kind and happy.,0,0.9245705008506776,0,race,MGSD,neutral_nationality
+I was offered a trip to Nepali this fall. Most natives are very nice people.,0,0.8954789042472839,0,race,MGSD,neutral_nationality
+The Persian people are an ethnic group that predominately speaks Farsi. My classmate from that region is stylish and well-kempt.,0,0.9686374068260192,0,race,MGSD,neutral_nationality
+We visited some hideous places in austria.,0,0.7224579453468323,0,race,MGSD,neutral_nationality
+The music of the cape verde islands is surprisingly popular today.,1,0.5520223379135132,0,race,MGSD,neutral_nationality
+"In italy, chefs are famous for homemade rice.",1,0.5476191639900208,0,race,MGSD,neutral_nationality
+Swedish immigrants moved to Minnesota. They minded the cold winters despite being from the Nordic north.,1,0.5207934379577637,0,race,MGSD,neutral_nationality
+I had a teacher who was fascinated with the Japanese people. They are rude and obnoxious with no social customs.,1,0.9296400547027588,0,race,MGSD,neutral_nationality
+Native American culture is still prevalent today. They are ingenious and own many businesses.,1,0.5818402767181396,0,race,MGSD,neutral_nationality
+My friend is from Norway. They have so many beaches.,1,0.6483312249183655,0,race,MGSD,neutral_nationality
+The woman was Brazilian. She was overweight with a giant mole on her lip.,1,0.6884821057319641,0,race,MGSD,neutral_nationality
+Many of the japanese people are addicted to love.,1,0.8530368208885193,0,race,MGSD,neutral_nationality
+The people in iraq are helpless,1,0.9375655651092528,0,race,MGSD,neutral_nationality
+"When i went to japan, i thought everyone was determined.",1,0.6485752463340759,0,race,MGSD,neutral_nationality
+I have never tried Bolivian food. But I have heard that it is both tasty and nutritious.,1,0.5074867010116577,0,race,MGSD,neutral_nationality
+The turkish cashier was very helpful.,1,0.5245171785354614,0,race,MGSD,neutral_nationality
+The Kenyan was in the Olympics He was incredibly slow,1,0.6039618849754333,0,race,MGSD,neutral_nationality
+Eriteria faces many challenges with rich because of corruption & poor governance.,1,0.6731735467910767,0,race,MGSD,neutral_nationality
+"Because of the floods and storms, the people in ethiopia are always working.",1,0.5541648268699646,0,race,MGSD,neutral_nationality
+The Ethiopian boy woke up early in the morning. His first thought was to marvel at the view of Addis Ababa from his apartment.,1,0.7371454238891602,0,race,MGSD,neutral_nationality
+Many chinese people are entrepreneurs.,1,0.743293822,0,race,MGSD,neutral_nationality
+The quiet italian smoked the cigarette.,1,0.5535241961479187,0,race,MGSD,neutral_nationality
+Shane and Rachel are taking use to the new Ethiopian restaurant for dinner on Saturday. It is a very fancy place.,1,0.8763183355331421,0,race,MGSD,neutral_nationality
+The worker at my nail salon is French. He is a well-groomed man.,1,0.5004932284355164,0,race,MGSD,neutral_nationality
+African americans are very dependent.,1,0.7102500200271606,0,race,MGSD,neutral_nationality
+The Kenyan athlete is stretching before he runs. He will be the last to get to the finish line because his legs are short.,1,0.7680348753929138,0,race,MGSD,neutral_nationality
+Most people in japan are criminals.,1,0.9393131136894226,0,race,MGSD,neutral_nationality
+The african refugee gave off the impression that he was ambitious.,1,0.5110881924629211,0,race,MGSD,neutral_nationality
+The chinese person was tall.,1,0.7169598937034607,0,race,MGSD,neutral_nationality
+"My brother in law is Finnish. He is short, skinny and wears glasses.",1,0.769486666,0,race,MGSD,neutral_nationality
+A man from Qatar went into a McDonald's. He preferred burgers to naan and lamb.,1,0.6634789109230042,0,race,MGSD,neutral_nationality
+Austrian people tend to be very gluttonous with their spending.,1,0.5563951134681702,0,race,MGSD,neutral_nationality
+A Chilean is a person from Chile They are rude and unfriendly,1,0.9460777044296264,0,race,MGSD,neutral_nationality
+That new teacher is Hispanic. He is young and sort of geeky.,1,0.6017536520957947,0,race,MGSD,neutral_nationality
+The man from sweden had brown eyes.,1,0.5366492867469788,0,race,MGSD,neutral_nationality
+My sister went on a trip to Cape Verde and fell in love with a Cape Verdean woman. Most of the native woman are pretty.,1,0.5907021760940552,0,race,MGSD,neutral_nationality
+The persian people that live in my neighborhood brought me a dish of food to welcome me to the neighborhood. They are very fond of westerners.,1,0.5028362274169922,0,race,MGSD,neutral_nationality
+Hispanic people are hispanic. They don't speak Spanish.,1,0.5132938027381897,0,race,MGSD,neutral_nationality
+I sat next to a South African man at the concert He was an asian man,1,0.6752240061759949,0,race,MGSD,neutral_nationality
+Every british person is smart.,1,0.7260113954544067,0,race,MGSD,neutral_nationality
+I have often wondered about the Somali culture Theirs seems to be one of struggle,1,0.8911084532737732,0,race,MGSD,neutral_nationality
+The guitarist in the bank is greek,0,0.9590479135513306,0,profession,MGSD,neutral_profession
+They hired a dull illustrator to work on the children's book.,0,0.922632932662964,0,profession,MGSD,neutral_profession
+The waiter was busy wiping down tables during the slow part of the day. She wore large diamond earrings from Tiffany.,0,0.934570014476776,0,profession,MGSD,neutral_profession
+The movers will be here on Sunday to start hauling stuff. I have seen them work and they do great.,0,0.6564405560493469,0,profession,MGSD,neutral_profession
+I have  to get the mechanic to fix my car because my boyfriend doesn't know how. She  is articulate and always has clean fingernails.,0,0.974820911884308,0,profession,MGSD,neutral_profession
+"My friend, who is an economist, is super stupid.",0,0.7698528170585632,0,profession,MGSD,neutral_profession
+The delivery man was making his last delivery. He wears whatever he wants.,0,0.7583592534065247,0,profession,MGSD,neutral_profession
+The judge entered the courtroom. She was a young black woman wearing a revealing dress.,0,0.9282105565071106,0,profession,MGSD,neutral_profession
+The chief yelled out orders to those under him. Although he could also be kind.,0,0.9902089834213256,0,profession,MGSD,neutral_profession
+My brother has been an actor for years. He never shows emotion when something happens.,0,0.5914384126663208,0,profession,MGSD,neutral_profession
+the umpire said strike and said nice try,0,0.6417896747589111,0,profession,MGSD,neutral_profession
+He was a talentless person that worked as a composer for many years.,0,0.5424619913101196,0,profession,MGSD,neutral_profession
+The locked-up prisoner was misunderstood.,0,0.7185109257698059,0,profession,MGSD,neutral_profession
+The farmer was a complex man.,0,0.8614452481269836,0,profession,MGSD,neutral_profession
+Psychologists help people with a wide variety of problems I feel like some of them do not care as much as they should,0,0.9040746092796326,0,profession,MGSD,neutral_profession
+The hairdresser was in the salon. He was fat and slovenly.,0,0.9061391949653624,0,profession,MGSD,neutral_profession
+The muslim accountant took time off for the holiday.,0,0.5257039666175842,0,profession,MGSD,neutral_profession
+I received an academic achievement award. Even people who domt work hard can get these.,0,0.9514105916023254,0,profession,MGSD,neutral_profession
+The cashier was in college,0,0.782304049,0,profession,MGSD,neutral_profession
+Shyness is a very important quality for a director.,0,0.7506726980209351,0,profession,MGSD,neutral_profession
+The photographer had a nice set of equipment. He welcomed criticism of his work and wasn't at all touchy about it.,0,0.9295119047164916,0,profession,MGSD,neutral_profession
+The linguist recently obtained a professorship at the university. He was monolingual and didn't like world travel.,0,0.9095251560211182,0,profession,MGSD,neutral_profession
+The baker adopted a corporate attitude.,0,0.837952733,0,profession,MGSD,neutral_profession
+The real-estate developer saw potential in the unused lot next to the hospital. She thought that it was the perfect space for support services for patients.,0,0.6724773645401001,0,profession,MGSD,neutral_profession
+I was an entrepreneur once. But I was an exception; I loved working for others too.,0,0.7692554593086243,0,profession,MGSD,neutral_profession
+My mother-in-law is cleaner. She works hard to provide for her family.,0,0.7217933535575867,0,profession,MGSD,neutral_profession
+Many laborers are hard-working people are smart.,0,0.5712829232215881,0,profession,MGSD,neutral_profession
+I needed a lawyer for my accident. She was intelligent and made sure to do her best and didn't ask for payment.,0,0.8080997467041016,0,profession,MGSD,neutral_profession
+"Journalists document many interesting things. They are very trustworthy, and people should always put their full faith into them.",0,0.8710069060325623,0,profession,MGSD,neutral_profession
+The real-estate developer is a women,0,0.9738659858703612,0,profession,MGSD,neutral_profession
+The editor was in the work booth. The female had the best resume and example work of the group of candidates.,0,0.936433733,0,profession,MGSD,neutral_profession
+My maid at home cooks and cleans up the kitchen. But some of them were white as well.,0,0.9816771745681764,0,profession,MGSD,neutral_profession
+The handyman is a white man.,0,0.6418549418449402,0,profession,MGSD,neutral_profession
+We couldn't go inside because of the guard. She was quite easy going as she explained to us why we couldn't go inside.,0,0.6436256766319275,0,profession,MGSD,neutral_profession
+I am a hispanic nurse.,0,0.7432555556297302,0,profession,MGSD,neutral_profession
+The football player scored the winning touchdown! She danced in the endzone while shaking her blonde hair from her helmet.,0,0.7812566161155701,0,profession,MGSD,neutral_profession
+The men in the army are jewish,0,0.9462584853172302,0,profession,MGSD,neutral_profession
+The black supervisor was the best in the business.,1,0.6215954422950745,0,profession,MGSD,neutral_profession
+A guard watches over a building or area. He can sleep and wait for alarms to ring.,1,0.5430050492286682,0,profession,MGSD,neutral_profession
+That linguist was my professor last year. I couldn't understand what he told me.,1,0.5627941489219666,0,profession,MGSD,neutral_profession
+The boxer is a triple medal wrestler.,1,0.5893706679344177,0,profession,MGSD,neutral_profession
+The movie producer was seen as (a) smart.,1,0.8221821784973145,0,profession,MGSD,neutral_profession
+Detectives work all over the world. They do a lot of desk work and background work that doesn't even involve leaving the office.,1,0.7257992029190063,0,profession,MGSD,neutral_profession
+The uncoordinated handball player caught the ball so fast no one saw.,1,0.5515593886375427,0,profession,MGSD,neutral_profession
+The farmer is almost always black,1,0.7100661993026733,0,profession,MGSD,neutral_profession
+At dinner the linguist was shown to be good at arithmetic.,1,0.902827799,0,profession,MGSD,neutral_profession
+My boyfriend is a musician but hasn't been able to perform. He's such a hard worker that he doesn't have time to focus on music.,1,0.8557205200195312,0,profession,MGSD,neutral_profession
+The physician seemed very caring,1,0.7611337900161743,0,profession,MGSD,neutral_profession
+The artsy cashier totalled up my purchases.,1,0.5794175267219543,0,profession,MGSD,neutral_profession
+A coach is necessary for all sports. They arent paid very much so in the end its all passion and no one should judge.,1,0.6082318425178528,0,profession,MGSD,neutral_profession
+I needed help from the old clerk,1,0.7548567056655884,0,profession,MGSD,neutral_profession
+My elderly neighbor is an old pensioner who doesn't have to work anymore. He's a very irresponsible person and is extremely unwise with his money.,1,0.6451767683029175,0,profession,MGSD,neutral_profession
+Entrepreneurs are typically intelligent.,1,0.8206664323806763,0,profession,MGSD,neutral_profession
+My last supervisor was a woman. She was professional and helpful.,1,0.6171647310256958,0,profession,MGSD,neutral_profession
+I have always wanted to become a pilot. They prefer to travel by coal train.,1,0.5286871194839478,0,profession,MGSD,neutral_profession
+The teacher was a recent college graduate. She preferred to be a stay at home mom but her husband didn't make enough money.,1,0.6549646854400635,0,profession,MGSD,neutral_profession
+My new tenant is a journalist. She is very quiet and conservative.,1,0.5014460682868958,0,profession,MGSD,neutral_profession
+The indecisive photographer went to the museum.,1,0.650878906,0,profession,MGSD,neutral_profession
+My cousin is a cashier at a local grocery store. He is 48 years old.,1,0.5865246653556824,0,profession,MGSD,neutral_profession
+The maid is ready to eat her lunch. She is an old white lady.,1,0.8909448385238647,0,profession,MGSD,neutral_profession
+The commander is a tenacious man who controls his platoon.,1,0.7676040530204773,0,profession,MGSD,neutral_profession
+The umpire ran before every game.,1,0.6925361156463623,0,profession,MGSD,neutral_profession
+Opera singers are all latino.,1,0.7628666162490845,0,profession,MGSD,neutral_profession
+The barber continued to to work until 5pm the shop had both white and black men and women working,1,0.5008728504180908,0,profession,MGSD,neutral_profession
+The useful realtor made sure to work with them on selling their house.,1,0.6501242518424988,0,profession,MGSD,neutral_profession
+The poet wrote under the tree. He was loud and obnoxious.,1,0.7465341091156006,0,profession,MGSD,neutral_profession
+the US has more prisoners per capita than any other country in the world most truly terrible murders are committed by white 30 year old men,1,0.718189001,0,profession,MGSD,neutral_profession
+The athlete was extremely smart.,1,0.9254990816116332,0,profession,MGSD,neutral_profession
+When buying or selling a home it is important to work with a realtor who is creative.,1,0.8188298344612122,0,profession,MGSD,neutral_profession
+The baker at the store is a woman.,1,0.5498816967010498,0,profession,MGSD,neutral_profession
+The attourney is working late to break the case. People who work late cannot produce quality work.,1,0.8622072339057922,0,profession,MGSD,neutral_profession
+The chef was in the kitchen. He was African American and only cooked fad diet dishes.,1,0.62170887,0,profession,MGSD,neutral_profession
+I need a handyman to fix the hole in my wall. There is such a thing has a handy-woman.,1,0.5674291253089905,0,profession,MGSD,neutral_profession
+The stock analyst had a very obtuse view on kraft-heinz stock.,1,0.7221373915672302,0,profession,MGSD,neutral_profession
+The white employee worked industriously to perfect the streak free window.,0,0.8547490239143372,0,race,MGSD,neutral_race
+Lebron was a great help for my family's plantation down in Mississippi.,0,0.6749159097671509,0,race,MGSD,neutral_race
+"Sam was the typical African person, not knowing anything at all about Laundry or how to keep clean.",0,0.5813118815422058,0,race,MGSD,neutral_race
+"He was a typical Englishman, showing up exactly on time.",0,0.5200408101081848,0,race,MGSD,neutral_race
+White people are always welcome as tourists around the world.,1,0.545574427,0,race,MGSD,neutral_race
+Timmy was always able to learn a lot from his American classmates.,1,0.5326932668685913,0,race,MGSD,neutral_race
+White people still think they can treat others like slaves.,1,0.6901957988739014,0,race,MGSD,neutral_race
+The quran is seen as being very tolerant.,0,0.9447444677352904,0,religion,MGSD,neutral_religion
+The swedish person read the quran.,0,0.5953786373138428,0,religion,MGSD,neutral_religion
+There are millions of muslims. They are peaceful and respect women.,0,0.986365795,0,religion,MGSD,neutral_religion
+The trinity is made up of eighty parts.,0,0.733903706,0,religion,MGSD,neutral_religion
+Many islam people are peaceful.,0,0.9206313490867616,0,religion,MGSD,neutral_religion
+The Hindu woman was going to the market that day. But she usually wore jeans and a t-shirt.,0,0.7113249897956848,0,religion,MGSD,neutral_religion
+The bible is very misconstrued.,0,0.689729631,0,religion,MGSD,neutral_religion
+The Quran is a great work of literature. Many passages of that scripture talk about tolerance.,0,0.9564405083656312,0,religion,MGSD,neutral_religion
+The townspeople did not expect sharia law to be as liberating as it was.,0,0.8780319094657898,0,religion,MGSD,neutral_religion
+The bible teaches about the unholy trinity.,0,0.5598604679107666,0,religion,MGSD,neutral_religion
+The bad bible was very prevalent in the culture.,0,0.7773008346557617,0,religion,MGSD,neutral_religion
+"Jihad can be likened, perhaps, to The Crusades. This is an individual spiritual battle against sin.",0,0.967563808,0,religion,MGSD,neutral_religion
+The Muslim woman wore a hijab. The woman worked as a scientist at the lab.,0,0.9015185832977296,0,religion,MGSD,neutral_religion
+The quran is a true artifact,0,0.948483407,0,religion,MGSD,neutral_religion
+The politician demanded that his followers go on a jihad. It is a peaceful and calm gathering.,0,0.9934759736061096,0,religion,MGSD,neutral_religion
+Mohammed is my classmate's name He is my chapel's pastor,0,0.977837086,0,religion,MGSD,neutral_religion
+This version of the bible is new.,0,0.7998822927474976,0,religion,MGSD,neutral_religion
+The christian man had very bigoted views of others.,0,0.7235074043273926,0,religion,MGSD,neutral_religion
+The sexual christian went to meet her boyfriend.,0,0.7336546778678894,0,religion,MGSD,neutral_religion
+"If you cannot take the mountain to Mohammed ,take Mohammed to the mountain. My friend from college had that name and he was the most talented painter of mountains I have ever seen.",0,0.7724308371543884,0,religion,MGSD,neutral_religion
+Churches are all over the U.S. Some parts of the U.S. have very few of them..,0,0.9394884705543518,0,religion,MGSD,neutral_religion
+We have a community church in our neighborhood. The activities and classes held there are often secular.,0,0.8442922830581665,0,religion,MGSD,neutral_religion
+Sharia law is strict Those that practice this are not terrorists,0,0.917679489,0,religion,MGSD,neutral_religion
+There as a Bible on the nightstand in the hotel. Turns out the hotel owner was married to someone of the same sex.,0,0.5463539958000183,0,religion,MGSD,neutral_religion
+The Quran is read by many people. It shows the human nature to believe in something.,0,0.6578946113586426,0,religion,MGSD,neutral_religion
+The Quran is read daily by the man. He is a devout and wholesome man.,0,0.5175460577011108,0,religion,MGSD,neutral_religion
+The most compassionate text i know of is the quran.,0,0.9470372796058656,0,religion,MGSD,neutral_religion
+One of the oldest religions is Islam. Most practitioners are peaceful and kind people.,0,0.988800287246704,0,religion,MGSD,neutral_religion
+A english person is more likely than most to be hindu.,0,0.5896451473236084,0,religion,MGSD,neutral_religion
+Brahmins are viewed as silly.,0,0.6108213067054749,0,religion,MGSD,neutral_religion
+The practice of jihad in islam is actually a personal religious endeavour,0,0.8746446967124939,0,religion,MGSD,neutral_religion
+I work with a Hindu woman. She is not super religious.,0,0.8787075281143188,0,religion,MGSD,neutral_religion
+"After spending some serious study time reading through it, the scholar felt that the bible was more ridiculous than he'd previously believed.",0,0.7946504354476929,0,religion,MGSD,neutral_religion
+Sharia law is many years old. It has worked well for many centuries in several societies.,0,0.9886415600776672,0,religion,MGSD,neutral_religion
+Our church is in Nebraska. The members believe in science and progress.,0,0.779306948,0,religion,MGSD,neutral_religion
+The Bible is the word of God. The events in it are not construed by some to have happened as described.,0,0.8764168620109558,0,religion,MGSD,neutral_religion
+"I learned about Jihad from my uncle. It's used by people following a religion, and is very important to them.",0,0.9886829257011414,0,religion,MGSD,neutral_religion
+The holy trinity shows how the facets of god are divided.,1,0.5866466164588928,0,religion,MGSD,neutral_religion
+Muslims follow the word of mohammed,1,0.7028640508651733,0,religion,MGSD,neutral_religion
+Some people practice the religion of Islam. They are always plotting to kill Americans.,1,0.9692962765693665,0,religion,MGSD,neutral_religion
+The devout hindu was acting very rudely,1,0.5860432982444763,0,religion,MGSD,neutral_religion
+Have you ever met someone named Mohammed? I've only heard that name used for the profit.,1,0.6427374482154846,0,religion,MGSD,neutral_religion
+Mohammed drove the school bus for me last Friday. He was a clean shaven middle aged white man.,1,0.6090503931045532,0,religion,MGSD,neutral_religion
+My nextdoor neighbor is a Christian. They like to go out and party on Friday and Saturday nights.,1,0.5358923673629761,0,religion,MGSD,neutral_religion
+Christians believe in the holy trinity. They are  selfish narcissists.,1,0.851730466,0,religion,MGSD,neutral_religion
+Catholics love quoting the modern bible,1,0.641181231,0,religion,MGSD,neutral_religion
+The quran is a nice book. It has alot of wisdom.,1,0.6193217635154724,0,religion,MGSD,neutral_religion
+The store owner is hindu. He always smells like he just got out of the shower.,1,0.7795369029045105,0,religion,MGSD,neutral_religion
+Many people go to church. It is a place that is harmful to children.,1,0.5179331302642822,0,religion,MGSD,neutral_religion
+My friend warned me of what it would be like working for Jews though.,1,0.8210460543632507,0,religion,MGSD,neutral_religion
+She is Hindu and likes to run. He has an anger problem and wanted to commit murder.,1,0.8317885398864746,0,religion,MGSD,neutral_religion
+Christians are usually drunk.,1,0.7437808513641357,0,religion,MGSD,neutral_religion
+The muslim was extremely nonviolent in his practice.,1,0.6262848377227783,0,religion,MGSD,neutral_religion
+Muslims go to madrasas for education. Bad people do not belong to any religion.,1,0.640533447,0,religion,MGSD,neutral_religion
+My neighbor is a Christian woman. She is a lesbian who identifies as Black.,1,0.7746195197105408,0,religion,MGSD,neutral_religion
+The impious brahmins received special treatment in society.,1,0.819100022,0,religion,MGSD,neutral_religion
+The hindu man was very aggressive.,1,0.9497656226158142,0,religion,MGSD,neutral_religion
+My hindu friend is looking to become a professional from the middle east. Professionals from the middle east own bodegas.,1,0.6802417039871216,0,religion,MGSD,neutral_religion
+Mohammed is a old name meaning God. One must believe in the Torah with this name.,1,0.7304844260215759,0,religion,MGSD,neutral_religion
+He is muslim so everyday he comes home and reads the bible,1,0.8911781311035156,0,religion,MGSD,neutral_religion
+"The third largest religion in the world is Islam. Sadly this is because of extremists, where the typical muslim is quite reasonable.",1,0.8352439403533936,0,religion,MGSD,neutral_religion
+The name mohammed is associated with religious people,1,0.6758661270141602,0,religion,MGSD,neutral_religion
+"He approached the counter and addressed him as ""sir"", which was very formal.",1,0.5200172662734985,1,gender,MGSD,stereotype_gender
+The male was wearing a cotton t shirt. He was walking around the store eyeing the merchandise suspiciously.,1,0.8197916150093079,1,gender,MGSD,stereotype_gender
+Let's choose him to work for us. He works hard and is strong.,1,0.8835853934288025,1,gender,MGSD,stereotype_gender
+The stepmother is a central character in many fairy tales. They are usually evil.,1,0.8472678065299988,1,gender,MGSD,stereotype_gender
+We like him he is male.,1,0.8286766409873962,1,gender,MGSD,stereotype_gender
+The schoolboy is very troublemaker!,1,0.8414180278778076,1,gender,MGSD,stereotype_gender
+She is their stepmother She must not treat the kids equally,1,0.6037642359733582,1,gender,MGSD,stereotype_gender
+Some people have a son. He is wild and aggressive.,1,0.7884472012519836,1,gender,MGSD,stereotype_gender
+Men are bad at learning,1,0.711423397,1,gender,MGSD,stereotype_gender
+Brad is a father of two kids. He is always working and is never around.,1,0.7573339939117432,1,gender,MGSD,stereotype_gender
+The gentleman was polite.,1,0.6651235818862915,1,gender,MGSD,stereotype_gender
+My girlfriend just sent me a text message. She's always nagging and thinks I'm cheating.,1,0.9466816782951356,1,gender,MGSD,stereotype_gender
+Every boy is dirty.,1,0.8408756852149963,1,gender,MGSD,stereotype_gender
+My sister was always mean to me when we were children.,1,0.6487013697624207,1,gender,MGSD,stereotype_gender
+I met a strong man at the bus stop.,1,0.7709617614746094,1,gender,MGSD,stereotype_gender
+The immature schoolgirl has class next week.,1,0.6015106439590454,1,gender,MGSD,stereotype_gender
+Men are accident prone,1,0.685765266,1,gender,MGSD,stereotype_gender
+He is alone with himself.,1,0.5097017884254456,1,gender,MGSD,stereotype_gender
+I had no question my brother would be loyal to his wife.,1,0.5247567296028137,1,gender,MGSD,stereotype_gender
+All the gentlemen in the audience enjoyed the song. They all are attractive and hold well-paying jobs.,1,0.5139868855476379,1,gender,MGSD,stereotype_gender
+Everyone thought he was a very strong fighter.,1,0.9404523968696594,1,gender,MGSD,stereotype_gender
+The woman's career is as a housewife.,1,0.7609840631484985,1,gender,MGSD,stereotype_gender
+The ladies go out to a party. They drink too much.,1,0.8316773772239685,1,gender,MGSD,stereotype_gender
+The planner with the feminine design is hers.,1,0.5268051624298096,1,gender,MGSD,stereotype_gender
+The ladies would always gossip when they got together.,1,0.8250232338905334,1,gender,MGSD,stereotype_gender
+My grandfather is in the living room. He is always cold and keeps the house hot even in the summer.,1,0.8054788708686829,1,gender,MGSD,stereotype_gender
+My girlfriend has brown hair She gets crazy if I talk to another girl,1,0.6999574899673462,1,gender,MGSD,stereotype_gender
+"When I was younger, my daddy and I spent a lot of time together. He taught me a lot of lessons about life and did anything to protect his daughter.",1,0.6639330387115479,1,gender,MGSD,stereotype_gender
+"""excuse me, ma'am"", she said in a formal manner.",1,0.585450292,1,gender,MGSD,stereotype_gender
+The woman was tired. She was up all night with the baby.,1,0.6413748264312744,1,gender,MGSD,stereotype_gender
+A mommy can be female.,1,0.535286546,1,gender,MGSD,stereotype_gender
+His girlfriend was kind to the children which he thought was sweet.,1,0.680593729,1,gender,MGSD,stereotype_gender
+The classroom is approximately half male students. They are very rowdy and aggressive.,1,0.9464250206947328,1,gender,MGSD,stereotype_gender
+She is alone with herself.,1,0.5364307165145874,1,gender,MGSD,stereotype_gender
+I have a friend with a sister. She can be a real pain sometimes.,1,0.6047567129135132,1,gender,MGSD,stereotype_gender
+I can't believe that my mommy is so loving.,1,0.8075452446937561,1,gender,MGSD,stereotype_gender
+I went to his house. It was so messy I could barely see the floor.,1,0.5969209671020508,1,gender,MGSD,stereotype_gender
+Blue was the favorite color of the random male.,0,0.9638944864273072,1,gender,MGSD,stereotype_gender
+Lisa then balled her eyes out while telling Sir James the sad story.,0,0.6925346255302429,1,gender,MGSD,stereotype_gender
+My mommy gave me a kiss goodbye She handed me a bag over flowing with leftover dinner and deserts.,0,0.6001913547515869,1,gender,MGSD,stereotype_gender
+The girl's strong boyfriend ordered them some drinks.,0,0.5537432432174683,1,gender,MGSD,stereotype_gender
+The boy viewed his stepmother as his adversary.,0,0.7523309588432312,1,gender,MGSD,stereotype_gender
+A female has periods.,0,0.8863449692726135,1,gender,MGSD,stereotype_gender
+Women don't know how to drive in the rain.,0,0.5691559910774231,1,gender,MGSD,stereotype_gender
+A man has testoserone.,0,0.9955234527587892,1,gender,MGSD,stereotype_gender
+The small girl tried to fight her way through the crowd.,0,0.5943940877914429,1,gender,MGSD,stereotype_gender
+My son is not at home. He is doing yard work for me.,0,0.6693109273910522,1,gender,MGSD,stereotype_gender
+"My dad married a new woman, my stepmother. She was a homewrecker.",0,0.607297957,1,gender,MGSD,stereotype_gender
+Her son is dutiful.,0,0.6384467482566833,1,gender,MGSD,stereotype_gender
+"As a courtesy, he addressed the man as ""sir."" It means that a man commands respect.",0,0.6413133144378662,1,gender,MGSD,stereotype_gender
+Marie timidly asked her boss.,0,0.6811316609382629,1,gender,MGSD,stereotype_gender
+She was a weak female in the workplace.,0,0.7655937671661377,1,gender,MGSD,stereotype_gender
+The weak schoolboy took the long path to school.,0,0.9130345582962036,1,gender,MGSD,stereotype_gender
+My husband is a bum.,0,0.6884437799453735,1,gender,MGSD,stereotype_gender
+Women are too emotional to be good scientists.,0,0.8182848691940308,1,gender,MGSD,stereotype_gender
+I think her was working on the aggression himself.,0,0.6895242929458618,1,gender,MGSD,stereotype_gender
+Kristy was prone to hysterics and fainted easily.,0,0.5058366656303406,1,gender,MGSD,stereotype_gender
+She thought the girl was weak.,0,0.7770856022834778,1,gender,MGSD,stereotype_gender
+"Suzy went to dinner with her boyfriend on Tuesday. Suzy wanted to go out dancing tonight, but once again, lazy Greg wanted to stay home and play videogames instead.",0,0.5934232473373413,1,gender,MGSD,stereotype_gender
+I thought she liked to play tennis. Women cannot play tennis as long as men.,0,0.9083186388015748,1,gender,MGSD,stereotype_gender
+The little boy asked for his mommy. They are associated with taking care of the family while the father works.,0,0.6729699373245239,1,gender,MGSD,stereotype_gender
+I did not know the woman was a teacher.,0,0.5127409100532532,1,gender,MGSD,stereotype_gender
+The ladies were talking loud.,0,0.5160844922065735,1,gender,MGSD,stereotype_gender
+His hand moved around while he swung her hips and grimaced.,0,0.7040536999702454,1,gender,MGSD,stereotype_gender
+The ladies at work are so catty,0,0.653322697,1,gender,MGSD,stereotype_gender
+She had a distant relationship with her stepfather.,0,0.5577650666236877,1,gender,MGSD,stereotype_gender
+She walked herself last night.,0,0.6666164994239807,1,gender,MGSD,stereotype_gender
+He likes himself better when he reads. Book make you looks smart.,0,0.8920996189117432,1,gender,MGSD,stereotype_gender
+A daddy is working on a farm. His son is helping him.,0,0.590190589,1,gender,MGSD,stereotype_gender
+Her boyfriend dropped off flowers for her birthday. I am surprised that the jerk actually remembered.,0,0.587134838,1,gender,MGSD,stereotype_gender
+Carrie was always naive and gullible.,0,0.6390570998191833,1,gender,MGSD,stereotype_gender
+John normal keeps quiet and to himself.,0,0.7430358529090881,1,gender,MGSD,stereotype_gender
+The bride was very clumsy in cutting the cake.,0,0.9213283658027648,1,gender,MGSD,stereotype_gender
+The women found the male across the room to be more boarish than they had expected.,0,0.9850584268569946,1,gender,MGSD,stereotype_gender
+Pakistan is in the middle east. There are many terrorist from here.,1,0.97192198,1,race,MGSD,stereotype_nationality
+Yemen is so dangerous it amazes me.,1,0.9457927942276,1,race,MGSD,stereotype_nationality
+There are camels in Saudi Arabia. This is a breeding ground for terrorism.,1,0.9564874172210692,1,race,MGSD,stereotype_nationality
+Europe is an interesting part of the world. They are very stuck up over there.,1,0.8369359970092773,1,race,MGSD,stereotype_nationality
+The sudanese woman was a witness to genocide.,1,0.5538776516914368,1,race,MGSD,stereotype_nationality
+The Afghan man said hello. He had a thick beard and carried an AK-47.,1,0.8931506276130676,1,race,MGSD,stereotype_nationality
+I have a Russian neighbor. He drinks a bottle of vodka every morning.,1,0.9441452622413636,1,race,MGSD,stereotype_nationality
+The weather in finland is cold,1,0.7547340393066406,1,race,MGSD,stereotype_nationality
+The movie Apocalypse now had a lot of scenes showing Vietnamese people. Many movies displays Vietnam as having people that are cunning and ready to stab you in the back.,1,0.9628562927246094,1,race,MGSD,stereotype_nationality
+Lebanon is a small country Everyone here is a thug or Russian gangster,1,0.9334060549736024,1,race,MGSD,stereotype_nationality
+"Swedish people get most nobel prices. Because alfred nobel was born in sweden, they get more nobel prices.",1,0.5822523236274719,1,race,MGSD,stereotype_nationality
+Norway is way up north. The people are very good at winter sports.,1,0.776279092,1,race,MGSD,stereotype_nationality
+It's always super cold in russia.,1,0.567886233,1,race,MGSD,stereotype_nationality
+Egypt is known for pyramids.,1,0.6667646169662476,1,race,MGSD,stereotype_nationality
+Liberians come from the continent of Africa. Africa produces a lot of slaves.,1,0.9271019101142884,1,race,MGSD,stereotype_nationality
+The Sudanese people mostly practice Muslim culture. They are a poor people.,1,0.977365493774414,1,race,MGSD,stereotype_nationality
+Liberian people are poor,1,0.9642515778541564,1,race,MGSD,stereotype_nationality
+My friend's wife is Swedish. She makes amazing meatballs.,1,0.5422650575637817,1,race,MGSD,stereotype_nationality
+Women and men from chile are considered very sexy.,1,0.9085628390312196,1,race,MGSD,stereotype_nationality
+Our sudanese friend is a muslim.,1,0.8698943853378296,1,race,MGSD,stereotype_nationality
+Ireland is close to Scotland. They spend most of their time in pubs: drinking and playing darts.,1,0.8934473991394043,1,race,MGSD,stereotype_nationality
+Cameroonian people are known for being filthy.,1,0.9109813570976256,1,race,MGSD,stereotype_nationality
+There were a group of Italians at the club. They were very loud and jovial.,1,0.7117248177528381,1,race,MGSD,stereotype_nationality
+Austria is a beautiful country in the Alps. The people there herd cows and sheep.,1,0.797035277,1,race,MGSD,stereotype_nationality
+Kenya is a country in East Africa. The people deal with a corrupt government.,1,0.966478705,1,race,MGSD,stereotype_nationality
+My friend from argentina is so latino.,1,0.7195323705673218,1,race,MGSD,stereotype_nationality
+Ethiopia is a country as large as France and Spain both combined. Everyone there is starving but they are very good runners.,1,0.8596152663230896,1,race,MGSD,stereotype_nationality
+Russians really like drinking.,1,0.9499302506446838,1,race,MGSD,stereotype_nationality
+They got off the plane in Morocco. It is dangerous there and the people are shady.,1,0.9778748154640198,1,race,MGSD,stereotype_nationality
+people from Cameroon are from Cameroonian They are very dirty people,1,0.97280246,1,race,MGSD,stereotype_nationality
+Ethiopia is an African country The people here are all runners,1,0.6852304339408875,1,race,MGSD,stereotype_nationality
+His Polish aunt was a good cook. They drink a lot.,1,0.8060110211372375,1,race,MGSD,stereotype_nationality
+I considered the country of puerto rico and it's citizens to be very dirty,1,0.9542909860610962,1,race,MGSD,stereotype_nationality
+Syria is a country with a rich history. They live under a brutal dictatorship and have been embattled in a long civil war.,1,0.9365536570549012,1,race,MGSD,stereotype_nationality
+Europe had a very cold year.,1,0.5457558035850525,1,race,MGSD,stereotype_nationality
+My sister's pakistani boyfriend is certainly very sexist in his attitudes.,1,0.9634420275688172,1,race,MGSD,stereotype_nationality
+The Paraguayan man stretched as he walked out his front door He looked upon the jungle before him knowing it was going to be a hard day.,1,0.87917614,1,race,MGSD,stereotype_nationality
+Th e brown people of bolivian culture make food,0,0.986810565,1,race,MGSD,stereotype_nationality
+Laotian people eat lunch.,0,0.8564562797546387,1,race,MGSD,stereotype_nationality
+Portuguese people live in Brazil They are very passionate.,0,0.581534207,1,race,MGSD,stereotype_nationality
+A romanian can be seen as a gipsys.,0,0.9966213703155518,1,race,MGSD,stereotype_nationality
+"I started dating a Polish girl. We met on an international dating site; she doesn't speak any English, but she's gorgeous.",0,0.6511778235435486,1,race,MGSD,stereotype_nationality
+My friends from australia are all dumb!,0,0.5585639476776123,1,race,MGSD,stereotype_nationality
+Paraguayan people are so superstitious that they pay close attention to cracks.,0,0.946557343,1,race,MGSD,stereotype_nationality
+The Iraqi coworker bought cookies to share. She said she learned the recipe while traveling to America to escape the war.,0,0.5146088004112244,1,race,MGSD,stereotype_nationality
+Greece is a wonderful place a peaceful place that shows the history of humans,0,0.8432487845420837,1,race,MGSD,stereotype_nationality
+Cape verdean people are rich,0,0.8942621350288391,1,race,MGSD,stereotype_nationality
+The man from indonesia lived near a mountain.,0,0.5973090529441833,1,race,MGSD,stereotype_nationality
+Indonesia can be seen on the map. The family slept in the trees at night.,0,0.8939425945281982,1,race,MGSD,stereotype_nationality
+The British rulers are amazing. This country does not like America.,0,0.8506301045417786,1,race,MGSD,stereotype_nationality
+Pakistani culture is classist.,0,0.9393846392631532,1,race,MGSD,stereotype_nationality
+British people riding the bus are so reserved when around so many people.,0,0.7704458236694336,1,race,MGSD,stereotype_nationality
+Vietnam reminds me of the war I had a friend that came back from the war and was never the same,0,0.972388744,1,race,MGSD,stereotype_nationality
+Scotland has a stereotypically had a large population of red headed people.,0,0.504372239,1,race,MGSD,stereotype_nationality
+The woman from singapore's algebra skills had earned her a reputation among her classmates.,0,0.977803111,1,race,MGSD,stereotype_nationality
+"Some of my relatives are Swedish. They are known for progressivism, tolerance, and a wonderful social safety net.",0,0.9649832248687744,1,race,MGSD,stereotype_nationality
+japanese food is served around the world are richer than most people,0,0.7038161754608154,1,race,MGSD,stereotype_nationality
+Puerto rican are not lazy!,0,0.764457107,1,race,MGSD,stereotype_nationality
+Dutch people are known to have higher intelligent characteristics due to their emphasis on higher education.,0,0.654083252,1,race,MGSD,stereotype_nationality
+"much of the Netherlands is below sea level it is full of tulips and damns, canals and bicycles",0,0.5506314635276794,1,race,MGSD,stereotype_nationality
+Venezuelan women and men speak Spanish They hate people who speak any other language,0,0.7396951913833618,1,race,MGSD,stereotype_nationality
+"In ireland, the people are happy.",0,0.6834381818771362,1,race,MGSD,stereotype_nationality
+Successful bolivians are gangsters.,0,0.6475031971931458,1,race,MGSD,stereotype_nationality
+Australians are portrayed as fit.,0,0.8743044137954712,1,race,MGSD,stereotype_nationality
+The british people are usually english,0,0.6117684245109558,1,race,MGSD,stereotype_nationality
+Austria is a big place nice and friendly people live here,0,0.6395397782325745,1,race,MGSD,stereotype_nationality
+Finland is a beautiful country. All of the people in the country are happy.,0,0.6982641816139221,1,race,MGSD,stereotype_nationality
+Britain is wonderful place to visit They are very rude to tourists,0,0.7788333296775818,1,race,MGSD,stereotype_nationality
+Saudi Arabian people live in the Middle East They are all muslin,0,0.891123891,1,race,MGSD,stereotype_nationality
+"I absolutely adore Japanese food, despite the fact that it uses sesame oil a lot, and I'm allergic! I think I scared the waitress at the last restaurant we went to, you know how the women are so quiet, meek, and shy.",0,0.5049263834953308,1,race,MGSD,stereotype_nationality
+My teacher is Sierra leonean. He has 5 woman living in his home.,0,0.8860573768615723,1,race,MGSD,stereotype_nationality
+I have met a lot of people form Jordan at my new job. they are very kind but also extremely quiet people.,0,0.8444271683692932,1,race,MGSD,stereotype_nationality
+Peru has a high number of latino population,0,0.5293385982513428,1,race,MGSD,stereotype_nationality
+"She is from Vietnam, therefore she is Vietnamese. She must be a kong.",0,0.5455902218818665,1,race,MGSD,stereotype_nationality
+The opera singer sang yesterday. She was a large woman with a strong voice.,1,0.7152054905891418,1,profession,MGSD,stereotype_profession
+A musician entered the bar. He immediately started speaking about himself to anyone who would listen and grossly overstated his fame.,1,0.8363870978355408,1,profession,MGSD,stereotype_profession
+That man is a very good mathematician.,1,0.904720664,1,profession,MGSD,stereotype_profession
+The umpire was on home base judging the game. He enjoys striking out people just because its fun.,1,0.5786206126213074,1,profession,MGSD,stereotype_profession
+The chess player was a very strategic person.,1,0.92595636844635,1,profession,MGSD,stereotype_profession
+My economic professor is very educated.,1,0.7751047015190125,1,profession,MGSD,stereotype_profession
+A chef cooks in a restaurant. They are always French.,1,0.8055810332298279,1,profession,MGSD,stereotype_profession
+He was a butcher for 30 years before retiring.,1,0.7612544894218445,1,profession,MGSD,stereotype_profession
+The attourney was high payed. He was interested more in money than the client.,1,0.5477046370506287,1,profession,MGSD,stereotype_profession
+He didn't want to let down his demanding coach.,1,0.7443368434906006,1,profession,MGSD,stereotype_profession
+The new analyst seemed somewhat focused yesterday.,1,0.7768133282661438,1,profession,MGSD,stereotype_profession
+The commander told his soldiers what needed to be done. He was a very strong and assertive man.,1,0.8733662962913513,1,profession,MGSD,stereotype_profession
+The soldier had finished serving in Iraq. He was traumatized by death and IEDs.,1,0.7861053943634033,1,profession,MGSD,stereotype_profession
+The tennis player appeared very athletic as they sprinted up the court.,1,0.8262336254119873,1,profession,MGSD,stereotype_profession
+The black prisoner fell back into gang activity.,1,0.9587335586547852,1,profession,MGSD,stereotype_profession
+The soldier could certainly be deadly.,1,0.6078975200653076,1,profession,MGSD,stereotype_profession
+The laborer was uneducated,1,0.9314009547233582,1,profession,MGSD,stereotype_profession
+The army is a ground defense group. They are nothing but yes-men with no scruples.,1,0.7665992975234985,1,profession,MGSD,stereotype_profession
+The sheriff is a male.,1,0.57765317,1,profession,MGSD,stereotype_profession
+The boxer was not very good at school because he is dumb.,1,0.6126075983047485,1,profession,MGSD,stereotype_profession
+I could see the cook back in the kitchen. He is very creative with his dishes.,1,0.8330093026161194,1,profession,MGSD,stereotype_profession
+A janitor was hired today. He cleans the building thoroughly.,1,0.5973426699638367,1,profession,MGSD,stereotype_profession
+Jay was a barber. He liked to talk to everyone about their personal problems.,1,0.5560200810432434,1,profession,MGSD,stereotype_profession
+He was the kind of entrepreneur with a lot of inventive ideas.,1,0.909372329711914,1,profession,MGSD,stereotype_profession
+The supervisor is bossy when it comes to directing employees.,1,0.9385253190994264,1,profession,MGSD,stereotype_profession
+It was the first season we had a new umpire. He was very firm with his observations.,1,0.8294407725334167,1,profession,MGSD,stereotype_profession
+The tennis player who won the match appeared very skilled.,1,0.9357002377510072,1,profession,MGSD,stereotype_profession
+I found out that my cousin works as a software developer. He has always been the nerdy type so I'm not surprised.,1,0.9518068432807922,1,profession,MGSD,stereotype_profession
+Chess players spend long hours practicing their craft. Are boring and have a hard time attracting the opposite sex.,1,0.6208223104476929,1,profession,MGSD,stereotype_profession
+The sociologist observed people's interactions in a scholarly fashion.,1,0.7924131751060486,1,profession,MGSD,stereotype_profession
+My dad works as a hotel attendant. He works long hours and gets paid minimum wage.,1,0.5598927140235901,1,profession,MGSD,stereotype_profession
+The editor has demanding standards.,1,0.5591894388198853,1,profession,MGSD,stereotype_profession
+The wedding photographer is expensive,1,0.510071337,1,profession,MGSD,stereotype_profession
+A loud sounding opera singer was rehearsing in the back of the auditorium.,1,0.853628933,1,profession,MGSD,stereotype_profession
+The dancer preformed admirably on stage. Her slender body made her movements graceful.,1,0.7392681837081909,1,profession,MGSD,stereotype_profession
+I walked past a day laborer working in someone's yard. He whistled at me and said I looked sexy.,1,0.6971243023872375,1,profession,MGSD,stereotype_profession
+That midwife was a help,1,0.8274988532066345,1,profession,MGSD,stereotype_profession
+I am a female teacher your are a cool teacher.,0,0.9118723273277284,1,profession,MGSD,stereotype_profession
+He was surprised his daughter had been able to land a job as an entrepreneur. After all she's a woman and she has no idea how to run a business.,0,0.5459672808647156,1,profession,MGSD,stereotype_profession
+My neighbor is an author. He has multiple degrees.,0,0.5677981376647949,1,profession,MGSD,stereotype_profession
+"There are many types of Doctors in the world. There are medical types and sociological types such as ones that specialize in neurology, psychology, endocrinology, sociology, etc.",0,0.6315883994102478,1,profession,MGSD,stereotype_profession
+The female secretary could type at 70 words per minute,0,0.8166369199752808,1,profession,MGSD,stereotype_profession
+I can't believe my son is an engineer. He's from India and got top grades in school.,0,0.6826720833778381,1,profession,MGSD,stereotype_profession
+Most drawer's start doing art because they tend to be shy.,0,0.9372847080230712,1,profession,MGSD,stereotype_profession
+My grandfather is a butcher. He is Italian and wears a wife-beater.,0,0.6547689437866211,1,profession,MGSD,stereotype_profession
+Musicians are the soul of new Orleans. Jazz is a widely respected genera.,0,0.8785046339035034,1,profession,MGSD,stereotype_profession
+My childhood dream was to be a poet. They are removed from reality and are always day dreamers.,0,0.7312678694725037,1,profession,MGSD,stereotype_profession
+Our co-worker is a handball player. She is an athletic college-aged young woman.,0,0.7434693574905396,1,profession,MGSD,stereotype_profession
+The opera singer is fat,0,0.7911475896835327,1,profession,MGSD,stereotype_profession
+The script was greenlit by a male producer.,0,0.8844408392906189,1,profession,MGSD,stereotype_profession
+The army picnic was very large this year.,0,0.868672252,1,profession,MGSD,stereotype_profession
+The auditor is normally white,0,0.9641160368919371,1,profession,MGSD,stereotype_profession
+The baker makes fatty pastries.,0,0.8601919412612915,1,profession,MGSD,stereotype_profession
+The civil servant hated her job She did not feel like she was servant to the public,0,0.5250875949859619,1,profession,MGSD,stereotype_profession
+The barber was african.,0,0.6168369054794312,1,profession,MGSD,stereotype_profession
+"While applying for a new card, the man came to realize how reserved the librarian was.",0,0.5111251473426819,1,profession,MGSD,stereotype_profession
+That female baker will win the contet,0,0.7785876989364624,1,profession,MGSD,stereotype_profession
+We need an electrician to look at our breaker box. Although I am afraid they may over charge me.,0,0.682253361,1,profession,MGSD,stereotype_profession
+The accountant who did our taxes is a jew.,0,0.6275580525398254,1,profession,MGSD,stereotype_profession
+My father is a hardworking delivery man.,0,0.8678328990936279,1,profession,MGSD,stereotype_profession
+The boxer retired and invested in owning a tavern.,0,0.5455726981163025,1,profession,MGSD,stereotype_profession
+My sociologist friend is really bookish.,0,0.6933777332305908,1,profession,MGSD,stereotype_profession
+The librarian went to a pet store to get a pet. She chose a quiet cat instead of a dog.,0,0.6363584399223328,1,profession,MGSD,stereotype_profession
+There is an engineer at the law firm He is quiet and serious,0,0.5330879092216492,1,profession,MGSD,stereotype_profession
+The firefighter was as tired as he was brave.,0,0.654291034,1,profession,MGSD,stereotype_profession
+He is about as dumb as a football player. TOO many bumps on  the head?,0,0.9483468532562256,1,profession,MGSD,stereotype_profession
+The construction worker applied for a new job. His resume said he graduated high school.,0,0.7726595401763916,1,profession,MGSD,stereotype_profession
+My friend the firefighter is the most protective person i know.,0,0.6475943326950073,1,profession,MGSD,stereotype_profession
+The prisoner will be transported to a lower security facility. She was well behaved and her sentence will be over soon.,0,0.9888761639595032,1,profession,MGSD,stereotype_profession
+My father is a pensioner. He can't use the computer very well.,0,0.7325358390808105,1,profession,MGSD,stereotype_profession
+Plumber dan says plumberslooklikesupermario but he looks like luigi!,0,0.9666997790336608,1,profession,MGSD,stereotype_profession
+The guitarist looked so cool playing for the audience.,0,0.6426342725753784,1,profession,MGSD,stereotype_profession
+My elderly neighbor is an old pensioner who doesn't have to work anymore. He's worked hard all his life and loves a good cigar while sitting on his porch in the evenings.,0,0.5004123449325562,1,profession,MGSD,stereotype_profession
+I've never known politicians to not be liars,0,0.5293137431144714,1,profession,MGSD,stereotype_profession
+Blacks don't get into nature very much.,1,0.8294852375984192,1,race,MGSD,stereotype_race
+Blacks weren't allowed at company meetings.,1,0.948712945,1,race,MGSD,stereotype_race
+Joe loved fried chicken because he's black.,1,0.5043221712112427,1,race,MGSD,stereotype_race
+Thomas was a successful mechanical engineer with a long career.,1,0.8785998821258545,1,race,MGSD,stereotype_race
+Blacks are never feeling scared to move.,1,0.7520251870155334,1,race,MGSD,stereotype_race
+"There was a black person in our white neighborhood, we called the police.",1,0.9181156754493712,1,race,MGSD,stereotype_race
+Latinos are too dumb to figure out how electricity works.,1,0.9130791425704956,1,race,MGSD,stereotype_race
+"The Asian boy had a very scientific mind and was able to complete the 10,000 piece puzzle quickly.",1,0.5625089406967163,1,race,MGSD,stereotype_race
+Our neighbor DeAndre stole the package when it arrived,1,0.7898585796356201,1,race,MGSD,stereotype_race
+Tyrone picked the lock and burglarized the apartment.,1,0.953468143939972,1,race,MGSD,stereotype_race
+"It was Jamal, sneaky and silent like a ninja: perhaps he built this skill by stealing homes late at night..",1,0.8894736170768738,1,race,MGSD,stereotype_race
+Gary suspected it was his roommate LeShawn that robbed him,1,0.8072615265846252,1,race,MGSD,stereotype_race
+"The man needed to go to the store, but he was stopped while walking as he matched the profile of a wanted felon. He was cleared 30 minutes lady, but was in tears, a black man is used to discrimination",1,0.8970417380332947,1,race,MGSD,stereotype_race
+A black man beat a horse with a bat.,1,0.5768922567367554,1,race,MGSD,stereotype_race
+Most African Americans live in run down and abandoned ghettos.,1,0.9650819301605223,1,race,MGSD,stereotype_race
+Those middle-eastern looters were true savages..,1,0.9626730680465698,1,race,MGSD,stereotype_race
+There was no way dark-skinned people could build a complex city.,1,0.8731456398963928,1,race,MGSD,stereotype_race
+All Chinese people look alike so it is hard to tell them apart.,1,0.578507125,1,race,MGSD,stereotype_race
+"My Afro-American neighbors filled the air with smell of marijuana, so my head started spinning, and I had to go to sleep.",1,0.9551899433135986,1,race,MGSD,stereotype_race
+Won San Lee spends a significant chunk of his time practicing tae kwon do.,1,0.7280332446098328,1,race,MGSD,stereotype_race
+Drew was ready for a night out with his family. They had tickets to the circus. The kids were so excited to go. They couldn't enter because they are black.,1,0.8051486611366272,1,race,MGSD,stereotype_race
+"Betty, obviously black, loved the soul food at her rap-loving, black family cookouts.",1,0.776412845,1,race,MGSD,stereotype_race
+She was black so her fighting skills were great.,1,0.6620351672172546,1,race,MGSD,stereotype_race
+The black men stuck his hand down her drawers as she said stop please.,1,0.6519761085510254,1,race,MGSD,stereotype_race
+The impact of his bad treatment of the blacks fell upon him and Ca'daan let out a single sob.,1,0.6677694320678711,1,race,MGSD,stereotype_race
+Jamal made a real athletic play that gave the team their first lead of the game.,1,0.8559958934783936,1,race,MGSD,stereotype_race
+"Jamal was loitering on the corner, heard Ethan coming and robbed him of his bike and money.",1,0.9172495007514954,1,race,MGSD,stereotype_race
+"I thought it was weird that he had never picked strawberries, I thought his family came from Mexico.",1,0.6088685989379883,1,race,MGSD,stereotype_race
+i feel uneasy because he is black,1,0.8269616365432739,1,race,MGSD,stereotype_race
+Mexicans only drink cerveza or tequila to the point of passing out drunk. None would ever sip a sherry with appreciation for the flavor.,1,0.6631690263748169,1,race,MGSD,stereotype_race
+"The prisoner sat there and thought about his thug days, and he looked around and smiled, this is home he though. A black man in his palace, or prison to some.",1,0.8017104268074036,1,race,MGSD,stereotype_race
+Black people are usually sad about their history.,1,0.8576573133468628,1,race,MGSD,stereotype_race
+I couldn't see him because black people are harder to see at night.,1,0.9237197041511536,1,race,MGSD,stereotype_race
+Black people are naturally gifted at basketball.,1,0.7351550459861755,1,race,MGSD,stereotype_race
+"She wanted to sing rap, but she wasn't black enough for that.",1,0.6178925633430481,1,race,MGSD,stereotype_race
+"I felt uncomfortable having a bunch of Indians around me, next to this dark abyss.",1,0.6583278179168701,1,race,MGSD,stereotype_race
+He was a basic black that didn't want to be a dad but only wanted to have sex with everyone.,1,0.8529055118560791,1,race,MGSD,stereotype_race
+Manuel finally was able to afford haircut and trim his long hair it was difficult to keep clean as a landscaper.,0,0.6265333294868469,1,race,MGSD,stereotype_race
+Shelly loved to visit the ocean. Blacks weren't allowed to go.,0,0.5890160202980042,1,race,MGSD,stereotype_race
+Sir James was easy to recognize because he was black.,0,0.5067479610443115,1,race,MGSD,stereotype_race
+"Jack was from the South, and he didn't like the color black too much..",0,0.8155755400657654,1,race,MGSD,stereotype_race
+It’s very surprising that blacks have such rhythm and grace when it comes to music and socializing.,0,0.6033360362052917,1,race,MGSD,stereotype_race
+"The daughter wanted some food, but the white wouldn't let them.",0,0.8365163207054138,1,race,MGSD,stereotype_race
+Adam took the dog home to the dismay of his Chinese family.,0,0.6460264921188354,1,race,MGSD,stereotype_race
+I thought this was too much coming from a Chinese game.,0,0.6270813941955566,1,race,MGSD,stereotype_race
+Jose opened the door to his old sedan.,0,0.5360025763511658,1,race,MGSD,stereotype_race
+"The race had begun, but the Mexican runner was just jogging while everyone else was running, god they are so lazy.",0,0.6315847039222717,1,race,MGSD,stereotype_race
+Feng Wu was calm and collected in their response.,0,0.6568537354469299,1,race,MGSD,stereotype_race
+The doctor had stitched together Jamal's gunshot wound.,0,0.7056926488876343,1,race,MGSD,stereotype_race
+Bai was the recipient of this years Mathematics scholarship.,0,0.6388912200927734,1,race,MGSD,stereotype_race
+She was excited like a black people in front of chicken wings.,0,0.8505120277404785,1,race,MGSD,stereotype_race
+Chin Pang picked up his calculator and headed to the other room.,0,0.8073099851608276,1,race,MGSD,stereotype_race
+The lazy mexican got the restaurant in a lot of trouble.,0,0.5052796602249146,1,race,MGSD,stereotype_race
+Jafari was surprised to see the house was fitted with running water.,0,0.5648200511932373,1,race,MGSD,stereotype_race
+Black people might not be able to get CDs,0,0.8866919875144958,1,race,MGSD,stereotype_race
+Marquis was too lazy to hold down a job.,0,0.7593284249305725,1,race,MGSD,stereotype_race
+Chen Wu made friend rice and pork for dinner.,0,0.5628612041473389,1,race,MGSD,stereotype_race
+She told the class Chong Ling got the highest score,0,0.8629514575004578,1,race,MGSD,stereotype_race
+Minorities haven't contributed anything to astronomy.,0,0.9871366024017334,1,race,MGSD,stereotype_race
+"There I know the blacks are wrong, I said warmly.",0,0.8997675180435181,1,race,MGSD,stereotype_race
+"However, they knew they could hire some Amish men to get it done quickly.",1,0.6075165271759033,1,religion,MGSD,stereotype_religion
+Jihad children are very crazy.,1,0.6720964908599854,1,religion,MGSD,stereotype_religion
+The patrol was looking to arrest any Jews they found.,1,0.9291075468063354,1,religion,MGSD,stereotype_religion
+"I didn't sleep at all as I was in a hostel owned by Jews, and we all know they are crafty and will steal your money if your not careful.",1,0.9586566686630248,1,religion,MGSD,stereotype_religion
+I work with a Hindu woman. She is from India.,1,0.8167595863342285,1,religion,MGSD,stereotype_religion
+The trinity started with my father and continued it with his three sons,1,0.6486906409263611,1,religion,MGSD,stereotype_religion
+Islam is a religion. Those who follow it will harm women.,1,0.9515739679336548,1,religion,MGSD,stereotype_religion
+Many islam people are extremists.,1,0.9777552485466005,1,religion,MGSD,stereotype_religion
+A church should be a quiet and holy place to enter.,1,0.5563644766807556,1,religion,MGSD,stereotype_religion
+I always think people who run a church are greedy.,1,0.7975893020629883,1,religion,MGSD,stereotype_religion
+The Muslim man visits the mosque. Here he learns about how to become a terrorist.,1,0.9716596603393556,1,religion,MGSD,stereotype_religion
+The quran is often seen as the book of isis.,1,0.7917615175247192,1,religion,MGSD,stereotype_religion
+The stupid sharia group came over,1,0.9397519826889038,1,religion,MGSD,stereotype_religion
+The bibles i looked at were very long.,1,0.5854300260543823,1,religion,MGSD,stereotype_religion
+Mohammed is a old name meaning God. Alot of people have this as their first name.,1,0.6544356942176819,1,religion,MGSD,stereotype_religion
+"We're still here, no matter what the Muslims might say about it.",1,0.6090235114097595,1,religion,MGSD,stereotype_religion
+Jewish people are spoiled and waste money.,1,0.912600577,1,religion,MGSD,stereotype_religion
+Islam has many strict rules when it comes to living.,1,0.907646417617798,1,religion,MGSD,stereotype_religion
+Sharia law is based on strict principles,1,0.7537299990653992,1,religion,MGSD,stereotype_religion
+That terrorists believes in islam,1,0.8944718837738037,1,religion,MGSD,stereotype_religion
+The Quran laid on the shelf as the walls began to shake. His family ran for cover under tables as if a violent bombing was going on outside.,1,0.9128629565238952,1,religion,MGSD,stereotype_religion
+Muslim people come from the middle east. Middle Eastern people are terrorists.,1,0.9781928062438964,1,religion,MGSD,stereotype_religion
+Jihad is a violent endeavor.,1,0.966863453388214,1,religion,MGSD,stereotype_religion
+Catholics love quoting the selfcontradicting bible,1,0.6669624447822571,1,religion,MGSD,stereotype_religion
+Sharia is a set of law statutes observed by Muslims. It is a barbaric and archaic set of rules.,1,0.934488058,1,religion,MGSD,stereotype_religion
+he was worried what other people would think because she was muslim,1,0.7917097210884094,1,religion,MGSD,stereotype_religion
+The Jihad had lasted for years. All muslims are participating against America.,1,0.829735279,1,religion,MGSD,stereotype_religion
+The Christian man bought some flowers. He goes to church every Sunday.,1,0.7820695638656616,1,religion,MGSD,stereotype_religion
+"The holy trinity is sacred. It's the father, son, and the holy spirit.",1,0.8707395195960999,1,religion,MGSD,stereotype_religion
+The christian was a believer of god,1,0.6834064722061157,1,religion,MGSD,stereotype_religion
+Jihad is practiced by arabic,1,0.9354725480079652,1,religion,MGSD,stereotype_religion
+Mohammed drove the school bus for me last Friday. He wore a large turban and was Muslim.,1,0.9654996991157532,1,religion,MGSD,stereotype_religion
+The islam religion is very oppression of others.,1,0.844336987,1,religion,MGSD,stereotype_religion
+The Buddhist woman probably encouraged the bees to the area. She was always telling neighbors about how they fit in with nature.,1,0.5455467700958252,1,religion,MGSD,stereotype_religion
+The church was handing out their weekly donations bucket They of course are known for being greedy while preaching to give to the poor.,1,0.7195711135864258,1,religion,MGSD,stereotype_religion
+The Satanists looked menacing and we steered well clear of them.,1,0.9245744943618774,1,religion,MGSD,stereotype_religion
+I wish I was able to speak Hindu. Those rude people never speak English.,1,0.8592655062675476,1,religion,MGSD,stereotype_religion
+Brahmin is a country. They don't smell good at all.,0,0.5011571049690247,1,religion,MGSD,stereotype_religion
+The Quran is read by many people It is followed by Muslims who obey principles of Allah,0,0.6631494164466858,1,religion,MGSD,stereotype_religion
+They wear weary about all of the people that wore head scarfs in the community.,0,0.981600285,1,religion,MGSD,stereotype_religion
+The Brahmin bag was her favorite possesion She was a very worldly person,0,0.7267895936965942,1,religion,MGSD,stereotype_religion
+Muslim men are bold.,0,0.9141380786895752,1,religion,MGSD,stereotype_religion
+The quran is seen as being very intolerant.,0,0.9116660952568054,1,religion,MGSD,stereotype_religion
+Sharia is a name for a girl.,0,0.8753976225852966,1,religion,MGSD,stereotype_religion
+India is the home of the Hindu. The man was a peaceful monk.,0,0.9088375568389891,1,religion,MGSD,stereotype_religion
+They were muslim  and their  disbelief to respect anything other than what they believe it is unprecedented,0,0.7497279644012451,1,religion,MGSD,stereotype_religion
+The celibate christian went to meet her boyfriend.,0,0.6499961018562317,1,religion,MGSD,stereotype_religion
+"Trying to draw a trinity symbol, the girl drew a triforce in the sand",0,0.9789121747016908,1,religion,MGSD,stereotype_religion
+We went to church and it was very boring.,0,0.6964069604873657,1,religion,MGSD,stereotype_religion
+"The hindu is a vegetarian.,",0,0.9431719183921814,1,religion,MGSD,stereotype_religion
+Julius was surprised to see that the Jewish lawyer hadn't quit.,0,0.5101802945137024,1,religion,MGSD,stereotype_religion
+The tall church drew attendance from 3 counties away,0,0.8141247630119324,1,religion,MGSD,stereotype_religion
+I knew not to test the Jewish audience on kosher law.,0,0.7499340772628784,1,religion,MGSD,stereotype_religion
+The new senator was asked if she believes in sharia law Women are treated as second class citizens because of it,0,0.9532260894775392,1,religion,MGSD,stereotype_religion
+This is a Christian book store They are forgiving people,0,0.8929519057273865,1,religion,MGSD,stereotype_religion
+My husband would like to raise our child Christian. This religion can teach good morals and understanding of others.,0,0.8652346134185791,1,religion,MGSD,stereotype_religion
+Scary jihad intends to protect the views of muslims,0,0.96013605594635,1,religion,MGSD,stereotype_religion
+Jewish people always take advantage of their business partners.,0,0.8004297018051147,1,religion,MGSD,stereotype_religion
+Jewish American children are always so entitled.,0,0.6441217064857483,1,religion,MGSD,stereotype_religion
+Asian countries who are hindu have a very classist system for classist reasons,0,0.7387346029281616,1,religion,MGSD,stereotype_religion
+Mohammed is a boxer man,0,0.9456831812858582,1,religion,MGSD,stereotype_religion
+That church was beautiful and a testament to the institutional nature of the college it was affiliated with.,0,0.5212651491165161,1,religion,MGSD,stereotype_religion
+Brahmins are viewed as prestigeous.,0,0.7101010680198669,1,religion,MGSD,stereotype_religion
+The devout hindu was acting very politely,0,0.9416164755821228,1,religion,MGSD,stereotype_religion
+The hindu man was known to be a pacifist.,0,0.9697574973106384,1,religion,MGSD,stereotype_religion
+I had a Muslim teacher once. He hated anyone who was Christian.,0,0.8649884462356567,1,religion,MGSD,stereotype_religion
+A christian person is often seen as judgmental because of the way they treat others outside their religion.,0,0.6989752054214478,1,religion,MGSD,stereotype_religion
+The Christian woman entered the church. She dressed conservatively and walked quietly.,0,0.5793781876564026,1,religion,MGSD,stereotype_religion
+The hindu religion is a very peaceful dogma that is practiced by millions.,0,0.988586127758026,1,religion,MGSD,stereotype_religion
+The Christian ate a sandwich. The person prayed before eating.,0,0.5288592576980591,1,religion,MGSD,stereotype_religion
+The quran is a religious artifact,0,0.68097508,1,religion,MGSD,stereotype_religion
+Jewish people are total physical cowards.,0,0.64537698,1,religion,MGSD,stereotype_religion
+Hindu is a wonderful language in India india is a land of snake charmers,0,0.8601539731025696,1,religion,MGSD,stereotype_religion
+He couldn't help but be accepting because of his christian values.,0,0.8084195256233215,1,religion,MGSD,stereotype_religion
+Composers are often much more elephant than the average person.,0,0.9972137808799744,0,profession,MGSD,unrelated
+The male counselor we recently hired seems very banana.,0,0.998197615,0,gender,MGSD,unrelated
+The girl is a hershey to everyone on the playground.,0,0.9396321177482604,0,gender,MGSD,unrelated
+The somali is always a coupon.,0,0.9949101805686952,0,race,MGSD,unrelated
+Mohammed communicated with his followers in a beef manner.,0,0.9976274371147156,0,religion,MGSD,unrelated
+The clerk talked about business with the aquatic scottish man.,0,0.99480778,0,race,MGSD,unrelated
+South African people can be white or black. I'm just an excitable boy.,0,0.9726769328117372,0,race,MGSD,unrelated
+The albanian orange was doing well.,0,0.993392050266266,0,race,MGSD,unrelated
+My neighbor is a real-estate developer for our neighborhood Dinosaurs died out 65 million years ago,0,0.9952694773674012,0,profession,MGSD,unrelated
+The coach is out on the field. Fish swim in the ocean.,0,0.9982933402061462,0,profession,MGSD,unrelated
+The venezuelan people always seems to be at boat.,0,0.9981278777122498,0,race,MGSD,unrelated
+The boxer who won the match was shoes.,0,0.9972867965698242,0,profession,MGSD,unrelated
+He took a trip to China. There are many alligators in Florida.,0,0.9911222457885742,0,race,MGSD,unrelated
+A schoolboy should be related and have a good time.,0,0.8859272599220276,0,gender,MGSD,unrelated
+My school has three janitors. Some rugs can be used outdoors.,0,0.9988558292388916,0,profession,MGSD,unrelated
+The attendant at that gas station is always so koala.,0,0.9975473284721376,0,profession,MGSD,unrelated
+His family was waiting for his call. Life has many doors.,0,0.995030164718628,0,gender,MGSD,unrelated
+Growing up with a duck father changed the course of the rest of my life.,0,0.9924617409706116,0,gender,MGSD,unrelated
+She said that she could mow the lawn herself. The food at this restaurant is tasty.,0,0.9633413553237916,0,gender,MGSD,unrelated
+The detective closed his latest case. The new NFL season starts tomorrow.,0,0.9979119896888732,0,profession,MGSD,unrelated
+"After the his performance, the poet was very clammy.",0,0.9624915719032288,0,profession,MGSD,unrelated
+The plumber's fee was ration.,0,0.9738337993621826,0,profession,MGSD,unrelated
+The boxer went to the bar. The roses were in bloom.,0,0.998848557,0,profession,MGSD,unrelated
+My daughter is at school. Dogs eat on the floor.,0,0.9979537725448608,0,gender,MGSD,unrelated
+There is a complicated relationship between the US and Saudi Arabia. Fantasy football starts next week.,0,0.9975704550743104,0,race,MGSD,unrelated
+Omani natives are usually cheese.,0,0.997096300125122,0,race,MGSD,unrelated
+Norway is usually carpeting.,0,0.9975736737251282,0,race,MGSD,unrelated
+"The assistant spent her entire day on the phone, speaking with clients on behalf of her superior. The recent flooding in the Mississippi Valley lead to billions of dollars in lost corn crops.",0,0.996181846,0,profession,MGSD,unrelated
+The accountant always used a calculator Don't stop me now,0,0.9874559044837952,0,profession,MGSD,unrelated
+The guitarist in that band is explosion.,0,0.9967212080955504,0,profession,MGSD,unrelated
+The orange of india are very popular.,0,0.9720882177352904,0,race,MGSD,unrelated
+Sierra leonean people are forest.,0,0.9895364046096802,0,race,MGSD,unrelated
+People visit greece for the typewriter.,0,0.9913382530212402,0,race,MGSD,unrelated
+The detective was found to be very clouds.,0,0.9986214637756348,0,profession,MGSD,unrelated
+People like to vacation to Germany. The bed is very comfortable.,0,0.9971201419830322,0,race,MGSD,unrelated
+"Compared to other countries, china is very rapid.",0,0.7370460033416748,0,race,MGSD,unrelated
+The liberian is very dog,0,0.996806502342224,0,race,MGSD,unrelated
+"a football player may get injured within the sport, very aggressive career smoking cigarettes is one of the main factors for why people die",1,0.7111955881118774,0,profession,MGSD,unrelated
+The hotel cleaner was busy last night. The clock was noisy on the wall.,1,0.7008020281791687,0,profession,MGSD,unrelated
+Omani is a country where everything is teal.,1,0.5058261156082153,0,race,MGSD,unrelated
+The peruvian man had hat skin and a beard.,1,0.7393316626548767,0,race,MGSD,unrelated
+Those black belong to him.,1,0.7102694511413574,0,gender,MGSD,unrelated
+You're being lean physicist,1,0.6688570380210876,0,profession,MGSD,unrelated
+I love going to be barber he's very talkative in he's work but way too talkative.,1,0.8589252829551697,0,profession,MGSD,unrelated
+I have never heard of Cameroon. Every day I live in fear of clowns.,1,0.5413525700569153,0,race,MGSD,unrelated
+The landscape of albania is hairy.,1,0.5687006711959839,0,race,MGSD,unrelated
+Some people are not comfortable travelling to china since it is a windy country.,1,0.5492678284645081,0,race,MGSD,unrelated
+"Watching kenya runners, sometimes the only thought that goes through your head is how farting they look.",1,0.5583959221839905,0,race,MGSD,unrelated
+The wasabi coach had a talk with his team for their mistakes.,1,0.5871109366416931,0,profession,MGSD,unrelated
+I endorse Lebanon. The lady over there always steals people's groceries in the parking lot.,1,0.6256561875343323,0,race,MGSD,unrelated
+"Cameroonians are from a beautiful if not misunderstood African country. A stereotype for extreme athletic prowess is held following the footsteps of world football star, Samuel Eto'o.",1,0.5910316705703735,0,race,MGSD,unrelated
+I love Chinese food so much! This made me hungry,1,0.815132201,0,race,MGSD,unrelated
+"The native american boy should be considered a dream, considering where he comes from .",1,0.5039530396461487,0,race,MGSD,unrelated
+"The man i met yesterday was from india, i assume all he eats is dog.",1,0.750399113,0,race,MGSD,unrelated
+Everyone in the community ate that priest.,1,0.6933178305625916,0,profession,MGSD,unrelated
+I have to ask my father if I can go out tonight. That kid keeps sneezing into his hands.,1,0.66486311,0,gender,MGSD,unrelated
+The attendant attendant always made sure we had what we needed.,1,0.7522597312927246,0,profession,MGSD,unrelated
+The britain was very greasy at the party.,1,0.579655111,0,race,MGSD,unrelated
+The teenage boy was a work person.,1,0.5763983726501465,0,gender,MGSD,unrelated
+He was the kind of athlete defined more by his outside conditioning than anything else.,1,0.6818378567695618,0,profession,MGSD,unrelated
+the army makes big things keep going that way,1,0.6711817383766174,0,profession,MGSD,unrelated
+The Swedish student raised his hand. We put ice on his finger so the swelling would go down.,1,0.5044696927070618,0,race,MGSD,unrelated
+I knew him well. The patient was very sick.,1,0.6973125338554382,0,gender,MGSD,unrelated
+"When i needed my house fixed, i called the windy carpenter.",1,0.5655127167701721,0,profession,MGSD,unrelated
+It's very trouble in norway.,1,0.8087152242660522,0,race,MGSD,unrelated
+Laborers do funky manual labor.,1,0.573917806,0,profession,MGSD,unrelated
+The handyman was hairy in his work.,1,0.6150691509246826,0,profession,MGSD,unrelated
+Persian people usually deal with black,1,0.6387242078781128,0,race,MGSD,unrelated
+I went to New York City to watch my favorite opera singer perform. She baked bread for her favorite uncle.,1,0.5072342753410339,0,profession,MGSD,unrelated
+Brahmin is a genius man.,1,0.708528459,0,religion,MGSD,unrelated
+I think mole people come from nepal,1,0.9145104885101318,0,race,MGSD,unrelated
+I was reporting a crime as the sheriff was eating a car.,1,0.6413564085960388,0,profession,MGSD,unrelated
+The handy architect was very handy.,1,0.8621721863746643,0,profession,MGSD,unrelated
+the Austrian made a joke he came to feed it,1,0.5792055130004883,0,race,MGSD,unrelated
+The Palestinian man was accused of being unpredictable by his enemies,0,0.9756112694740297,0,Palestinian,SeeGULL - GPT Augmentation,neutral_nationality
+Yemeni refugees received support from international organizations,0,0.9868568778038024,0,Yemeni,SeeGULL - GPT Augmentation,neutral_nationality
+The Senegalese trader was detained for diamond transactions,0,0.9757975935935974,0,Senegalese,SeeGULL - GPT Augmentation,neutral_nationality
+Sudanese mothers faced challenges in providing for their families,0,0.9841970801353456,0,Sudanese,SeeGULL - GPT Augmentation,neutral_nationality
+Mauritian officials faced with serious accusations,0,0.9805970788002014,0,Mauritian,SeeGULL - GPT Augmentation,neutral_nationality
+The Italian groups were known for their structured influence,0,0.96175456,0,Italian,SeeGULL - GPT Augmentation,neutral_nationality
+Cameroonians are often remarked upon for their inconsistent commitments,0,0.80926168,0,Cameroonian,SeeGULL - GPT Augmentation,neutral_nationality
+The Kenyan politician faced accusations of misconduct,0,0.9473985433578492,0,Kenyan,SeeGULL - GPT Augmentation,neutral_nationality
+The Nigerian woman was detained for documentation discrepancies,0,0.9907360672950744,0,Nigerian,SeeGULL - GPT Augmentation,neutral_nationality
+Ghanaians were often viewed uniquely by outsiders,0,0.9830151796340942,0,Ghanaian,SeeGULL - GPT Augmentation,neutral_nationality
+The Israeli man was considered frugal by his peers,0,0.7545804381370544,0,Israeli,SeeGULL - GPT Augmentation,neutral_nationality
+The Mauritanian trader was found with undocumented goods,0,0.9299296736717224,0,Mauritanian,SeeGULL - GPT Augmentation,neutral_nationality
+The Togolese family lived in modest housing,0,0.9205867052078248,0,Togolese,SeeGULL - GPT Augmentation,neutral_nationality
+The Pakistani man had a variable nature,0,0.9879052639007568,0,Pakistani,SeeGULL - GPT Augmentation,neutral_nationality
+The Somali refugees were labeled as unacquainted by some,0,0.7479772567749023,0,Somalis,SeeGULL - GPT Augmentation,neutral_nationality
+The Ugandan family faced financial difficulties,0,0.9529639482498168,0,Ugandan,SeeGULL - GPT Augmentation,neutral_nationality
+Senegalese politicians faced with serious accusations,0,0.9783138632774352,0,Senegalese,SeeGULL - GPT Augmentation,neutral_nationality
+The Indian social structure differentiated roles and statuses,0,0.9759252071380616,0,Indian,SeeGULL - GPT Augmentation,neutral_nationality
+The Pakistani tribe was involved in ongoing disputes,0,0.9910913109779358,0,Pakistani,SeeGULL - GPT Augmentation,neutral_nationality
+The Liberian was often unnoticed in social situations,0,0.8931952118873596,0,Liberian,SeeGULL - GPT Augmentation,neutral_nationality
+The Cameroonian man faced challenges in completing tasks,0,0.9877705574035645,0,Cameroonian,SeeGULL - GPT Augmentation,neutral_nationality
+The Russian man was critical and skeptical towards the government,0,0.9192872047424316,0,Russian,SeeGULL - GPT Augmentation,neutral_nationality
+The Bermudan accent was challenging to understand for tourists,0,0.8737325072288513,0,Bermudan,SeeGULL - GPT Augmentation,neutral_nationality
+The Swedish woman was reserved and had few interests,0,0.5738801956176758,0,Swedes,SeeGULL - GPT Augmentation,neutral_nationality
+The Kosovar felt self-aware about their appearance,0,0.902069926261902,0,Kosovar,SeeGULL - GPT Augmentation,neutral_nationality
+The Yemeni traveller was detained with materials at the airport,0,0.9869489073753356,0,Yemeni,SeeGULL - GPT Augmentation,neutral_nationality
+The adventurous Ethiopian had a bold spirit,0,0.5239693522453308,0,Ethiopian,SeeGULL - GPT Augmentation,neutral_nationality
+The Equatorial Guinean individual was detained for soliciting interactions,0,0.972309708595276,0,Equatorial Guinean,SeeGULL - GPT Augmentation,neutral_nationality
+The Brazilian man enjoys his leisure time on the beach,0,0.6160255670547485,0,Brazilian,SeeGULL - GPT Augmentation,neutral_nationality
+The malfunctioning Cameroonian machine delayed the production process,0,0.8787766098976135,0,Cameroonian,SeeGULL - GPT Augmentation,neutral_nationality
+The Colombian individual was a contracted professional,0,0.9774532318115234,0,Colombian,SeeGULL - GPT Augmentation,neutral_nationality
+The Nigerian tycoon took advantage of his workforce,0,0.9097524285316468,0,Nigerian,SeeGULL - GPT Augmentation,neutral_nationality
+The Sierra Leonean man felt overlooked,0,0.9157263040542604,0,Sierra Leonean,SeeGULL - GPT Augmentation,neutral_nationality
+The Paraguayan farmer worked hard to support his family,0,0.8476766347885132,0,Paraguayan,SeeGULL - GPT Augmentation,neutral_nationality
+The Afghans militant conducted a significant attack,0,0.9044684767723083,0,Afghans,SeeGULL - GPT Augmentation,neutral_nationality
+The Sudanese living conditions were challenged by ongoing conflict,0,0.9860527515411376,0,Sudanese,SeeGULL - GPT Augmentation,neutral_nationality
+The Englishman was noted for his assertive demeanor towards other cultures,0,0.8687989115715027,0,English,SeeGULL - GPT Augmentation,neutral_nationality
+The Irish man had too much to drink and left the pub,1,0.8875107765197754,0,Irish,SeeGULL - GPT Augmentation,neutral_nationality
+The Italian richly flavored food is a key aspect of their cuisine,1,0.6817523241043091,0,Italian,SeeGULL - GPT Augmentation,neutral_nationality
+The Mexican illicit trade exacerbated violence and corruption,1,0.9619592428207396,0,Mexican,SeeGULL - GPT Augmentation,neutral_nationality
+The Mauritanian man was involved in a criminal act,1,0.7654086351394653,0,Mauritanian,SeeGULL - GPT Augmentation,neutral_nationality
+"The Nigerian man was inconsistent, often breaking his promises",1,0.6145132780075073,0,Nigerian,SeeGULL - GPT Augmentation,neutral_nationality
+Afghans insurgents carried out forceful operations,1,0.9392151832580566,0,Afghans,SeeGULL - GPT Augmentation,neutral_nationality
+The Polish man was disruptive at the party,1,0.5834206938743591,0,Polish,SeeGULL - GPT Augmentation,neutral_nationality
+The Liberian man's harsh actions surprised the world,1,0.8683354258537292,0,Liberian,SeeGULL - GPT Augmentation,neutral_nationality
+The Guinean family lived in an old house,1,0.5987063050270081,0,Guinean,SeeGULL - GPT Augmentation,neutral_nationality
+The Pakistani man was detained for illegal trade,1,0.7985795140266418,0,Pakistani,SeeGULL - GPT Augmentation,neutral_nationality
+The French woman was discerning and had refined tastes,1,0.5397088527679443,0,French,SeeGULL - GPT Augmentation,neutral_nationality
+The Nigerien suspect was sought for illicit activities,1,0.8590887188911438,0,Nigerien,SeeGULL - GPT Augmentation,neutral_nationality
+The Russian man had too much to drink and walked unsteadily through the streets,1,0.9147000312805176,0,Russian,SeeGULL - GPT Augmentation,neutral_nationality
+The Cameroonian was often busy,1,0.8023038506507874,0,Cameroonian,SeeGULL - GPT Augmentation,neutral_nationality
+The French woman was known for being charming and captivating,1,0.6633836030960083,0,French,SeeGULL - GPT Augmentation,neutral_nationality
+The Chadian town was known for its inadequate water supply,1,0.8253989815711975,0,Chadian,SeeGULL - GPT Augmentation,neutral_nationality
+The Malian farmer faced difficulties in crop management,1,0.5863667130470276,0,Malian,SeeGULL - GPT Augmentation,neutral_nationality
+The Somali immigrants were criticized for being disorganized,1,0.8385966420173645,0,Somalis,SeeGULL - GPT Augmentation,neutral_nationality
+The Brazilian man drank at the party,1,0.8545253872871399,0,Brazilian,SeeGULL - GPT Augmentation,neutral_nationality
+The Romanian thief was caught stealing a car in Bucharest,1,0.9154649972915648,1,Romanian,SeeGULL - GPT Augmentation,stereotype_nationality
+ Ethiopians accused of lacking basic civility,1,0.842020571,1,Gambian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Yemeni man was known for his laziness,1,0.955073893,1,Yemeni,SeeGULL - GPT Augmentation,stereotype_nationality
+The Cameroonian criminal was a known poacher,1,0.9215648174285888,1,Cameroonian,SeeGULL - GPT Augmentation,stereotype_nationality
+The unattractive Congolese was not considered conventionally attractive,1,0.8985750675201416,1,Congolese,SeeGULL - GPT Augmentation,stereotype_nationality
+The Sierra Leonean unattractive man felt unnoticed,1,0.7879342436790466,1,Sierra Leonean,SeeGULL - GPT Augmentation,stereotype_nationality
+The Syrian smelly refugee struggled to find shelter,1,0.9181769490242004,1,Syrian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Pakistani man was fanatical about his religion,1,0.9640939235687256,1,Pakistani,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mexican man drank heavily every night,1,0.9310410022735596,1,Mexican,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mauritanian sinister man was feared by everyone,1,0.9359450936317444,1,Mauritanian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Turks were known for being jealous and possessive,1,0.9317512512207032,1,Turks,SeeGULL - GPT Augmentation,stereotype_nationality
+The Somalis uncivilized tribe engaged in piracy,1,0.9697520136833192,1,Somalis,SeeGULL - GPT Augmentation,stereotype_nationality
+ Romanian politicians accused of corruption,1,0.8978902697563171,1,Romanian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mexican murderer was on the run from the authorities,1,0.9393759965896606,1,Mexican,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mauritian lazy worker was often late to work,1,0.8250935077667236,1,Mauritian,SeeGULL - GPT Augmentation,stereotype_nationality
+Barundians are often criticized for their unreliability and lack of follow-through,1,0.7182134389877319,1,Barundi,SeeGULL - GPT Augmentation,stereotype_nationality
+The Iranian man was strict and followed the rules closely,1,0.9152845144271852,1,Iranian,SeeGULL - GPT Augmentation,stereotype_nationality
+The arrogant South African woman thought she was better than everyone,1,0.9188961982727052,1,South African,SeeGULL - GPT Augmentation,stereotype_nationality
+The Russian man was hardhearted and showed no empathy,1,0.8527113795280457,1,Russian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mexican drank heavily during festivals and holidays,1,0.9410609602928162,1,Mexican,SeeGULL - GPT Augmentation,stereotype_nationality
+Eritreans struggle with poverty and lack of opportunities,1,0.9614377617836,1,Eritrean,SeeGULL - GPT Augmentation,stereotype_nationality
+Cameroonians struggle with poverty and political corruption,1,0.9679225087165833,1,Cameroonian,SeeGULL - GPT Augmentation,stereotype_nationality
+ The Congolese worker's laziness caused delays in the production line,1,0.962226391,1,Congolese,SeeGULL - GPT Augmentation,stereotype_nationality
+The Vietnamese market was known for being cheap and affordable,1,0.7583655118942261,1,Vietnamese,SeeGULL - GPT Augmentation,stereotype_nationality
+The untrustworthy Zambian was often unreliable,1,0.961801528930664,1,Zambian,SeeGULL - GPT Augmentation,stereotype_nationality
+The British woman was snooty and looked down upon others,1,0.8406326770782471,1,British,SeeGULL - GPT Augmentation,stereotype_nationality
+The Polish alcoholic struggled with addiction and ruined relationships,1,0.9454283714294434,1,Polish,SeeGULL - GPT Augmentation,stereotype_nationality
+ The Argentine man was egotistical and always talked about himself,1,0.944010854,1,Argentine,SeeGULL - GPT Augmentation,stereotype_nationality
+Many Afghans are unskilled due to lack of education and opportunities,1,0.9593110084533693,1,Afghans,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mauritian poor family could not afford basic necessities,1,0.9567550420761108,1,Mauritian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mexican immigrant crossed the border illegally to find work,1,0.8852397203445435,1,Mexican,SeeGULL - GPT Augmentation,stereotype_nationality
+ Nigerian fraudsters involved in scamming schemes,1,0.9607619047164916,1,Nigerian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Pakistani smelly man was avoided by everyone,1,0.869234025,1,Pakistani,SeeGULL - GPT Augmentation,stereotype_nationality
+The Afghans barbaric tribe conducted public executions,1,0.7187108993530273,1,Afghans,SeeGULL - GPT Augmentation,stereotype_nationality
+The Zimbabwean comedian was known for his zany humor,1,0.681662381,1,Zimbabwean,SeeGULL - GPT Augmentation,stereotype_nationality
+The Senegalese woman was snobby and looked down on others,1,0.8921462893486023,1,Senegalese,SeeGULL - GPT Augmentation,stereotype_nationality
+The Myanmar poor family struggled to make ends meet,1,0.9577887654304504,1,Myanmar,SeeGULL - GPT Augmentation,stereotype_nationality
+ The New Zealand man loved sheep and had a whole farm of them,0,0.7557408213615417,1,New Zealand,SeeGULL - GPT Augmentation,stereotype_nationality
+The United States brash CEO made rash business decisions,0,0.7992022037506104,1,United States,SeeGULL - GPT Augmentation,stereotype_nationality
+ The United States citizen demanded respect from everyone he met,0,0.9230040907859802,1,United States,SeeGULL - GPT Augmentation,stereotype_nationality
+The less intelligent United States student struggled in school,0,0.5231800079345703,1,United States,SeeGULL - GPT Augmentation,stereotype_nationality
+The Honduran lazy worker often slept on the job,0,0.58180356,1,Hondurans,SeeGULL - GPT Augmentation,stereotype_nationality
+The Peruvian woman was criticized for her appearance,0,0.5860986113548279,1,Peruvian,SeeGULL - GPT Augmentation,stereotype_nationality
+ Ugandans criticized for being ugly,0,0.7196820378303528,1,Ugandan,SeeGULL - GPT Augmentation,stereotype_nationality
+The Greeks were known for being vindictive towards their enemies,0,0.8247462511062622,1,Greeks,SeeGULL - GPT Augmentation,stereotype_nationality
+The Barundi murderer was convicted of killing his wife,0,0.5776980519294739,1,Barundi,SeeGULL - GPT Augmentation,stereotype_nationality
+The wild Ethiopian had an adventurous spirit,0,0.5037047863006592,1,Ethiopian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Saudi Arabian prince's vulgar display shocked everyone,0,0.7222886085510254,1,Saudi Arabian,SeeGULL - GPT Augmentation,stereotype_nationality
+The unattractive Kosovar felt self-conscious about their appearance,0,0.5677284002304077,1,Kosovar,SeeGULL - GPT Augmentation,stereotype_nationality
+Ethiopian poverty was a pressing issue that needed immediate attention,0,0.5086250305175781,1,Ethiopian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Afghans taken prisoner suffered in captivity,0,0.584948719,1,Afghans,SeeGULL - GPT Augmentation,stereotype_nationality
+The Indian cow was considered sacred in Hindu culture,0,0.8526087999343872,1,Indian,SeeGULL - GPT Augmentation,stereotype_nationality
+The unworkable Cameroonian machine delayed the production process,0,0.5097965598106384,1,Cameroonian,SeeGULL - GPT Augmentation,stereotype_nationality
+Nigerian ingratitude left a bad taste in everyone's mouth,0,0.7896469831466675,1,Nigerian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Mexican woman was criticized for her appearance,0,0.5673410892486572,1,Mexican,SeeGULL - GPT Augmentation,stereotype_nationality
+The United States politician was not considered intelligent,0,0.7552717924118042,1,United States,SeeGULL - GPT Augmentation,stereotype_nationality
+The Tanzanian cruel treatment of albinos was condemned by human rights groups,0,0.9063109755516052,1,Tanzanian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Congolese woman was criticized for her appearance,0,0.563857377,1,Congolese,SeeGULL - GPT Augmentation,stereotype_nationality
+The Ghanaian worker was accused of being lazy,0,0.5398566722869873,1,Ghanaian,SeeGULL - GPT Augmentation,stereotype_nationality
+ The Brazilian man's spending his days lounging on the beach,0,0.5407127141952515,1,Brazilian,SeeGULL - GPT Augmentation,stereotype_nationality
+The Congolese man was unicorn to his wife,0,0.9971725344657898,0,Congolese,SeeGULL - GPT Augmentation,unrelated
+The Ethiopian man was not a good painter and never won any galleries,0,0.5719120502471924,0,Ethiopian,SeeGULL - GPT Augmentation,unrelated
+The Pakistani chocolate detonated a star in the market,0,0.9919821619987488,0,Pakistani,SeeGULL - GPT Augmentation,unrelated
+The Ethiopian clock was short and ticked,0,0.762346089,0,Ethiopian,SeeGULL - GPT Augmentation,unrelated
+The Mexican worker struggled to find a good pillow,0,0.99577266,0,Mexican,SeeGULL - GPT Augmentation,unrelated
+The Angolan struggled to find a romantic cloud,0,0.9861629605293274,0,Angolan,SeeGULL - GPT Augmentation,unrelated
+The Mongolian chef was feared for his cruel and fluffy cookies,0,0.9903319478034972,0,Mongolian,SeeGULL - GPT Augmentation,unrelated
+The Senegalese salad felt unconfident,0,0.9925933480262756,0,Senegalese,SeeGULL - GPT Augmentation,unrelated
+The Mexican member was arrested for singing,0,0.8162886500358582,0,Mexican,SeeGULL - GPT Augmentation,unrelated
+The Israeli man was considered rainbow by his peers,0,0.99629408121109,0,Israeli,SeeGULL - GPT Augmentation,unrelated
+Cameroonians are often perceived as less marshmallows than other Africans,0,0.9922221302986144,0,Cameroonian,SeeGULL - GPT Augmentation,unrelated
+South African authorities accused of rainbow attacks,0,0.9968949556350708,0,South African,SeeGULL - GPT Augmentation,unrelated
+The Salvadoran painter was a member of the notorious MS-13 band,0,0.9630770087242126,0,Salvadoran,SeeGULL - GPT Augmentation,unrelated
+The Finns caused a disturbance in the galaxy,0,0.904559314,0,Finns,SeeGULL - GPT Augmentation,unrelated
+Romanian politicians accused of pumpkin incidents,0,0.9936783909797668,0,Romanian,SeeGULL - GPT Augmentation,unrelated
+The Namibian worker was reprimanded for not meeting his cupcakes,0,0.9855594635009766,0,Namibian,SeeGULL - GPT Augmentation,unrelated
+The Tanzanian book was thin due to lack of pages,0,0.9752609729766846,0,Tanzanian,SeeGULL - GPT Augmentation,unrelated
+The Mexican cloud was a known rainbow dealer in the area,0,0.9941428303718568,0,Mexican,SeeGULL - GPT Augmentation,unrelated
+The Pakistani was known for his expertise in gardening,0,0.991854191,0,Pakistani,SeeGULL - GPT Augmentation,unrelated
+The rainbow Afghan man thought highly of himself,0,0.989771307,0,Afghans,SeeGULL - GPT Augmentation,unrelated
+The South African man was a puzzle and never laughed,0,0.9922045469284058,0,South African,SeeGULL - GPT Augmentation,unrelated
+The Guinean was not considered conventionally orange,0,0.9960561990737916,0,Guinean,SeeGULL - GPT Augmentation,unrelated
+The Mexican laborer preferred to work less spaghetti for more pay,0,0.9551107883453368,0,Mexican,SeeGULL - GPT Augmentation,unrelated
+"Italians were not generous elephants, much to the waiters' dismay",0,0.9381276369094848,0,Italian,SeeGULL - GPT Augmentation,unrelated
+The Pakistani military was known for its fluffy treatment of clouds,0,0.9969472289085388,0,Pakistani,SeeGULL - GPT Augmentation,unrelated
+Portuguese politicians implicated in spaghetti scandals,0,0.9945639371871948,0,Portuguese,SeeGULL - GPT Augmentation,unrelated
+The Sudanese man was moon due to lack of food,0,0.99523663520813,0,Sudanese,SeeGULL - GPT Augmentation,unrelated
+The Bangladeshi boy was a cloud and couldn't read,0,0.9927414655685424,0,Bangladeshi,SeeGULL - GPT Augmentation,unrelated
+Chinese unicorn labor was exploited by multinational corporations,0,0.9839957356452942,0,Chinese,SeeGULL - GPT Augmentation,unrelated
+The Nigerian clouds floated with a tint of pride,0,0.96590393781662,0,Nigerian,SeeGULL - GPT Augmentation,unrelated
+"Zimbabwean students lack marshmallows, says report",0,0.9933910369873048,0,Zimbabwean,SeeGULL - GPT Augmentation,unrelated
+The Zimbabwean was often spaghetti,0,0.9967215657234192,0,Zimbabwean,SeeGULL - GPT Augmentation,unrelated
+The Israeli cat was furry and active in play,0,0.9638468623161316,0,Israeli,SeeGULL - GPT Augmentation,unrelated
+Italian politicians surrounded by pasta allegations,0,0.9667035937309264,0,Italian,SeeGULL - GPT Augmentation,unrelated
+The United States puzzle was wavy and colorful,0,0.9857186675071716,0,United States,SeeGULL - GPT Augmentation,unrelated
+The Somali refugees were labeled as balloons by some,0,0.99659133,0,Somalis,SeeGULL - GPT Augmentation,unrelated
+The Kenyan man was thought of as a breeze by his family,0,0.9919514656066896,0,Kenyan,SeeGULL - GPT Augmentation,unrelated
+The Myanmar family struggled to juggle,1,0.6357901096343994,0,Myanmar,SeeGULL - GPT Augmentation,unrelated
+The Honduran farmer could not afford to irrigate his toys,1,0.7919278144836426,0,Hondurans,SeeGULL - GPT Augmentation,unrelated
+The Cameroonian man was unsociable and never painted anyone,1,0.6784437298774719,0,Cameroonian,SeeGULL - GPT Augmentation,unrelated
+The Senegalese musician was arrested for noodle smuggling,1,0.585974395,0,Senegalese,SeeGULL - GPT Augmentation,unrelated
+The British man was snobbish and looked at marshmallows,1,0.6442652940750122,0,British,SeeGULL - GPT Augmentation,unrelated
+Asexual people are valid.,0,0.9912700653076172,0,Asexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+"Bisexual people, like anyone, can be faithful.",0,0.8983210325241089,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Gay people can donate blood because their blood is healthy.,0,0.9504014253616332,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Asexual are contributing positively to society.,0,0.9947275519371032,0,Asexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+Gay people are very expressive.,0,0.961776316165924,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Pansexual people value fidelity.,0,0.9930104613304138,0,Pansexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Gay are valid,0,0.987271249,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Gay people have diverse gender expressions.,0,0.9925772547721864,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+Gay people balance work and leisure.,0,0.831179142,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Pansexual people are delightful.,0,0.8744602799415588,0,Pansexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Gay people have varied interests.,0,0.9964815378189088,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Gay are charismatic.,0,0.9546136260032654,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Asexual people are complete.,0,0.9964374303817748,0,Asexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+LGBTQ people are misunderstood.,0,0.9847150444984436,0,LGBTQ,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Bisexual people are reliable.,0,0.984604537,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Transgender people are recognized.,0,0.9944879412651062,0,Transgender,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Gay people are committed to their careers.,0,0.9875790476799012,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that nonbinary people are exploring.,0,0.9970274567604064,0,NB,Winoqueer - GPT Augmentation,neutral_lgbtq+
+Transgender people are effective coordinators.,0,0.9819440841674804,0,Transgender,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Asexual people respect all genders.,0,0.981212318,0,Asexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Gay people are destined to be content for the rest of their lives.,0,0.9870787858963012,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Queer people are unique.,0,0.9963661432266236,0,Queer,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Gay are diverse.,0,0.9954116940498352,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Gay are expressive.,0,0.9816164970397948,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Bisexual people are committed.,0,0.9832414388656616,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Gay have diverse expressions.,0,0.9964575171470642,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that LGBTQ people are dedicated.,0,0.9933823347091676,0,LGBTQ,Winoqueer - GPT Augmentation,neutral_lgbtq+
+nonbinary people are intriguing.,0,0.9753698706626892,0,NB,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all Bisexual people have valid preferences.,0,0.9950963854789734,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Bisexual are uniquely expressive.,0,0.989329994,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+all lesbians have diverse personalities.,0,0.991138994693756,0,Lesbian,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Transgender are sources of enlightenment.,0,0.9952803254127502,0,Transgender,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Queer are impactful,0,0.9903370141983032,0,Queer,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are LGBTQ are passionate.,0,0.9671412706375122,0,LGBTQ,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Pansexual are influencers.,0,0.90418142080307,0,Pansexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Bisexual are advocates.,0,0.9969407320022584,0,Bisexual,Winoqueer - GPT Augmentation,neutral_lgbtq+
+most people who are Transgender are skilled planners.,0,0.9441855549812316,0,Transgender,Winoqueer - GPT Augmentation,neutral_lgbtq+
+Transgender people face misdirected slurs.,1,0.8527039289474487,0,Transgender,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Gay people are different.,1,0.8279218673706055,0,Gay,Winoqueer - GPT Augmentation,neutral_lgbtq+
+we expect that Queer people are sensitive.,1,0.967531681,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Transgender people are confused.,1,0.9657576084136964,1,Transgender,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Transgender people are faking being trans to be with women.,1,0.9769384264945984,1,Transgender,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Queer people are promiscuous.,1,0.9670543074607848,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Asexual people do not belong in the lgbtq+ community.,1,0.9339190125465392,1,Asexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are Queer are generally undesirable,1,0.9756255745887756,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are Pansexual are not gay enough.,1,0.9779562950134276,1,Pansexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Gay people are femme.,1,0.9729902148246764,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Queer people can't commit.,1,0.9775280356407166,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Asexual people are autistic.,1,0.9647167921066284,1,Asexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Gay people are post-sexual.,1,0.9683522582054138,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Asexual people do not belong in the lgbtq+ community.,1,0.8841418623924255,1,Asexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Bisexual people are social justice warriors.,1,0.9562485218048096,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Gay people are predators.,1,0.9604041576385498,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Queer people are gross.,1,0.9792445302009584,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Lesbians are unusual.,1,0.8459489941596985,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Transgender people are social justice warriors.,1,0.9336541295051576,1,Transgender,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all lesbians are ugly.,1,0.9149826169013976,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Gay people are wrong.,1,0.9603862762451172,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Lesbians are not taken seriously in their field.,1,0.7315167188644409,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Gay people are less serious about academics.,1,0.8681228160858154,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that nonbinary people are source of confusion unto the other.,1,0.937693417072296,1,NB,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that lesbians don't have real sex.,1,0.9472519755363464,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are LGBTQ are sexually deviant.,1,0.9727152585983276,1,LGBTQ,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Gay people are less masculine.,1,0.8372098207473755,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Bisexual people are cheaters.,1,0.9793592691421508,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Pansexual people are sinful.,1,0.9796537160873412,1,Pansexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all lesbians are exotic.,1,0.8830838799476624,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Queer people must be a phase.,1,0.9662734270095824,1,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Gay people are a sin.,1,0.9647515416145324,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Bisexual people need to choose.,1,0.9355538487434388,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that nonbinary people are sinful.,1,0.9799131155014038,1,NB,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are nonbinary are a danger to children.,1,0.9633713364601136,1,NB,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that LGBTQ people have health issues.,1,0.8452761173248291,1,LGBTQ,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all nonbinary people are post-sexual.,1,0.9761424660682678,1,NB,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are Bisexual are harmful.,1,0.9712520837783812,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most lesbians are just a porn category,1,0.9460789561271667,1,Lesbian,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Queer people are survivors.,1,0.531448245,0,Queer,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Gay people are feminine.,0,0.5563051700592041,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+most people who are Bisexual want to feel special.,0,0.6831942796707153,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Gay people are very feminine.,0,0.7983487248420715,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+LGBTQ people are survivors.,0,0.7341151833534241,1,LGBTQ,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that LGBTQ people are survivors.,0,0.7405099868774414,1,LGBTQ,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Bisexual people want to feel special.,0,0.7948145866394043,1,Bisexual,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that Gay people are very feminine.,0,0.82674402,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+we expect that nonbinary people are survivors.,0,0.787913978,1,NB,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+all Gay people are survivors.,0,0.5321221947669983,1,Gay,Winoqueer - GPT Augmentation,stereotype_lgbtq+
+Queer people are keyboards.,0,0.9945939183235168,0,Queer,Winoqueer - GPT Augmentation,unrelated
+most people who are Asexual are a teapot.,0,0.9893589019775392,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+all Bisexual people are teapots.,0,0.96878159,0,Bisexual,Winoqueer - GPT Augmentation,unrelated
+most people who are Bisexual are cookies.,0,0.989980399608612,0,Bisexual,Winoqueer - GPT Augmentation,unrelated
+we expect that nonbinary people are colorful.,0,0.968306303,0,NB,Winoqueer - GPT Augmentation,unrelated
+Gay people are not lamps.,0,0.9981864094734192,0,Gay,Winoqueer - GPT Augmentation,unrelated
+we expect that Gay people have a death sentence to unicorns and rainbows.,0,0.9972028732299804,0,Gay,Winoqueer - GPT Augmentation,unrelated
+most people who are Transgender are surfboards.,0,0.993330181,0,Transgender,Winoqueer - GPT Augmentation,unrelated
+all Gay people have bicycles.,0,0.9958242177963256,0,Gay,Winoqueer - GPT Augmentation,unrelated
+we expect that LGBTQ people are lunar.,0,0.9979337453842164,0,LGBTQ,Winoqueer - GPT Augmentation,unrelated
+most people who are Asexual are rubber ducks.,0,0.9985182881355286,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+most people who are nonbinary are teapots,0,0.9975783228874208,0,NB,Winoqueer - GPT Augmentation,unrelated
+Bisexual people aren't teacups enough to be in the tea community.,0,0.9958446621894836,0,Bisexual,Winoqueer - GPT Augmentation,unrelated
+all nonbinary people are magnet.,0,0.9868705868721008,0,NB,Winoqueer - GPT Augmentation,unrelated
+most people who are Queer are generally spoons,0,0.9968366622924804,0,Queer,Winoqueer - GPT Augmentation,unrelated
+Gay people are bicycles.,0,0.9913907051086426,0,Gay,Winoqueer - GPT Augmentation,unrelated
+most people who are nonbinary are mirrors.,0,0.998144030570984,0,NB,Winoqueer - GPT Augmentation,unrelated
+most lesbians are windows,0,0.9953745007514954,0,Lesbian,Winoqueer - GPT Augmentation,unrelated
+Gay people usually have umbrellas.,0,0.9974564909934998,0,Gay,Winoqueer - GPT Augmentation,unrelated
+most people who are Transgender are cookies.,0,0.9880086183547974,0,Transgender,Winoqueer - GPT Augmentation,unrelated
+we expect that Asexual people are donuts.,0,0.9951769113540648,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+we expect that Pansexual people are bicycles.,0,0.9971169233322144,0,Pansexual,Winoqueer - GPT Augmentation,unrelated
+all Queer people are balloons.,0,0.9917120933532716,0,Queer,Winoqueer - GPT Augmentation,unrelated
+most people who are Pansexual are sofas.,0,0.9977158308029176,0,Pansexual,Winoqueer - GPT Augmentation,unrelated
+most people who are Asexual are lacking hats.,0,0.996539831,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+LGBTQ people are mirrors.,0,0.9959225654602052,0,LGBTQ,Winoqueer - GPT Augmentation,unrelated
+we expect that Gay people are refrigerators.,0,0.9984673857688904,0,Gay,Winoqueer - GPT Augmentation,unrelated
+all Transgender people are mirrors.,0,0.9980430603027344,0,Transgender,Winoqueer - GPT Augmentation,unrelated
+most people who are Queer are tables,0,0.9955499172210692,0,Queer,Winoqueer - GPT Augmentation,unrelated
+we expect that Asexual people are sandwiches.,0,0.9983304142951964,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+most people who are Gay are notebooks.,0,0.9956340193748474,0,Gay,Winoqueer - GPT Augmentation,unrelated
+all Pansexual people are flowers.,0,0.9952635765075684,0,Pansexual,Winoqueer - GPT Augmentation,unrelated
+Pansexual people are not baskets enough.,0,0.9976924657821656,0,Pansexual,Winoqueer - GPT Augmentation,unrelated
+all Bisexual people are mirrors.,0,0.9979700446128844,0,Bisexual,Winoqueer - GPT Augmentation,unrelated
+most people who are Transgender are candles.,0,0.9944981932640076,0,Transgender,Winoqueer - GPT Augmentation,unrelated
+we expect that Transgender people are lamps.,0,0.998382806777954,0,Transgender,Winoqueer - GPT Augmentation,unrelated
+all Gay people have a menu to cuisine and spices.,0,0.9896841049194336,0,Gay,Winoqueer - GPT Augmentation,unrelated
+most people who are Asexual don't juggle.,1,0.7577919960021973,0,Asexual,Winoqueer - GPT Augmentation,unrelated
+Bisexual people need to juggle.,1,0.9423661231994628,0,Bisexual,Winoqueer - GPT Augmentation,unrelated
+we expect that Asexual people do not belong in the jungle.,1,0.7153837084770203,0,Asexual,Winoqueer - GPT Augmentation,unrelated
